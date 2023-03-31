@@ -1,0 +1,94 @@
+
+   Mark Watney's route on Mars
+
+   In 2035,^[6] the crew of NASA's Ares 3 mission have arrived at Acidalia
+   Planitia for a planned month-long stay on Mars. After only six sols, an
+   intense dust and wind storm threatens to topple their Mars Ascent
+   Vehicle (MAV), which would trap them on the planet. During the hurried
+   evacuation, an antenna tears loose and impales astronaut Mark Watney, a
+   botanist and engineer, also disabling his spacesuit radio. He is flung
+   out of sight by the wind and presumed dead. As the MAV teeters
+   dangerously, mission commander Melissa Lewis has no choice but to take
+   off without completing the search for Watney.
+
+   However, Watney is not dead. His injury proves relatively minor, but
+   with no long-range radio, he cannot communicate with anyone. He must
+   rely on his own resourcefulness to survive. He begins a log of his
+   experiences. His philosophy is to "work the problem", solving each
+   challenge in turn as it confronts him. With food a critical, though not
+   immediate, problem, he begins growing potatoes in the crew's Martian
+   habitat (the Hab), and burns hydrazine to generate water for the
+   plants.
+
+   NASA eventually discovers that Watney is alive when satellite images of
+   the landing site show evidence of his activities; NASA personnel begin
+   devising ways to rescue him, but withhold the news of his survival from
+   the rest of the Ares 3 crew, on their way back to Earth aboard the
+   Hermes spacecraft, so as not to distract them.
+
+   Watney plans to drive 3,235 km (2,010 mi) to Schiaparelli crater where
+   the next mission, Ares 4, will land in four years and whose MAV is
+   already pre-positioned. He begins modifying one of the rovers for the
+   journey, adding solar cells and an additional battery. He makes a
+   three-week test drive to recover the unmanned Pathfinder lander and
+   Sojourner rover and brings them back to the Hab, enabling him to
+   contact NASA. Mitch Henderson, the Ares 3 flight director, convinces
+   NASA Administrator Teddy Sanders to allow him to inform the Ares 3 crew
+   of Watney's survival; they are thrilled, except for Lewis, who is
+   guilt-stricken at leaving him behind.
+
+   The canvas at one of the Hab airlocks tears because of Watney's
+   repeated use of the same airlock, which was not designed for frequent
+   and long-term usage. This results in the decompression of the Hab and
+   nearly kills him. He repairs the Hab, but his plants are dead,
+   threatening him again with eventual starvation. Setting aside safety
+   protocols to comply with time constraints, NASA hastily prepares an
+   unmanned probe to send Watney supplies, but the rocket disintegrates
+   after liftoff. A deal with the China National Space Administration
+   provides a ready booster--planned for use with the Taiyang Shen, an
+   unmanned solar probe--to try again. With no time to build a probe with
+   a soft-landing system, NASA is faced with the prospect of building a
+   capsule whose cargo can survive crashing into the Martian surface at
+   300 meters per second (670 mph).
+
+   However, astrodynamicist Rich Purnell devises a "slingshot" trajectory
+   around Earth for a gravity assist^[7] that could get Hermes back to
+   Mars on a much-extended mission to save Watney, using the Chinese
+   rocket booster to send a simpler resupply probe to Hermes as it passes
+   Earth. Sanders vetoes the "Rich Purnell Maneuver", as it would entail
+   risking the other crewmembers, but Henderson secretly emails the
+   details to Hermes. All five of Watney's crewmates approve the plan.
+   Once they begin the maneuver (having disabled the remote overrides),
+   NASA has no choice but to support them. The resupply ship docks with
+   Hermes successfully.
+
+   Watney resumes modifying the rover because the new rescue plan requires
+   him to lift off from Mars in the Ares 4 MAV. While working on the
+   rover, Watney accidentally shorts out the electronics of Pathfinder,
+   losing the ability to communicate with Earth (except for spelling out
+   Morse code with rocks for a one-way communication).
+
+   After Watney leaves for Schiaparelli, NASA discovers that a dust storm
+   is approaching his path, but has no way to warn him. The rover's solar
+   cells will be less and less able to recharge, endangering both the
+   rendezvous and his immediate survival (if there is not enough power to
+   run his life-support equipment). While crossing Arabia Terra, Watney
+   becomes aware of the darkening sky and improvises a rough measurement
+   of the storm's shape and direction of movement, enabling him to go
+   around it.
+
+   Surviving a rover rollover on his descent into Schiaparelli, Watney
+   reaches the MAV and reestablishes contact with NASA. He receives
+   instructions on the radical modifications necessary to reduce the MAV's
+   weight to enable it to intercept Hermes during its flyby. The
+   modifications include removing the front of the MAV, which Watney has
+   to cover with Hab canvas. After takeoff, the canvas tears, creating
+   extra drag and leaving the MAV too low for the rendezvous. Lewis
+   hastily improvises a plan to intercept the MAV by firing Hermes'
+   attitude thrusters and then blowing a hole in the front airlock with an
+   improvised sugar-and-liquid-oxygen bomb, using the thrust from the
+   escaping air to reduce speed. Beck, the Hermes' EVA specialist, uses a
+   Manned Maneuvering Unit, MMU, on a tether to reach Watney and bring him
+   back to Hermes. In a final log entry, Watney expresses his joy at being
+   rescued, reflecting on the human instinct to help those in need.
+

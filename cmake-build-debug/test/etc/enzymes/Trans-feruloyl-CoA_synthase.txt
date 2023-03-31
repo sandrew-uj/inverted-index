@@ -1,0 +1,12 @@
+   In enzymology, a trans-feruloyl-CoA synthase (EC 6.2.1.34) is an enzyme
+   that catalyzes the chemical reaction
+          ferulic acid + CoASH + ATP
+           trans-feruloyl-CoA + products of ATP
+          breakdown
+   The 3 substrates of this enzyme are ferulic acid, CoASH, and ATP,
+   whereas its two products are trans-feruloyl-CoA and products of ATP
+   breakdown.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is trans-ferulate:CoASH ligase (ATP-hydrolysing).
+   This enzyme is also called trans-feruloyl-CoA synthetase.

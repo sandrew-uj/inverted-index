@@ -1,0 +1,26 @@
+   A phospholipase is an enzyme that hydrolyzes phospholipids into
+   fatty acids and other lipophilic substances. Acids trigger the release
+   of bound calcium from cellular stores and the consequent increase in
+   free cytosolic Ca^2+, an essential step in calcium signaling to
+   regulate intracellular processes. There are four major classes,
+   termed A, B, C, and D, which are distinguished by the type of reaction
+   which they catalyze:
+     * Phospholipase A
+          + Phospholipase A1 - cleaves the sn-1 acyl chain (where sn
+            refers to stereospecific numbering).
+          + Phospholipase A2 - cleaves the sn-2 acyl chain, releasing
+            arachidonic acid.
+     * Phospholipase B - cleaves both sn-1 and sn-2 acyl chains; this
+       enzyme is also known as a lysophospholipase.
+     * Phospholipase C - cleaves before the phosphate, releasing
+       diacylglycerol and a phosphate-containing head group. PLCs play a
+       central role in signal transduction, releasing the second messenger
+       inositol triphosphate.
+     * Phospholipase D - cleaves after the phosphate, releasing
+       phosphatidic acid and an alcohol.
+   Types C and D are considered phosphodiesterases.
+   Endothelial lipase is primarily a phospholipase.
+   Phospholipase A2 acts on the intact lecithin molecule and hydrolyzes
+   the fatty acid esterified to the second carbon atom. The resulting
+   products are lysolecithin and a fatty acid. Phospholipase A2 is an
+   enzyme present in the venom of bees and viper snakes.

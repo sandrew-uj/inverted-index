@@ -1,0 +1,123 @@
+
+   The story begins in May 1863, at the Lidenbrock house in Hamburg,
+   Germany. Professor Otto Lidenbrock dashes home to peruse his latest
+   antiquarian purchase, an original runic manuscript of an Icelandic saga
+   written by Snorre Sturluson, "Heimskringla", a chronicle of the
+   Norwegian kings who ruled over Iceland. While leafing through the book,
+   Lidenbrock and his nephew Axel find a coded note written in runic
+   script along with the name of a 16th century Icelandic alchemist, Arne
+   Saknussemm. (This novel was Verne's first to showcase his love of
+   cryptography; coded, cryptic, or incomplete messages would appear as
+   plot devices in many of his works, and Verne would take pains to
+   explain not only the code itself but also the mechanisms for retrieving
+   the original text.) Lidenbrock and Axel transliterate the runic
+   characters into Latin letters, revealing a message written in a
+   seemingly bizarre code. Lidenbrock deduces that the message is a
+   transposition cipher, but achieves results no more meaningful than the
+   baffling original.
+
+   Professor Lidenbrock locks everyone in the house and forces himself and
+   Axel to go without food until he cracks the code. Axel discovers the
+   answer when fanning himself with the deciphered text: Lidenbrock's
+   deciphering was correct but simply needed to be read backward in order
+   to reveal a paragraph written in rough Latin.^[a] Axel tries to hide
+   his discovery from Lidenbrock, afraid of the professor's maniacal
+   reactions, but after two days without food, he knuckles under and
+   reveals the secret to his uncle. Lidenbrock translates the paragraph, a
+   16th century note written by Saknussemm, who claims to have discovered
+   a passage to the center of the earth via the crater of Snaefellsjoekull
+   in Iceland. In what Axel calls bastardized Latin, the deciphered
+   message reads:
+   The Runic cryptogram
+
+     In Sneffels Yokulis craterem kem delibat umbra Scartaris Julii intra
+     calendas descende, audas viator, et terrestre centrum attinges. Kod
+     feci. Arne Saknussemm.
+
+   which, when translated into English, reads:
+
+     Go down into the crater of Snaefells Joekull, which Scartaris's
+     shadow caresses just before the calends of July, O daring traveler,
+     and you'll make it to the center of the earth. I've done so. Arne
+     Saknussemm
+
+   Snaefellsjoekull
+
+   A man of astonishing impatience, Lidenbrock departs for Iceland
+   immediately, taking the reluctant Axel with him. The latter repeatedly
+   tries to reason with his uncle, describing the dangers of descending
+   into a volcano that could very possibly reactivate, then putting
+   forward several accepted scientific theories as to why the journey is
+   flatly impossible. The professor ignores Axel's arguments, and after a
+   swift trip via Kiel and Copenhagen, they arrive in Reykjavik. There
+   they hire as their guide Icelander Hans Bjelke, a Danish-speaking
+   eiderduck hunter, then travel overland to the base of Snaefellsjoekull.
+
+   In late June they reach the volcano, which has three craters. According
+   to Saknussemm's message, the route to the earth's center is via the
+   crater that's touched by the noontime shadow of a nearby mountain peak,
+   Scartaris, just before the end of June. But at that point the weather
+   proves too cloudy for any shadows, and Axel hopes this will force his
+   uncle to abandon the project and go home. Alas for Axel, the sun
+   finally comes out, and Scartaris's shadow indicates the correct crater.
+
+   Reaching the bottom of the crater, the three travelers set off into the
+   bowels of the earth, encountering many dangers and strange phenomena.
+   After taking a wrong turn, they run short of water and Axel nearly
+   perishes, but Hans saves them all by tapping into a subterranean river,
+   which shoots out a stream of water that Lidenbrock and Axel name the
+   "Hansbach" in the guide's honor. Later on, Axel becomes separated from
+   his companions and gets lost deep in the earth. Luckily an odd acoustic
+   phenomenon allows him to communicate with the others from a distance,
+   and they are soon reunited.
+   Edouard Riou's illustration of an ichthyosaurus battling a
+   plesiosaurus.
+
+   Following the course of the Hansbach, the explorers descend many miles
+   and reach a cavern of colossal size. It's a genuine underground world
+   that's lit by electrically charged gas near its ceiling, is filled by a
+   deep subterranean ocean, and surrounded by a rocky coastline that's
+   covered with petrified tree trunks, the fossils of prehistoric mammals,
+   and gigantic living mushrooms. The travelers build a raft out of
+   semipetrified wood and set sail. The professor names the ocean the
+   "Lidenbrock Sea" and their takeoff point "Port Graeuben", after his
+   goddaughter back home (whom Axel will marry at the novel's end). While
+   at sea they encounter the prehistoric fish Pterichthys from the
+   Devonian Period and giant marine reptiles from the age of dinosaurs,
+   including an Ichthyosaurus, which battles and defeats a Plesiosaurus.
+   After the conflict between these monsters, the party reaches an islet
+   with a huge geyser, which Lidenbrock names "Axel Island".
+
+   A lightning storm threatens to destroy the raft and its passengers, but
+   instead surprises them by apparently throwing them back onto the very
+   coastline they'd previously left. But this section of coast, Axel
+   discovers, is the site of an enormous fossil graveyard, including bones
+   from the pterodactyl, Megatherium, and mastodon, plus the preserved
+   body of a man. Nephew and uncle then venture into a forest featuring
+   primitive vegetation from the Tertiary Period; in its depths they are
+   stunned to find a prehistoric humanoid more than twelve feet in height
+   and watching over a herd of mastodons. Axel isn't sure he has actually
+   seen the creature or not, and he argues with Lidenbrock over whether
+   it's a manlike ape or an apelike man. In any case, fearing it may be
+   hostile, they quickly leave the forest.
+
+   Continuing to explore the coastline, the travelers find a passageway
+   marked by Saknussemm as the way ahead, but unfortunately it has been
+   blocked by a recent cave-in. The adventurers lay plans to blow the rock
+   open with gun cotton, meanwhile paddling their raft out to sea to avoid
+   the blast. On executing this scheme, however, they find a seemingly
+   bottomless pit beyond the impeding rock and are swept into it as the
+   sea rushes down the huge open gap. After spending hours descending at
+   breakneck speed, their raft reverses direction and rises inside a
+   volcanic chimney that ultimately spews them into the open air. When
+   they regain consciousness, they learn that they've been ejected from
+   Stromboli, a volcanic island located off Sicily.
+
+   The trio returns to Germany, where Axel and Lidenbrock deduce that the
+   electric storm at sea had reversed the poles of their compass -- in
+   actuality they hadn't been driven backward but forward to a new shore
+   notable for containing gigantic hominids. At home in Hamburg again,
+   they enjoy great acclaim; Professor Lidenbrock is hailed as one of the
+   great scientists of the day, Axel marries his sweetheart Gretchen, and
+   Hans returns to his peaceful, eiderdown-hunting life in Iceland.
+

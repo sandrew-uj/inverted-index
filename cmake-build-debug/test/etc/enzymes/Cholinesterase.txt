@@ -1,0 +1,15 @@
+   In biochemistry, a cholinesterase or choline esterase is a family of
+   esterases that lyses choline-based esters, several of which serve as
+   neurotransmitters. Thus, it is either of two enzymes that catalyze
+   the hydrolysis of these cholinergic neurotransmitters, such as breaking
+   acetylcholine into choline and acetic acid. These reactions are
+   necessary to allow a cholinergic neuron to return to its resting state
+   after activation. For example, in muscle contraction, acetylcholine at
+   a neuromuscular junction triggers a contraction; but for the muscle to
+   relax afterward, rather than remaining locked in a tense state, the
+   acetylcholine must be broken down by a choline esterase. The main type
+   for that purpose is acetylcholinesterase (also called choline esterase
+   I or erythrocyte cholinesterase); it is found mainly in chemical
+   synapses and red blood cell membranes. The other type is
+   butyrylcholinesterase (also called choline esterase II or plasma
+   cholinesterase); it is found mainly in the blood plasma.

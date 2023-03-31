@@ -1,0 +1,13 @@
+   Superoxide dismutase (SOD, EC 1.15.1.1) is an enzyme that alternately
+   catalyzes the dismutation (or partitioning) of the superoxide (O^-
+   [2]) radical into ordinary molecular oxygen (O[2]) and hydrogen
+   peroxide (H^
+   [2]O^
+   [2]). Superoxide is produced as a by-product of oxygen metabolism and,
+   if not regulated, causes many types of cell damage. Hydrogen
+   peroxide is also damaging and is degraded by other enzymes such as
+   catalase. Thus, SOD is an important antioxidant defense in nearly all
+   living cells exposed to oxygen. One exception is Lactobacillus
+   plantarum and related lactobacilli, which use a different mechanism to
+   prevent damage from reactive O^-
+   [2].

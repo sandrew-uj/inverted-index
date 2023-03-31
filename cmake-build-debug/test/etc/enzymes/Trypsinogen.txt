@@ -1,0 +1,23 @@
+   CAPTION: Trypsinogen
+   Identifiers
+   CAS Number
+     * 9002-08-8
+   MeSH D08.622.885
+   PubChem CID
+     * 92043572
+   Properties
+   Chemical formula
+   C[39]H[55]N[9]O[17]
+   Molar mass 921.915 g.mol^-1
+   Except where otherwise noted, data are given for materials in their
+   standard state (at 25 DEGC [77 DEGF], 100 kPa).
+   Infobox references
+   Chemical compound
+   Trypsinogen (/trIp|sIn@dZ@n, -dZEn/) is the precursor form (or
+   zymogen) of trypsin, a digestive enzyme. It is produced by the pancreas
+   and found in pancreatic juice, along with amylase, lipase, and
+   chymotrypsinogen. It is cleaved to its active form, trypsin, by
+   enteropeptidase, which is found in the intestinal mucosa. Once
+   activated, the trypsin can cleave more trypsinogen into trypsin, a
+   process called autoactivation. Trypsin cleaves the peptide bond on the
+   carboxyl side of basic amino acids such as arginine and lysine.

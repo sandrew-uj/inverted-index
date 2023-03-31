@@ -1,0 +1,28 @@
+   Phenylalanine ammonia lyase (EC 4.3.1.24) is an enzyme that catalyzes a
+   reaction converting L-phenylalanine to ammonia and trans-cinnamic
+   acid. Phenylalanine ammonia lyase (PAL) is the first and committed
+   step in the phenyl propanoid pathway and is therefore involved in the
+   biosynthesis of the polyphenol compounds such as flavonoids,
+   phenylpropanoids, and lignin in plants. Phenylalanine ammonia
+   lyase is found widely in plants, as well as some bacteria, yeast, and
+   fungi, with isoenzymes existing within many different species. It has a
+   molecular mass in the range of 270-330 kDa. The activity of PAL
+   is induced dramatically in response to various stimuli such as tissue
+   wounding, pathogenic attack, light, low temperatures, and
+   hormones. PAL has recently been studied for possible
+   therapeutic benefits in humans afflicted with phenylketonuria. It
+   has also been used in the generation of L-phenylalanine as precursor of
+   the sweetener aspartame.
+   The enzyme is a member of the ammonia lyase family, which cleaves
+   carbon-nitrogen bonds. Like other lyases, PAL requires only one
+   substrate for the forward reaction, but two for the reverse. It is
+   thought to be mechanistically similar to the related enzyme histidine
+   ammonia-lyase (EC:4.3.1.3, HAL). The systematic name of this enzyme
+   class is L-phenylalanine ammonia-lyase (trans-cinnamate-forming).
+   Previously, it was designated EC 4.3.1.5, but that class has been
+   redesignated as EC 4.3.1.24 (phenylalanine ammonia-lyases), EC 4.3.1.25
+   (tyrosine ammonia-lyases), and EC 4.3.1.26 (phenylalanine/tyrosine
+   ammonia-lyases). Other names in common use include tyrase,
+   phenylalanine deaminase, tyrosine ammonia-lyase, L-tyrosine
+   ammonia-lyase, phenylalanine ammonium-lyase, PAL, and L-phenylalanine
+   ammonia-lyase.

@@ -1,0 +1,166 @@
+   HMGCR
+   Protein HMGCR PDB 1dq8.png
+   Available structures
+   PDB Ortholog search: PDBe RCSB
+   List of PDB id codes
+   1DQ8, 1DQ9, 1DQA, 1HW8, 1HW9, 1HWI, 1HWJ, 1HWK, 1HWL, 2Q1L, 2Q6B, 2Q6C,
+   2R4F, 3BGL, 3CCT, 3CCW, 3CCZ, 3CD0, 3CD5, 3CD7, 3CDA, 3CDB
+   Identifiers
+   Aliases HMGCR, HMG-CoA reductase, Entrez 3156, LDLCQ3,
+   3-hydroxy-3-methylglutaryl-CoA reductase, Hydroxymethylglutaryl-CoA
+   reductase
+   External IDs OMIM: 142910 MGI: 96159 HomoloGene: 30994 GeneCards: HMGCR
+         Gene location (Human)
+   Chromosome 5 (human)
+   Chr. Chromosome 5 (human)
+   Chromosome 5 (human)
+   Genomic location for HMGCR
+   Genomic location for HMGCR
+   Band 5q13.3 Start 75,336,329 bp
+                End  75,364,001 bp
+               Gene location (Mouse)
+   Chromosome 13 (mouse)
+   Chr. Chromosome 13 (mouse)
+   Chromosome 13 (mouse)
+   Genomic location for HMGCR
+   Genomic location for HMGCR
+   Band 13 D1|13 50.65 cM Start 96,648,967 bp
+                           End  96,670,936 bp
+       RNA expression pattern
+   PBB GE HMGCR 202540 s at fs.png
+   PBB GE HMGCR 202539 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o oxidoreductase activity, acting on the CH-OH group
+   of donors, NAD or NADP as acceptor
+   o protein homodimerization activity
+   o hydroxymethylglutaryl-CoA reductase (NADPH) activity
+   o GO:0001948 protein binding
+   o NADP binding
+   o NADPH binding
+   o oxidoreductase activity
+   o hydroxymethylglutaryl-CoA reductase activity
+   o protein phosphatase 2A binding
+   Cellular component o integral component of membrane
+   o endoplasmic reticulum membrane
+   o membrane
+   o intracellular membrane-bounded organelle
+   o peroxisomal membrane
+   o endoplasmic reticulum
+   Biological process o visual learning
+   o steroid metabolic process
+   o sterol biosynthetic process
+   o negative regulation of striated muscle cell apoptotic process
+   o coenzyme A metabolic process
+   o response to nutrient
+   o positive regulation of skeletal muscle tissue development
+   o lipid metabolism
+   o positive regulation of cardiac muscle cell apoptotic process
+   o negative regulation of insulin secretion involved in cellular
+   response to glucose stimulus
+   o aging
+   o negative regulation of apoptotic process
+   o cholesterol metabolic process
+   o protein tetramerization
+   o isoprenoid biosynthetic process
+   o negative regulation of MAP kinase activity
+   o positive regulation of cell population proliferation
+   o positive regulation of ERK1 and ERK2 cascade
+   o negative regulation of wound healing
+   o ubiquinone metabolic process
+   o myoblast differentiation
+   o response to ethanol
+   o positive regulation of stress-activated MAPK cascade
+   o positive regulation of smooth muscle cell proliferation
+   o steroid biosynthetic process
+   o regulation of lipid metabolic process
+   o regulation of cholesterol biosynthetic process
+   o cholesterol biosynthetic process
+   o negative regulation of protein catabolic process
+   o negative regulation of protein secretion
+   o negative regulation of amyloid-beta clearance
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   3156
+   15357
+   Ensembl
+   ENSG00000113161
+   ENSMUSG00000021670
+   UniProt
+   P04035
+   Q01237
+   RefSeq (mRNA)
+   NM_000859
+   NM_001130996
+   NM_001364187
+   NM_008255
+   NM_001360165
+   NM_001360166
+   RefSeq (protein)
+   NP_000850
+   NP_001124468
+   NP_001351116
+   NP_000850.1
+   NP_032281
+   NP_001347094
+   NP_001347095
+   Location (UCSC) Chr 5: 75.34 - 75.36 Mb Chr 13: 96.65 - 96.67 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   hydroxymethylglutaryl-CoA reductase (NADH)
+   Identifiers
+   EC no. 1.1.1.88
+   CAS no. 37250-24-1
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   hydroxymethylglutaryl-CoA reductase (NADPH)
+   1dqa.jpg
+   HMG-CoA reductase (NADPH), Human
+   Identifiers
+   EC no. 1.1.1.34
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   HMG-CoA reductase (3-hydroxy-3-methyl-glutaryl-coenzyme A reductase,
+   official symbol HMGCR) is the rate-controlling enzyme (NADH-dependent,
+   EC 1.1.1.88; NADPH-dependent, EC 1.1.1.34) of the mevalonate pathway,
+   the metabolic pathway that produces cholesterol and other isoprenoids.
+   HMGCR catalyzes the conversion of HMG-CoA to mevalonic acid, a
+   necessary step in the biosynthesis of cholesterol. Normally in
+   mammalian cells this enzyme is competitively suppressed so that its
+   effect is controlled. This enzyme is the target of the widely available
+   cholesterol-lowering drugs known collectively as the statins, which
+   help treat dyslipidemia.
+   HMG-CoA reductase is anchored in the membrane of the endoplasmic
+   reticulum, and was long regarded as having seven transmembrane domains,
+   with the active site located in a long carboxyl terminal domain in the
+   cytosol. More recent evidence shows it to contain eight transmembrane
+   domains.
+   In humans, the gene for HMG-CoA reductase (NADPH) is located on the
+   long arm of the fifth chromosome (5q13.3-14). Related enzymes
+   having the same function are also present in other animals, plants and
+   bacteria.

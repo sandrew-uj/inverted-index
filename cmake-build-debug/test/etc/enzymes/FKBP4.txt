@@ -1,0 +1,93 @@
+   1N1A, 1P5Q, 1Q1C, 1QZ2, 4DRJ, 4LAV, 4LAW, 4LAX, 4LAY, 4TW8
+   Identifiers
+   Aliases FKBP4, FKBP51, FKBP52, FKBP59, HBI, Hsp56, PPIase, p52, FK506
+   binding protein 4, FKBP prolyl isomerase 4
+   External IDs OMIM: 600611 MGI: 95543 HomoloGene: 36085 GeneCards: FKBP4
+          Gene location (Human)
+   Chromosome 12 (human)
+   Chr. Chromosome 12 (human)
+   Chromosome 12 (human)
+   Genomic location for FKBP4
+   Genomic location for FKBP4
+   Band 12p13.33 Start 2,794,970 bp
+                  End  2,805,423 bp
+          Gene location (Mouse)
+   Chromosome 6 (mouse)
+   Chr. Chromosome 6 (mouse)
+   Chromosome 6 (mouse)
+   Genomic location for FKBP4
+   Genomic location for FKBP4
+   Band 6|6 F3 Start 128,429,735 bp
+                End  128,438,677 bp
+       RNA expression pattern
+   PBB GE FKBP4 200894 s at fs.png
+   PBB GE FKBP4 200895 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o protein-macromolecule adaptor activity
+   o heat shock protein binding
+   o copper-dependent protein binding
+   o FK506 binding
+   o GTP binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   o phosphoprotein binding
+   o GO:0001948 protein binding
+   o glucocorticoid receptor binding
+   o tau protein binding
+   o ATP binding
+   o RNA binding
+   Cellular component o cell projection
+   o axonal growth cone
+   o nucleoplasm
+   o axon
+   o neuronal cell body
+   o mitochondrion
+   o perinuclear region of cytoplasm
+   o neuron projection
+   o microtubule
+   o extracellular exosome
+   o cytoskeleton
+   o nucleus
+   o cytoplasm
+   o cytosol
+   o protein-containing complex
+   Biological process o androgen receptor signaling pathway
+   o negative regulation of neuron projection development
+   o negative regulation of microtubule polymerization
+   o prostate gland development
+   o protein peptidyl-prolyl isomerization
+   o reproductive structure development
+   o male sex differentiation
+   o negative regulation of microtubule polymerization or depolymerization
+   o regulation of cellular response to heat
+   o protein-containing complex localization
+   o copper ion transport
+   o steroid hormone receptor complex assembly
+   o embryo implantation
+   o chaperone-mediated protein folding
+   o protein folding
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2288
+   14228
+   Ensembl
+   ENSG00000004478
+   ENSMUSG00000030357
+   UniProt
+   Q02790
+   P30416
+   RefSeq (mRNA)
+   NM_002014
+   NM_010219
+   RefSeq (protein)
+   NP_002005
+   NP_034349
+   Location (UCSC) Chr 12: 2.79 - 2.81 Mb Chr 6: 128.43 - 128.44 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 4 is a protein that in humans is encoded by the
+   FKBP4 gene.

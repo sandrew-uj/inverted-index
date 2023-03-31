@@ -1,0 +1,55 @@
+   Chromosome 7 (human)
+   Genomic location for FKBP9
+   Genomic location for FKBP9
+   Band 7p14.3 Start 32,957,404 bp
+                End  33,006,930 bp
+              Gene location (Mouse)
+   Chromosome 6 (mouse)
+   Chr. Chromosome 6 (mouse)
+   Chromosome 6 (mouse)
+   Genomic location for FKBP9
+   Genomic location for FKBP9
+   Band 6 B3|6 27.74 cM Start 56,832,059 bp
+                         End  56,879,358 bp
+      RNA expression pattern
+   PBB GE FKBP9 212169 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o FK506 binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   o metal ion binding
+   Cellular component o endoplasmic reticulum
+   o cytoplasm
+   Biological process o protein folding
+   o chaperone-mediated protein folding
+   o protein peptidyl-prolyl isomerization
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   11328
+   27055
+   Ensembl
+   ENSG00000122642
+   ENSMUSG00000029781
+   UniProt
+   O95302
+   Q9Z247
+   RefSeq (mRNA)
+   NM_001284341
+   NM_001284343
+   NM_007270
+   NM_012056
+   RefSeq (protein)
+   NP_001271270
+   NP_001271272
+   NP_009201
+   NP_036186
+   Location (UCSC) Chr 7: 32.96 - 33.01 Mb Chr 6: 56.83 - 56.88 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 9 is a protein that in humans is encoded by the
+   FKBP9 gene.

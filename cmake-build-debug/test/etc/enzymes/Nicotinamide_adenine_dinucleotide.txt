@@ -1,0 +1,107 @@
+   CAPTION: Nicotinamide adenine dinucleotide
+   Skeletal formula of the oxidized form
+   Ball-and-stick model of the oxidized form
+   Names
+   Other names
+   Diphosphopyridine nucleotide (DPN^+), Coenzyme I
+   Identifiers
+   CAS Number
+     * 53-84-9^  check Y
+     * 53-59-8 (phosphate)^  check Y
+     * 58-68-4 (NADH)^  check Y
+   3D model (JSmol)
+     * NAD^+: Interactive image
+     * NADH: Interactive image
+   ChEBI
+     * CHEBI:16908^  X N
+   ChEMBL
+     * ChEMBL1628272^  X N
+   ChemSpider
+     * 5681^  check Y
+   DrugBank
+     * DB00157^  check Y
+   ECHA InfoCard 100.000.169 Edit this at Wikidata
+   IUPHAR/BPS
+     * 2451
+   KEGG
+     * C00003^  X N
+   PubChem CID
+     * 925
+   RTECS number
+     * UU3450000
+   UNII
+     * 0U46U6E8UK^  check Y
+     * BY8P107XEP (phosphate)^  check Y
+     * 4J24DQ0916 (NADH)^  check Y
+   InChI
+     * InChI=1S/C21H27N7O14P2/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(32)
+       14(30)11(41-21)6-39-44(36,37)42-43(34,35)38-5-10-13(29)15(31)20(40-
+       10)27-3-1-2-9(4-27)18(23)33/h1-4,7-8,10-11,13-16,20-21,29-32H,5-6H2
+       ,(H5-,22,23,24,25,33,34,35,36,37)/t10-,11-,13-,14-,15-,16-,20-,21-/
+       m1/s1^  check Y
+       Key: BAWFJGJZGIEFAR-NNYOXOHSSA-N^  check Y
+     * InChI=1/C21H27N7O14P2/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(32)1
+       4(30)11(41-21)6-39-44(36,37)42-43(34,35)38-5-10-13(29)15(31)20(40-1
+       0)27-3-1-2-9(4-27)18(23)33/h1-4,7-8,10-11,13-16,20-21,29-32H,5-6H2,
+       (H5-,22,23,24,25,33,34,35,36,37)/t10-,11-,13-,14-,15-,16-,20-,21-/m
+       1/s1
+       Key: BAWFJGJZGIEFAR-NNYOXOHSBR
+   SMILES
+     * NAD^+:
+       O=C(N)c1ccc[n+](c1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP([O-])(=O)OP(
+       =O)([O-])OC[C@H]5O[C@@H](n4cnc3c(ncnc34)N)[C@H](O)[C@@H]5O
+     * NADH:
+       O=C(N)C1CC=C[N](C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP([O-])(=O)OP
+       (=O)([O-])OC[C@H]5O[C@@H](n4cnc3c(ncnc34)N)[C@H](O)[C@@H]5O
+   Properties
+   Chemical formula
+   C[21]H[27]N[7]O[14]P[2]
+   Molar mass 663.43 g/mol
+   Appearance White powder
+   Melting point 160 DEGC (320 DEGF; 433 K)
+   Hazards
+   Main hazards Not hazardous
+   NFPA 704 (fire diamond)
+   NFPA 704 four-colored diamond
+   1
+   1
+   0
+   Except where otherwise noted, data are given for materials in their
+   standard state (at 25 DEGC [77 DEGF], 100 kPa).
+   X N verify (what is ^ check Y X N ?)
+   Infobox references
+   Chemical compound
+   Nicotinamide adenine dinucleotide (NAD) is a coenzyme central to
+   metabolism. Found in all living cells, NAD is called a dinucleotide
+   because it consists of two nucleotides joined through their phosphate
+   groups. One nucleotide contains an adenine nucleobase and the other
+   nicotinamide. NAD exists in two forms: an oxidized and reduced form,
+   abbreviated as NAD^+ and NADH (H for hydrogen) respectively.
+   In metabolism, nicotinamide adenine dinucleotide is involved in redox
+   reactions, carrying electrons from one reaction to another. The
+   cofactor is, therefore, found in two forms in cells: NAD^+ is an
+   oxidizing agent - it accepts electrons from other molecules and becomes
+   reduced. This reaction forms NADH, which can then be used as a reducing
+   agent to donate electrons. These electron transfer reactions are the
+   main function of NAD. However, it is also used in other cellular
+   processes, most notably as a substrate of enzymes in adding or removing
+   chemical groups to or from, respectively, proteins, in
+   posttranslational modifications. Because of the importance of these
+   functions, the enzymes involved in NAD metabolism are targets for drug
+   discovery.
+   In organisms, NAD can be synthesized from simple building-blocks (de
+   novo) from either tryptophan or aspartic acid, each a case of an amino
+   acid; alternatively, more complex components of the coenzymes are taken
+   up from nutritive compounds such as niacin; similar compounds are
+   produced by reactions that break down the structure of NAD, providing a
+   salvage pathway that "recycles" them back into their respective active
+   form.
+   Some NAD is converted into the coenzyme nicotinamide adenine
+   dinucleotide phosphate (NADP); its chemistry largely parallels that of
+   NAD, though predominantly its role is as a cofactor in anabolic
+   metabolism.
+   The NAD^+ chemical species' superscripted addition sign reflects the
+   formal charge on one of its nitrogen atoms; this species is actually a
+   singly charged anion -- carrying a (negative) ionic charge of 1 --
+   under conditions of physiological pH. NADH, in contrast, is a doubly
+   charged anion.

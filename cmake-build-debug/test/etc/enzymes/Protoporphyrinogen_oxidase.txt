@@ -1,0 +1,105 @@
+   3NKS, 4IVM, 4IVO
+   Identifiers
+   Aliases PPOX, PPO, V290M, VP, protoporphyrinogen oxidase
+   External IDs OMIM: 600923 MGI: 104968 HomoloGene: 262 GeneCards: PPOX
+          Gene location (Human)
+   Chromosome 1 (human)
+   Chr. Chromosome 1 (human)
+   Chromosome 1 (human)
+   Genomic location for PPOX
+   Genomic location for PPOX
+   Band 1q23.3 Start 161,166,056 bp
+                End  161,178,013 bp
+          Gene location (Mouse)
+   Chromosome 1 (mouse)
+   Chr. Chromosome 1 (mouse)
+   Chromosome 1 (mouse)
+   Genomic location for PPOX
+   Genomic location for PPOX
+   Band 1|1 H3 Start 171,275,990 bp
+                End  171,281,186 bp
+       RNA expression pattern
+   PBB GE PPOX 204788 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o flavin adenine dinucleotide binding
+   o oxidoreductase activity
+   o oxygen-dependent protoporphyrinogen oxidase activity
+   Cellular component o mitochondrial inner membrane
+   o mitochondrial intermembrane space
+   o intrinsic component of mitochondrial inner membrane
+   o membrane
+   o mitochondrion
+   o integral component of mitochondrial inner membrane
+   o mitochondrial membrane
+   Biological process o heme biosynthetic process
+   o protoporphyrinogen IX metabolic process
+   o protoporphyrinogen IX biosynthetic process
+   o response to drug
+   o porphyrin-containing compound biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5498
+   19044
+   Ensembl
+   ENSG00000143224
+   ENSMUSG00000062729
+   UniProt
+   P50336
+   P51175
+   RefSeq (mRNA)
+   NM_000309
+   NM_001122764
+   NM_001350128
+   NM_001350129
+   NM_001350130
+   NM_001350131
+   NM_001365398
+   NM_001365399
+   NM_001365400
+   NM_001365401
+   NM_008911
+   RefSeq (protein)
+   NP_000300
+   NP_001116236
+   NP_001337057
+   NP_001337058
+   NP_001337059
+   NP_001337060
+   NP_032937
+   Location (UCSC) Chr 1: 161.17 - 161.18 Mb Chr 1: 171.28 - 171.28 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   protoporphyrinogen oxidase
+   Heme synthesis.png
+   Heme synthesis--note that some reactions occur in the cytoplasm and
+   some in the mitochondrion (yellow)
+   Identifiers
+   EC no. 1.3.3.4
+   CAS no. 53986-32-6
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Protoporphyrinogen oxidase or protox is an enzyme that in humans is
+   encoded by the PPOX gene.
+   Protoporphyrinogen oxidase is responsible for the seventh step in
+   biosynthesis of protoporphyrin IX. This porphyrin is the precursor to
+   hemoglobin, the oxygen carrier in animals, and chlorophyll, the dye in
+   plants. The enzyme catalyzes the dehydrogenation (removal of hydrogen
+   atoms) of protoporphyrinogen IX (the product of the sixth step in the
+   production of heme) to form protoporphyrin IX. One additional enzyme
+   must modify protoporphyrin IX before it becomes heme. Inhibition of
+   this enzyme is a strategy used in certain herbicides.

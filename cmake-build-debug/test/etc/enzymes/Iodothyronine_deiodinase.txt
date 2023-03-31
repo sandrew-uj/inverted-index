@@ -1,0 +1,16 @@
+   Iodothyronine deiodinases (EC 1.21.99.4 and EC 1.21.99.3) are a
+   subfamily of deiodinase enzymes important in the activation and
+   deactivation of thyroid hormones. Thyroxine (T[4]), the precursor of
+   3,5,3'-triiodothyronine (T[3]) is transformed into T[3] by deiodinase
+   activity. T[3], through binding a nuclear thyroid hormone receptor,
+   influences the expression of genes in practically every vertebrate
+   cell. Iodothyronine deiodinases are unusual in that these
+   enzymes contain selenium, in the form of an otherwise rare amino acid
+   selenocysteine.
+   These enzymes are not to be confused with the iodotyrosine deiodinases
+   that are also deiodinases, but not members of the iodothyronine family.
+   The iodotyrosine deiodinases (unlike the iodothyronine deiodinases) do
+   not use selenocysteine or selenium. The iodotyrosine enzymes work on
+   iodinated single tyrosine residue molecules to scavenge iodine, and do
+   not use as substrates the double-tyrosine residue molecules of the
+   various iodothyronines.

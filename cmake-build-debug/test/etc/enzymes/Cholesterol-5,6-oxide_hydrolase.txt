@@ -1,0 +1,21 @@
+   Cholesterol-5,6-oxide hydrolase (EC 3.3.2.11, cholesterol-epoxide
+   hydrolase, ChEH) is an enzyme with systematic name
+   5,6alpha-epoxy-5alpha-cholestan-3beta-ol hydrolase.
+   This enzyme catalyses the following chemical reaction
+          (1) 5,6alpha-epoxy-5alpha-cholestan-3beta-ol + H[2]O
+           5alpha-cholestane-3beta,5alpha,6beta-triol
+          (2) 5,6beta-epoxy-5beta-cholestan-3beta-ol + H[2]O
+           5alpha-cholestane-3beta,5alpha,6beta-triol
+   The enzyme works equally well with either epoxide as substrate on rat
+   liver microsomes. The ChEH is an intracellular en membranous enzyme
+   localized mainly on the endoplasmic reticulum of cells. Its molecular
+   characterization revealed it is composed of two proteinaceous
+   sub-units: the 3beta-hydroxysteroid delta8-delta7-isomerase (D8D7I),
+   also known as the emopamyl binding protein (EBP), which is the
+   catalytic subunit, and the 3beta-hydroxysteroid delta7 reductase
+   (DHCR7), which is the regulatory subunit. The ChEH is the "so
+   called" microsomal antiestrogen binding site (AEBS), a secondary target
+   of the antitumor drug tamoxifen and related compounds. The ChEH is
+   inhibited by different pharmacological classes of drugs including
+   anticancer drugs such as tamoxifen and natural substances such as ring
+   B-oxysterols and poly-unsaturated fatty acids.

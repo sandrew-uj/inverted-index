@@ -1,0 +1,6 @@
+   In enzymology, a steroid D^5-isomerase (EC 5.3.3.1) is an enzyme that
+   catalyzes the chemical reaction
+          a 3-oxo-D^5-steroid
+           a 3-oxo-D^4-steroid
+   Hence, this enzyme has one substrate, a 3-oxo-D^5-steroid, and one
+   product, a 3-oxo-D^4-steroid.

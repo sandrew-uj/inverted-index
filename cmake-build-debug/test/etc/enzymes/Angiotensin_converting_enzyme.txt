@@ -1,0 +1,142 @@
+   1O86, 1O8A, 1UZE, 1UZF, 2C6F, 2C6N, 2IUL, 2IUX, 2OC2, 2XY9, 2XYD, 2YDM,
+   3BKK, 3BKL, 3NXQ, 4APH, 4APJ, 3L3N, 4BXK, 4BZR, 4BZS, 4C2N, 4C2O, 4C2P,
+   4C2Q, 4C2R, 4CA5, 4CA6, 4UFA, 4UFB, 5AMB, 5AM9, 5AM8, 5AMC, 5AMA
+   Identifiers
+   Aliases ACE, angiotensin I converting enzyme, ACE1, CD143, DCP, DCP1,
+   ICH, MVCD3, Angiotensin-converting enzyme
+   External IDs OMIM: 106180 MGI: 87874 HomoloGene: 37351 GeneCards: ACE
+          Gene location (Human)
+   Chromosome 17 (human)
+   Chr. Chromosome 17 (human)
+   Chromosome 17 (human)
+   Genomic location for ACE
+   Genomic location for ACE
+   Band 17q23.3 Start 63,477,061 bp
+                 End  63,498,380 bp
+               Gene location (Mouse)
+   Chromosome 11 (mouse)
+   Chr. Chromosome 11 (mouse)
+   Chromosome 11 (mouse)
+   Genomic location for ACE
+   Genomic location for ACE
+   Band 11 E1|11 68.84 cM Start 105,967,945 bp
+                           End  105,989,964 bp
+      RNA expression pattern
+   PBB GE ACE 209749 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o tripeptidyl-peptidase activity
+   o zinc ion binding
+   o exopeptidase activity
+   o endopeptidase activity
+   o metal ion binding
+   o mitogen-activated protein kinase binding
+   o bradykinin receptor binding
+   o peptidase activity
+   o GO:0001948 protein binding
+   o drug binding
+   o carboxypeptidase activity
+   o chloride ion binding
+   o actin binding
+   o mitogen-activated protein kinase kinase binding
+   o hydrolase activity
+   o metallodipeptidase activity
+   o metallopeptidase activity
+   o peptidyl-dipeptidase activity
+   o dipeptidyl-peptidase activity
+   Cellular component o cytoplasm
+   o integral component of membrane
+   o endosome
+   o membrane
+   o lysosome
+   o extracellular exosome
+   o external side of plasma membrane
+   o extracellular region
+   o cell membrane
+   o extracellular space
+   Biological process o regulation of renal output by angiotensin
+   o antigen processing and presentation of peptide antigen via MHC class
+   I
+   o amyloid-beta metabolic process
+   o angiotensin maturation
+   o blood vessel remodeling
+   o regulation of vasoconstriction
+   o hematopoietic stem cell differentiation
+   o regulation of angiotensin metabolic process
+   o regulation of smooth muscle cell migration
+   o mononuclear cell proliferation
+   o regulation of systemic arterial blood pressure by renin-angiotensin
+   o arachidonic acid secretion
+   o peptide catabolic process
+   o blood vessel diameter maintenance
+   o proteolysis
+   o kidney development
+   o neutrophil mediated immunity
+   o positive regulation of systemic arterial blood pressure
+   o spermatogenesis
+   o regulation of blood pressure
+   o posttranscriptional regulation of gene expression
+   o negative regulation of gene expression
+   o negative regulation of protein binding
+   o positive regulation of protein binding
+   o hormone catabolic process
+   o Myocardial contractility
+   o positive regulation of protein tyrosine kinase activity
+   o cell proliferation in bone marrow
+   o positive regulation of peptidyl-tyrosine autophosphorylation
+   o regulation of hematopoietic stem cell proliferation
+   o negative regulation of gap junction assembly
+   o positive regulation of peptidyl-cysteine S-nitrosylation
+   o positive regulation of blood pressure
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1636
+   11421
+   Ensembl
+   ENSG00000159640
+   ENSMUSG00000020681
+   UniProt
+   P12821
+   P09470
+   RefSeq (mRNA)
+   NM_000789
+   NM_001178057
+   NM_152830
+   NM_152831
+   NM_001382700
+   NM_001382701
+   NM_001382702
+   NM_009598
+   NM_207624
+   NM_001281819
+   RefSeq (protein)
+   NP_000780
+   NP_001171528
+   NP_690043
+   NP_001369629
+   NP_001369630
+   NP_001369631
+   NP_001268748
+   NP_033728
+   NP_997507
+   Location (UCSC) Chr 17: 63.48 - 63.5 Mb Chr 11: 105.97 - 105.99 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Angiotensin-converting enzyme (EC 3.4.15.1), or ACE, is a central
+   component of the renin-angiotensin system (RAS), which controls blood
+   pressure by regulating the volume of fluids in the body. It converts
+   the hormone angiotensin I to the active vasoconstrictor angiotensin II.
+   Therefore, ACE indirectly increases blood pressure by causing blood
+   vessels to constrict. ACE inhibitors are widely used as pharmaceutical
+   drugs for treatment of cardiovascular diseases.
+   The enzyme was discovered by Leonard T. Skeggs Jr. in 1956. The
+   first crystal structure of human testis ACE was solved in the year 2002
+   by R. Natesh in the lab of K. Ravi Acharya and the work was published
+   in the journal Nature in January 2003. It is located mainly in the
+   capillaries of the lungs but can also be found in endothelial and
+   kidney epithelial cells.
+   Other less known functions of ACE are degradation of bradykinin,
+   substance P and amyloid beta-protein.

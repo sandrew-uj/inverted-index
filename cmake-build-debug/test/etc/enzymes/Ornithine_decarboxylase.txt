@@ -1,0 +1,4 @@
+   The enzyme ornithine decarboxylase (ODC) catalyzes the decarboxylation
+   of ornithine (a product of the urea cycle) to form putrescine. This
+   reaction is the committed step in polyamine synthesis. In humans,
+   this protein has 461 amino acids and forms a homodimer.

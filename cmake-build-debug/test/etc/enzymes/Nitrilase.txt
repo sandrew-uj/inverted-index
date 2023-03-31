@@ -1,0 +1,13 @@
+   Nitrilase enzymes (nitrile aminohydrolase; EC 3.5.5.1) catalyse the
+   hydrolysis of nitriles to carboxylic acids and ammonia, without the
+   formation of "free" amide intermediates. Nitrilases are involved in
+   natural product biosynthesis and post translational modifications in
+   plants, animals, fungi and certain prokaryotes. Nitrilases can also be
+   used as catalysts in preparative organic chemistry. Among others,
+   nitrilases have been used for the resolution of racemic mixtures.
+   Nitrilase should not be confused with nitrile hydratase (nitrile
+   hydro-lyase; EC 4.2.1.84) which hydrolyses nitriles to amides. Nitrile
+   hydratases are almost invariably co-expressed with an amidase, which
+   converts the amide to the carboxylic acid. Consequently, it can
+   sometimes be difficult to distinguish nitrilase activity from nitrile
+   hydratase plus amidase activity.

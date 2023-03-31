@@ -1,0 +1,6 @@
+   In enzymology, SEPHCHC synthase (EC EC 2.2.1.9), encoded by menD gene
+   in E. coli, is an enzyme that catalyzes the second step of menaquinone
+   (vitamin K2) biosynthesis. The two substrates of this enzyme are
+   2-oxoglutarate and isochorismate. The products of this enzyme are
+   5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate and
+   CO[2]. It belongs to the transferase family.

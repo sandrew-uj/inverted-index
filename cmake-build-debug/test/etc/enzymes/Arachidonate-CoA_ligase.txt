@@ -1,0 +1,10 @@
+   In enzymology, an arachidonate-CoA ligase (EC 6.2.1.15) is an enzyme
+   that catalyzes the chemical reaction
+          ATP + arachidonate + CoA
+           AMP + diphosphate + arachidonoyl-CoA
+   The 3 substrates of this enzyme are ATP, arachidonate, and CoA, whereas
+   its 3 products are AMP, diphosphate, and arachidonoyl-CoA.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is arachidonate:CoA ligase (AMP-forming). This
+   enzyme is also called arachidonoyl-CoA synthetase.

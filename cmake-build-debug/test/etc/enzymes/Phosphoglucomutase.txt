@@ -1,0 +1,5 @@
+   Phosphoglucomutase (EC 5.4.2.2) is an enzyme that transfers a phosphate
+   group on an a-D-glucose monomer from the 1 to the 6 position in the
+   forward direction or the 6 to the 1 position in the reverse direction.
+   More precisely, it facilitates the interconversion of glucose
+   1-phosphate and glucose 6-phosphate.

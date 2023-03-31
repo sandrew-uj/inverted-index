@@ -1,0 +1,6 @@
+   Glutathione peroxidase (GPx) (EC 1.11.1.9) is the general name of an
+   enzyme family with peroxidase activity whose main biological role is to
+   protect the organism from oxidative damage. The biochemical
+   function of glutathione peroxidase is to reduce lipid hydroperoxides to
+   their corresponding alcohols and to reduce free hydrogen peroxide to
+   water.

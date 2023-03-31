@@ -1,0 +1,20 @@
+   In enzymology, a maleate isomerase (EC 5.2.1.1), or maleate cis-tran
+   isomerase, is a member of the Asp/Glu racemase superfamily discovered
+   in bacteria. It is responsible for catalyzing cis-trans isomerization
+   of the C2-C3 double bond in maleate to produce fumarate, which is a
+   critical intermediate in citric acid cycle. The presence of an
+   exogenous mercaptan is required for catalysis to happen.
+          Illustration of the overall isomerization catalyzed by maleate
+          isomerase
+   Maleate isomerase participates in butanoate metabolism and nicotinate
+   and nicotinamide metabolism. It is an essential enzyme for the last
+   step of metabolic degradation pathway of nicotinic acid. Recently,
+   maleate isomerase has been an industrial target for degradation of
+   tobacco waste. It is also got attention for its involvement in
+   aspartic acid and maleic acid production.
+   Maleate isomerase has been utilized by multiple bacteria species,
+   including Pseudomonas fluorescens, Alcaligenes faecalis,
+   Bacillus stearothermophilus, Serratia marcescens, Pseudomonas
+   putida and Nocardia farcinica. The enzyme has a molecular
+   weight of 74,000 and a turnover number of 1,800 moles per mole of
+   protein per min.

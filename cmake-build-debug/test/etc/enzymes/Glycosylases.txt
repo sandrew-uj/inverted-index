@@ -1,0 +1,5 @@
+   Glycosylases (EC 3.2) are enzymes that hydrolyze glycosyl
+   compounds. They are a type of hydrolase (EC 3). In turn,
+   glycosylases are divided into two groups: glycosidases--enzymes that
+   hydrolyze O- and S-glycosyl compounds (EC 3.2.1) -- and enzymes that
+   hydrolyze N-glycosyl compounds (EC 3.2.2).

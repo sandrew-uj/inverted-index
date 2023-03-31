@@ -1,0 +1,13 @@
+   Fructose-bisphosphate aldolase (EC 4.1.2.13), often just aldolase, is
+   an enzyme catalyzing a reversible reaction that splits the aldol,
+   fructose 1,6-bisphosphate, into the triose phosphates dihydroxyacetone
+   phosphate (DHAP) and glyceraldehyde 3-phosphate (G3P). Aldolase can
+   also produce DHAP from other (3S,4R)-ketose 1-phosphates such as
+   fructose 1-phosphate and sedoheptulose 1,7-bisphosphate.
+   Gluconeogenesis and the Calvin cycle, which are anabolic pathways, use
+   the reverse reaction. Glycolysis, a catabolic pathway, uses the forward
+   reaction. Aldolase is divided into two classes by mechanism.
+   The word aldolase also refers, more generally, to an enzyme that
+   performs an aldol reaction (creating an aldol) or its reverse (cleaving
+   an aldol), such as Sialic acid aldolase, which forms sialic acid. See
+   the list of aldolases.

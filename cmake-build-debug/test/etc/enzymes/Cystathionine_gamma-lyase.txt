@@ -1,0 +1,13 @@
+   Cystathionine gamma-lyase (CTH or CSE; also cystathionase) is an enzyme
+   which breaks down cystathionine into cysteine, a-ketobutyrate, and
+   ammonia. Pyridoxal phosphate is a prosthetic group of this
+   enzyme.
+   Cystathionine gamma-lyase also catalyses the following elimination
+   reactions:
+     * L-homoserine to form H[2]O, NH[3] and 2-oxobutanoate
+     * L-cystine, producing thiocysteine, pyruvate and NH[3]
+     * L-cysteine producing pyruvate, NH[3] and H[2]S
+   In some bacteria and mammals, including humans, this enzyme takes part
+   in generating hydrogen sulfide. Hydrogen sulfide is one of a
+   few gases that was recently discovered to have a role in cell signaling
+   in the body.

@@ -1,0 +1,11 @@
+   In enzymology, an ent-copalyl diphosphate synthase (EC 5.5.1.13) is an
+   enzyme that catalyzes the chemical reaction:
+   The partial cyclization of geranylgeranyl pyrophosphate to ent-copalyl
+   pyrophosphate is catalyzed by ent-copalyl diphosphate synthase.
+   Hence, this enzyme has one substrate, geranylgeranyl pyrophosphate, and
+   one product, ent-copalyl pyrophosphate. This enzyme participates in
+   gibberellin biosynthesis.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   ent-copalyl-diphosphate lyase (decyclizing). Other names in common use
+   include ent-kaurene synthase A, and ent-kaurene synthetase A.

@@ -1,0 +1,17 @@
+   Adenylyl cyclase (EC 4.6.1.1, also commonly known as adenyl cyclase and
+   adenylate cyclase, abbreviated AC) is an enzyme with key regulatory
+   roles in essentially all cells. It is the most polyphyletic known
+   enzyme: six distinct classes have been described, all catalyzing the
+   same reaction but representing unrelated gene families with no known
+   sequence or structural homology. The best known class of adenylyl
+   cyclases is class III or AC-III (Roman numerals are used for classes).
+   AC-III occurs widely in eukaryotes and has important roles in many
+   human tissues.
+   All classes of adenylyl cyclase catalyse the conversion of adenosine
+   triphosphate (ATP) to 3',5'-cyclic AMP (cAMP) and pyrophosphate.
+   Magnesium ions are generally required and appear to be closely involved
+   in the enzymatic mechanism. The cAMP produced by AC then serves as a
+   regulatory signal via specific cAMP-binding proteins, either
+   transcription factors, enzymes (e.g., cAMP-dependent kinases), or ion
+   transporters.
+   Adenylyl cyclase catalyzes the conversion of ATP to 3',5'-cyclic AMP.

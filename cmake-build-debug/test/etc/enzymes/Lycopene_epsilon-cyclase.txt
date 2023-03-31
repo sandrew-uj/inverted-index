@@ -1,0 +1,8 @@
+   Lycopene epsilon-cyclase (EC 5.5.1.18, CrtL-e, LCYe) is an enzyme with
+   systematic name carotenoid psi-end group lyase (decyclizing).
+   This enzyme catalyses the following chemical reaction
+   Lycopene e-cyclase.svg
+   carotenoid psi-end group
+    carotenoid epsilon-end group
+   The carotenoid lycopene has the psi-end group at both ends.
+   Lycopene e-cyclase2.svg

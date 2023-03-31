@@ -1,0 +1,84 @@
+   1CFH, 1CFI, 1EDM, 1IXA, 1MGX, 1NL0, 1RFN, 2WPH, 2WPI, 2WPJ, 2WPK, 2WPL,
+   2WPM, 3KCG, 3LC3, 3LC5, 4YZU, 4Z0K, 4ZAE, 4WM0, 4WMA, 4WMI, 4WMK, 4WN2,
+   4WNH, 5EGM, 5JBC, 5JB9, 5JBB, 5JB8, 5JBA
+   Identifiers
+   Aliases F9, F9 p22, FIX, HEMB, P19, PTC, THPH8, coagulation factor IX,
+   Blood coagulation factor IX, Christmas Factor
+   External IDs OMIM: 300746 MGI: 88384 HomoloGene: 106 GeneCards: F9
+          Gene location (Human)
+   X chromosome (human)
+   Chr. X chromosome (human)
+   X chromosome (human)
+   Genomic location for F9
+   Genomic location for F9
+   Band Xq27.1 Start 139,530,739 bp
+                End  139,563,459 bp
+             Gene location (Mouse)
+   X chromosome (mouse)
+   Chr. X chromosome (mouse)
+   X chromosome (mouse)
+   Genomic location for F9
+   Genomic location for F9
+   Band X A6|X 33.5 cM Start 59,999,464 bp
+                        End  60,030,759 bp
+      RNA expression pattern
+   PBB GE F9 207218 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o endopeptidase activity
+   o metal ion binding
+   o peptidase activity
+   o serine-type peptidase activity
+   o hydrolase activity
+   o calcium ion binding
+   o serine-type endopeptidase activity
+   o GO:0001948 protein binding
+   Cellular component o endoplasmic reticulum lumen
+   o cell membrane
+   o Golgi lumen
+   o extracellular exosome
+   o extracellular region
+   o extracellular space
+   o collagen-containing extracellular matrix
+   Biological process o hemostasis
+   o blood coagulation, intrinsic pathway
+   o zymogen activation
+   o endoplasmic reticulum to Golgi vesicle-mediated transport
+   o signal peptide processing
+   o blood coagulation, extrinsic pathway
+   o peptidyl-glutamic acid carboxylation
+   o proteolysis
+   o blood coagulation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2158
+   14071
+   Ensembl
+   ENSG00000101981
+   ENSMUSG00000031138
+   UniProt
+   P00740
+   P16294
+   RefSeq (mRNA)
+   NM_000133
+   NM_001313913
+   NM_007979
+   NM_001305797
+   RefSeq (protein)
+   NP_000124
+   NP_001300842
+   NP_001292726
+   NP_032005
+   Location (UCSC) Chr X: 139.53 - 139.56 Mb Chr X: 60 - 60.03 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Factor IX (or Christmas factor) (EC 3.4.21.22) is one of the serine
+   proteases of the coagulation system; it belongs to peptidase family S1.
+   Deficiency of this protein causes haemophilia B. It was discovered in
+   1952 after a young boy named Stephen Christmas was found to be lacking
+   this exact factor, leading to haemophilia.
+   Coagulation factor IX is on the World Health Organization's List of
+   Essential Medicines.

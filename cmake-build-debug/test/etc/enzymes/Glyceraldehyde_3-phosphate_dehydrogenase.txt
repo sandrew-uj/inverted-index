@@ -1,0 +1,138 @@
+   GAPDH
+   GAPDH with labels.png
+   Available structures
+   PDB Ortholog search: PDBe RCSB
+   List of PDB id codes
+   1U8F, 1ZNQ, 3GPD, 4WNC, 4WNI
+   Identifiers
+   Aliases GAPDH, GAPD, G3PD, HEL-S-162eP, glyceraldehyde-3-phosphate
+   dehydrogenase
+   External IDs OMIM: 138400 MGI: 5434255 HomoloGene: 107053 GeneCards:
+   GAPDH
+          Gene location (Human)
+   Chromosome 12 (human)
+   Chr. Chromosome 12 (human)
+   Chromosome 12 (human)
+   Genomic location for GAPDH
+   Genomic location for GAPDH
+   Band 12p13.31 Start 6,534,512 bp
+                  End  6,538,374 bp
+   Gene ontology
+   Molecular function o transferase activity
+   o microtubule binding
+   o NAD binding
+   o oxidoreductase activity, acting on the aldehyde or oxo group of
+   donors, NAD or NADP as acceptor
+   o GO:0001948 protein binding
+   o peptidyl-cysteine S-nitrosylase activity
+   o NADP binding
+   o identical protein binding
+   o oxidoreductase activity
+   o glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating)
+   activity
+   o aspartic-type endopeptidase inhibitor activity
+   o disordered domain specific binding
+   Cellular component o vesicle
+   o nuclear membrane
+   o membrane
+   o intracellular membrane-bounded organelle
+   o microtubule cytoskeleton
+   o Lipid droplet
+   o cell membrane
+   o perinuclear region of cytoplasm
+   o GAIT complex
+   o cytoskeleton
+   o extracellular exosome
+   o cytosol
+   o nucleus
+   o GO:0005578 extracellular matrix
+   o cytoplasm
+   o ribonucleoprotein complex
+   Biological process o peptidyl-cysteine S-trans-nitrosylation
+   o neuron apoptotic process
+   o gluconeogenesis
+   o negative regulation of translation
+   o glycolytic process
+   o canonical glycolysis
+   o protein stabilization
+   o cellular response to interferon-gamma
+   o regulation of translation
+   o microtubule cytoskeleton organization
+   o regulation of macroautophagy
+   o apoptotic process
+   o glucose metabolic process
+   o negative regulation of endopeptidase activity
+   o antimicrobial humoral immune response mediated by antimicrobial
+   peptide
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2597
+   100042025
+   Ensembl
+   ENSG00000111640
+   n/a
+   UniProt
+   P04406
+   P16858
+   RefSeq (mRNA)
+   NM_002046
+   NM_001256799
+   NM_001289745
+   NM_001289746
+   NM_001357938
+   NM_001357943
+   NM_001357944
+   XM_001476707
+   RefSeq (protein)
+   NP_001243728
+   NP_001276674
+   NP_001276675
+   NP_002037
+   NP_001344872
+   NP_001276655
+   NP_032110
+   Location (UCSC) Chr 12: 6.53 - 6.54 Mb n/a
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+   PDB 1cer EBI.jpg
+   determinants of enzyme thermostability observed in the molecular
+   structure of thermus aquaticus d-glyceraldehyde-3-phosphate
+   dehydrogenase at 2.5 angstroms resolution
+   Identifiers
+   Symbol Gp_dh_N
+   Pfam PF00044
+   Pfam clan CL0063
+   InterPro IPR020828
+   PROSITE PDOC00069
+   SCOP2 1gd1 / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+   PDB 2czc EBI.jpg
+   crystal structure of glyceraldehyde-3-phosphate dehydrogenase from
+   pyrococcus horikoshii ot3
+   Identifiers
+   Symbol Gp_dh_C
+   Pfam PF02800
+   Pfam clan CL0139
+   InterPro IPR020829
+   PROSITE PDOC00069
+   SCOP2 1gd1 / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   Glyceraldehyde 3-phosphate dehydrogenase (abbreviated GAPDH) (EC
+   1.2.1.12) is an enzyme of about 37kDa that catalyzes the sixth step of
+   glycolysis and thus serves to break down glucose for energy and carbon
+   molecules. In addition to this long established metabolic function,
+   GAPDH has recently been implicated in several non-metabolic processes,
+   including transcription activation, initiation of apoptosis, ER to
+   Golgi vesicle shuttling, and fast axonal, or axoplasmic transport.
+   In sperm, a testis-specific isoenzyme GAPDHS is expressed.

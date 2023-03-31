@@ -1,0 +1,18 @@
+   Aspartate carbamoyltransferase (also known as aspartate
+   transcarbamoylase or ATCase) catalyzes the first step in the pyrimidine
+   biosynthetic pathway (EC 2.1.3.2).
+   In E. coli, the enzyme is a multi-subunit protein complex composed of
+   12 subunits (300 kDa in total). The composition of the subunits is
+   C[6]R[6], forming 2 trimers of catalytic subunits (34 kDa) and 3 dimers
+   of regulatory subunits (17 kDa). The particular arrangement of
+   catalytic and regulatory subunits in this enzyme affords the complex
+   with strongly allosteric behaviour with respect to its substrates.
+   The enzyme is an archetypal example of allosteric modulation of fine
+   control of metabolic enzyme reactions.
+   ATCase does not follow Michaelis-Menten kinetics. Instead, it lies
+   between its low-activity, low-affinity "tense" and its high-activity,
+   high-affinity "relaxed" states. The binding of substrate to the
+   catalytic subunits results in an equilibrium shift towards the R state,
+   whereas binding of CTP to the regulatory subunits results in an
+   equilibrium shift towards the T state. Binding of ATP to the regulatory
+   subunits results in an equilibrium shift towards the R state.

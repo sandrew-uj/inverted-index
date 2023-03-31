@@ -1,0 +1,26 @@
+   Protein Arginine Phosphatase (PAPs), also known as Phosphoarginine
+   Phosphatase, is an enzyme that catalyzes the dephosphorylation of
+   phosphoarginine residues in proteins. Protein phosphatases (PPs)
+   are "obligatory heteromers" made up of two maximum catalytic
+   subunits attached to a non-catalytic subunit. Arginine modification is
+   a post-translational protein modification in gram-positive bacteria.
+   McsB and YwIE were recently identified as phosphorylating enzymes in
+   Bacillus Subtilis (B.Subtilis). YwIE was thought to be a
+   protein-tyrosine-phosphatase, and McsB a tyrosine-kinase, however
+   in 2012 Elsholz et al. showed that McsB is a
+   protein-arginine-kinase (PAK) and YwlE is a
+   phosphatase-arginine-phosphatase (PAP).
+   Many proteins rely on protein phosphatase activity for regulating their
+   stability, localization, and interaction with other proteins.
+   Arginine modification is a post-translational protein modification in
+   gram-positive bacteria, and protein arginine phosphorylation regulates
+   transcription factors, in addition to tagging rogue proteins for
+   degradation in gram-positive bacteria. Like phosphorylation,
+   dephosphorylation is a reversible post-translational event. It is
+   reversible through the action of kinases (enzymes that adds a phosphate
+   group to a protein via phosphorylation), and this antagonist activity
+   of phosphorylation and dephosphorylation of proteins controls all
+   aspect of prokaryotic and eukaryotic life. In general, protein
+   phosphatases play a crucial role in cell signaling regulation in both
+   eukaryotes and prokaryotes. They act by removing a phosphate group from
+   proteins, and their activity counteracts that of protein kinases.

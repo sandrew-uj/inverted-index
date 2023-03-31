@@ -1,0 +1,27 @@
+   Parvulin, a 92-amino acid protein discovered in E. coli in 1994, is
+   the smallest known protein with prolyl isomerase activity, which
+   catalyzes the cis-trans isomerization of proline peptide bonds.
+   Although parvulin has no homology with larger prolyl isomerases such as
+   cyclophilin and FKBP, it does share structural features with subdomains
+   of other proteins involved in preparing secreted proteins for export
+   from the cell.
+   Although parvulin is as active as the larger prolyl isomerases against
+   a short proline-containing test peptide, it has lower relative activity
+   against biological substrates, possibly because the larger molecules
+   have a higher ability to bind the substrate peptide. Parvulin
+   itself contains proline residues and its folding can be accelerated by
+   the presence of cyclophilin; parvulin folding can also be
+   autocatalytic.
+   A eukaryotic homolog of parvulin known as Pin1 is required to execute
+   the transition from G2 phase to M phase in the cell cycle. Absence
+   of Pin1 activity in humans has also been implicated in the folding and
+   processing of the amyloid precursor protein, whose degradation product
+   is the cytotoxic peptide amyloid beta implicated in Alzheimer's
+   disease.
+   In addition to Pin1, higher eukaryotes contain an additional parvulin
+   gene, whose core sequence is highly conserved in all multi-cellular
+   organisms examined so far, but absent from yeast. In humans the locus
+   of this parvulin resides on chromosome Xq13 and encodes two protein
+   species, Par14 and Par17. Par17, which is exclusively
+   expressed in hominids and humans, is an N-terminal extended version of
+   Par14 and results from alternative transcription initiation.

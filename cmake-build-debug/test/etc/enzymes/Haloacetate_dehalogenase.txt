@@ -1,0 +1,15 @@
+   In enzymology, a haloacetate dehalogenase (EC 3.8.1.3) is an enzyme
+   that catalyzes the chemical reaction
+          haloacetate + H[2]O
+           glycolate + halide
+   Thus, the two substrates of this enzyme are haloacetate and H[2]O,
+   whereas its two products are glycolate and halide. For examples, in the
+   case of fluoroacetate in will produce glycolate and fluoride.
+   This enzyme belongs to the family of hydrolases, one of the largest
+   known enzyme families comprising approximately 1% of the genes in the
+   human genome, exists as a homodimer, and acts specifically halide bonds
+   in carbon-halide compounds. The systematic name of this enzyme class is
+   haloacetate halidohydrolase. This enzyme is also called monohaloacetate
+   dehalogenase and fluoroacetate dehalogenase. This enzyme participates
+   in gamma-hexachlorocyclohexane degradation and 1,2-dichloroethane
+   degradation.

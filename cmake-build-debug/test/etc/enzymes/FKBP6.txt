@@ -1,0 +1,14 @@
+   FK506 binding protein 6, also known as FKBP6, is a human gene. The
+   encoded protein shows structural homology to FKBP immunophilins, which
+   bind to the immunosuppressants FK506 and rapamycin.
+   FKBP6 is essential for homologous chromosome pairing in meiosis during
+   spermatogenesis. Targeted inactivation of FKBP6 in mice results in
+   infertile males, but apparently normal females. Rats with spermatogenic
+   failure at meiosis were found to have a deletion in the exon 8 portion
+   of the FKBP6 gene. Mutations in this gene have been associated with
+   male infertility in humans.
+   FKBP6 is deleted in Williams syndrome, however this hemizygous loss of
+   FKBP6 is not associated with infertility.
+   FKBP6 contains 3 a-helices and 11 b-sheet strands, and as a
+   FK506-family protein, has been shown to be a potent immunosuppressant
+   which can assist in the prevention of allograft rejections.

@@ -1,0 +1,12 @@
+   Molybdopterin synthase sulfurtransferase (EC 2.8.1.11,
+   adenylyltransferase and sulfurtransferase MOCS3, Cnx5 (gene),
+   molybdopterin synthase sulfurylase) is an enzyme with systematic name
+   persulfurated L-cysteine desulfurase:(molybdopterin-synthase
+   sulfur-carrier protein)-Gly-Gly sulfurtransferase. This
+   enzyme catalyses the following chemical reaction
+          [molybdopterin-synthase sulfur-carrier protein]-Gly-Gly-AMP +
+          [cysteine desulfurase]-S-sulfanyl-L-cysteine
+           AMP + [molybdopterin-synthase sulfur-carrier
+          protein]-Gly-NH-CH2-C(O)SH + cysteine desulfurase
+   The enzyme transfers sulfur to form a thiocarboxylate moiety on the
+   C-terminal glycine of the small subunit of molybdopterin synthase.

@@ -1,0 +1,105 @@
+   4XX4, 1BBS, 1BIL, 1BIM, 1HRN, 1RNE, 2BKS, 2BKT, 2FS4, 2G1N, 2G1O, 2G1R,
+   2G1S, 2G1Y, 2G20, 2G21, 2G22, 2G24, 2G26, 2G27, 2I4Q, 2IKO, 2IKU, 2IL2,
+   2REN, 2V0Z, 2V10, 2V11, 2V12, 2V13, 2V16, 2X0B, 3D91, 3G6Z, 3G70, 3G72,
+   3GW5, 3K1W, 3KM4, 3O9L, 3OAD, 3OAG, 3OOT, 3OQF, 3OQK, 3OWN, 3Q3T, 3Q4B,
+   3Q5H, 3SFC, 3VCM, 3VSW, 3VSX, 3VUC, 3VYD, 3VYE, 3VYF, 4AMT, 4GJ5, 4GJ6,
+   4GJ7, 4GJ8, 4GJ9, 4GJA, 4GJB, 4GJC, 4GJD, 4PYV, 4Q1N, 4RYC, 4RYG, 4RZ1,
+   4S1G, 4XX3
+   Identifiers
+   Aliases REN, HNFJ2, renin, ADTKD4, RTD
+   External IDs OMIM: 179820 MGI: 97898 HomoloGene: 20151 GeneCards: REN
+          Gene location (Human)
+   Chromosome 1 (human)
+   Chr. Chromosome 1 (human)
+   Chromosome 1 (human)
+   Genomic location for REN
+   Genomic location for REN
+   Band 1q32.1 Start 204,154,819 bp
+                End  204,190,324 bp
+   Gene ontology
+   Molecular function o insulin-like growth factor receptor binding
+   o aspartic-type endopeptidase activity
+   o endopeptidase activity
+   o peptidase activity
+   o signaling receptor binding
+   o hydrolase activity
+   o GO:0001948 protein binding
+   Cellular component o cytoplasm
+   o membrane
+   o cell membrane
+   o intracellular anatomical structure
+   o extracellular region
+   o extracellular space
+   o apical part of cell
+   Biological process o response to immobilization stress
+   o regulation of blood volume by renin-angiotensin
+   o male gonad development
+   o regulation of MAPK cascade
+   o kidney development
+   o renin-angiotensin regulation of aldosterone production
+   o cell maturation
+   o amyloid-beta metabolic process
+   o response to organic substance
+   o angiotensin maturation
+   o proteolysis
+   o mesonephros development
+   o regulation of blood pressure
+   o response to lipopolysaccharide
+   o cellular response to drug
+   o protein catabolic process
+   o drinking behavior
+   o hormone-mediated signaling pathway
+   o response to cGMP
+   o response to cAMP
+   o response to drug
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5972
+   19701
+   Ensembl
+   ENSG00000143839
+   ENSMUSG00000070645
+   UniProt
+   P00797
+   P06281
+   RefSeq (mRNA)
+   NM_000537
+   NM_031192
+   RefSeq (protein)
+   NP_000528
+   NP_112469
+   Location (UCSC) Chr 1: 204.15 - 204.19 Mb n/a
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   renin
+   Identifiers
+   EC no. 3.4.23.15
+   CAS no. 9015-94-5
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Renin (etymology and pronunciation), also known as an
+   angiotensinogenase, is an aspartic protease protein and enzyme secreted
+   by the kidneys that participates in the body's
+   renin-angiotensin-aldosterone system (RAAS)--also known as the
+   renin-angiotensin-aldosterone axis--that mediates the volume of
+   extracellular fluid (blood plasma, lymph and interstitial fluid) and
+   arterial vasoconstriction. Thus, it regulates the body's mean arterial
+   blood pressure.
+   Renin isn't commonly referred to as a hormone, albeit it having a
+   receptor, the (pro)renin receptor, also known as the renin receptor and
+   prorenin receptor (see also below), as well as enzymatic activity
+   with which it hydrolyzes angiotensinogen to angiotensin I.

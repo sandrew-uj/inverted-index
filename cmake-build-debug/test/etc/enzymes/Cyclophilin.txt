@@ -1,0 +1,12 @@
+   Cyclophilins (CYPs) are a family of proteins named after their ability
+   to bind to ciclosporin (cyclosporin A), an immunosuppressant which is
+   usually used to suppress rejection after internal organ
+   transplants. They are found in all domains of life. These proteins
+   have peptidyl prolyl isomerase activity, which catalyzes the
+   isomerization of peptide bonds from trans form to cis form at proline
+   residues and facilitates protein folding.
+   Cyclophilin A is a cytosolic and highly abundant protein. The protein
+   belongs to a family of isozymes, including cyclophilins B and C, and
+   natural killer cell cyclophilin-related protein. Major
+   isoforms have been found within single cells, including inside the
+   Endoplasmic reticulum, and some are even secreted.

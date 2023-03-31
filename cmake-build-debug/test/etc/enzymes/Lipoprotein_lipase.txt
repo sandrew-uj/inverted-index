@@ -1,0 +1,114 @@
+   Chromosome 8 (human)
+   Genomic location for LPL
+   Genomic location for LPL
+   Band 8p21.3 Start 19,901,717 bp
+                End  19,967,259 bp
+               Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for LPL
+   Genomic location for LPL
+   Band 8 B3.3|8 33.88 cM Start 68,880,491 bp
+                           End  68,907,448 bp
+      RNA expression pattern
+   PBB GE LPL 203549 s at fs.png
+   PBB GE LPL 203548 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o triglyceride binding
+   o apolipoprotein binding
+   o heparin binding
+   o lipoprotein lipase activity
+   o triglyceride lipase activity
+   o phospholipase activity
+   o GO:0004091 carboxylic ester hydrolase activity
+   o GO:0001948 protein binding
+   o signaling receptor binding
+   o hydrolase activity
+   Cellular component o membrane
+   o GO:0005578 extracellular matrix
+   o chylomicron
+   o cell membrane
+   o very-low-density lipoprotein particle
+   o extracellular region
+   o cell surface
+   o anchored component of membrane
+   o extracellular exosome
+   o extracellular space
+   Biological process o positive regulation of inflammatory response
+   o lipid metabolism
+   o positive regulation of cholesterol storage
+   o response to glucose
+   o retinoid metabolic process
+   o triglyceride catabolic process
+   o lipid catabolic process
+   o positive regulation of macrophage derived foam cell differentiation
+   o positive regulation of sequestering of triglyceride
+   o fatty acid biosynthetic process
+   o very-low-density lipoprotein particle remodeling
+   o response to cold
+   o phospholipid metabolic process
+   o cholesterol homeostasis
+   o triglyceride metabolic process
+   o response to drug
+   o triglyceride homeostasis
+   o triglyceride biosynthetic process
+   o low-density lipoprotein particle mediated signaling
+   o chylomicron remodeling
+   o regulation of lipoprotein lipase activity
+   o response to bacterium
+   o negative regulation of cellular response to insulin stimulus
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   4023
+   16956
+   Ensembl
+   ENSG00000175445
+   ENSMUSG00000015568
+   UniProt
+   P06858
+   P11152
+   RefSeq (mRNA)
+   NM_000237
+   NM_008509
+   RefSeq (protein)
+   NP_000228
+   NP_032535
+   Location (UCSC) Chr 8: 19.9 - 19.97 Mb Chr 8: 68.88 - 68.91 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Lipoprotein lipase
+   Identifiers
+   EC no. 3.1.1.34
+   CAS no. 9004-02-8
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Lipoprotein lipase (LPL) (EC 3.1.1.34) is a member of the lipase gene
+   family, which includes pancreatic lipase, hepatic lipase, and
+   endothelial lipase. It is a water-soluble enzyme that hydrolyzes
+   triglycerides in lipoproteins, such as those found in chylomicrons and
+   very low-density lipoproteins (VLDL), into two free fatty acids and one
+   monoacylglycerol molecule. It is also involved in promoting the
+   cellular uptake of chylomicron remnants, cholesterol-rich lipoproteins,
+   and free fatty acids. LPL requires ApoC-II as a
+   cofactor.
+   LPL is attached to the luminal surface of endothelial cells in
+   capillaries by the protein glycosylphosphatidylinositol HDL-binding
+   protein 1 (GPIHBP1) and by heparan sulfated peptidoglycans. It is
+   most widely distributed in adipose, heart, and skeletal muscle tissue,
+   as well as in lactating mammary glands.

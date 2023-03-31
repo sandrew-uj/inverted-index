@@ -1,0 +1,91 @@
+   1BWC, 1DNC, 1GRA, 1GRB, 1GRE, 1GRF, 1GRG, 1GRH, 1GRT, 1GSN, 1K4Q, 1XAN,
+   2AAQ, 2GH5, 2GRT, 3DJG, 3DJJ, 3DK4, 3DK8, 3DK9, 3GRS, 3GRT, 4GR1, 4GRT,
+   5GRT, 1ALG, 3SQP
+   Identifiers
+   Aliases GSR, HEL-75, HEL-S-122m, glutathione reductase,
+   glutathione-disulfide reductase, GR, GSRD
+   External IDs OMIM: 138300 MGI: 95804 HomoloGene: 531 GeneCards: GSR
+        Gene location (Human)
+   Chromosome 8 (human)
+   Chr. Chromosome 8 (human)
+   Chromosome 8 (human)
+   Genomic location for GSR
+   Genomic location for GSR
+   Band 8p12 Start 30,678,066 bp
+              End  30,727,846 bp
+              Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for GSR
+   Genomic location for GSR
+   Band 8 A3|8 20.69 cM Start 33,652,523 bp
+                         End  33,698,163 bp
+      RNA expression pattern
+   PBB GE GSR 205770 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o flavin adenine dinucleotide binding
+   o glutathione-disulfide reductase (NADPH) activity
+   o NADP binding
+   o oxidoreductase activity
+   o oxidoreductase activity, acting on a sulfur group of donors, NAD(P)
+   as acceptor
+   o electron transfer activity
+   Cellular component o cytoplasm
+   o cytosol
+   o mitochondrial matrix
+   o mitochondrion
+   o extracellular exosome
+   o external side of plasma membrane
+   Biological process o nucleobase-containing small molecule
+   interconversion
+   o glutathione metabolic process
+   o cell redox homeostasis
+   o cellular oxidant detoxification
+   o cellular response to oxidative stress
+   o electron transport chain
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2936
+   14782
+   Ensembl
+   ENSG00000104687
+   ENSMUSG00000031584
+   UniProt
+   P00390
+   P47791
+   RefSeq (mRNA)
+   NM_001195104
+   NM_000637
+   NM_001195102
+   NM_001195103
+   NM_010344
+   RefSeq (protein)
+   NP_000628
+   NP_001182031
+   NP_001182032
+   NP_001182033
+   NP_034474
+   Location (UCSC) Chr 8: 30.68 - 30.73 Mb Chr 8: 33.65 - 33.7 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Glutathione reductase (GR) also known as glutathione-disulfide
+   reductase (GSR) is an enzyme that in humans is encoded by the GSR gene.
+   Glutathione reductase (EC 1.8.1.7) catalyzes the reduction of
+   glutathione disulfide (GSSG) to the sulfhydryl form glutathione (GSH),
+   which is a critical molecule in resisting oxidative stress and
+   maintaining the reducing environment of the cell.
+   Glutathione reductase functions as dimeric disulfide oxidoreductase and
+   utilizes an FAD prosthetic group and NADPH to reduce one molar
+   equivalent of GSSG to two molar equivalents of GSH:
+   General reaction catalyzed by glutathione reductase
+   The glutathione reductase is conserved between all kingdoms. In
+   bacteria, yeasts, and animals, one glutathione reductase gene is found;
+   however, in plant genomes, two GR genes are encoded. Drosophila and
+   trypanosomes do not have any GR at all. In these organisms,
+   glutathione reduction is performed by either the thioredoxin or the
+   trypanothione system, respectively.

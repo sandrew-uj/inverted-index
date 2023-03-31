@@ -1,0 +1,17 @@
+   In enzymology, a vitamin-K-epoxide reductase (warfarin-insensitive) (EC
+   1.17.4.5) is an enzyme that catalyzes the chemical reaction
+          3-hydroxy-2-methyl-3-phytyl-2,3-dihydronaphthoquinone + oxidized
+          dithiothreitol
+          
+          2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone +
+          1,4-dithiothreitol
+   Thus, the two substrates of this enzyme are
+   3-hydroxy-2-methyl-3-phytyl-2,3-dihydronaphthoquinone and oxidized
+   dithiothreitol, whereas its two products are
+   2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone and
+   1,4-dithiothreitol.
+   This enzyme belongs to the family of oxidoreductases, specifically
+   those acting on the CH or CH2 groups of donor with a disulfide as
+   acceptor. The systematic name of this enzyme class is
+   3-hydroxy-2-methyl-3-phytyl-2,3-dihydronaphthoquinone:oxidized-dithi
+   othreitol oxidoreductase.

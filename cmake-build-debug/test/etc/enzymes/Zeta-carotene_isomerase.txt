@@ -1,0 +1,7 @@
+   Zeta-carotene isomerase (EC 5.2.1.12, Z-ISO, 15-cis-zeta-carotene
+   isomerase) is an enzyme with systematic name
+   9,15,9'-tricis-zeta-carotene cis-trans-isomerase. This enzyme
+   catalyses the following chemical reaction
+          9,15,9'-tricis-zeta-carotene
+           9,9'-dicis-zeta-carotene
+   This enzyme is involved in carotenoid biosynthesis.

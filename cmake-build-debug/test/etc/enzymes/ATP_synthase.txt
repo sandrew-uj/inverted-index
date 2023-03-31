@@ -1,0 +1,21 @@
+   ATP synthase is a protein that catalyzes the formation of the energy
+   storage molecule adenosine triphosphate (ATP) using adenosine
+   diphosphate (ADP) and inorganic phosphate (P[i]). It is classified
+   under ligases as it changes ADP by the formation of P-O bond
+   (phosphodiester bond). The overall reaction catalyzed by ATP synthase
+   is:
+     * ADP + P[i] + 2H^+[out] <=> ATP + H[2]O + 2H^+[in]
+   The formation of ATP from ADP and P[i] is energetically unfavorable and
+   would normally proceed in the reverse direction. In order to drive this
+   reaction forward, ATP synthase couples ATP synthesis during cellular
+   respiration to an electrochemical gradient created by the difference in
+   proton (H^+) concentration across the inner mitochondrial membrane in
+   eukaryotes or the plasma membrane in bacteria. During photosynthesis in
+   plants, ATP is synthesized by ATP synthase using a proton gradient
+   created in the thylakoid lumen through the thylakoid membrane and into
+   the chloroplast stroma.
+   Eukaryotic ATP synthases are F-ATPases, running "in reverse" for an
+   ATPase. This article deals mainly with this type. An F-ATPase consists
+   of two main subunits, F[O] and F[1], which has a rotational motor
+   mechanism allowing for ATP production. ATP synthase is a
+   molecular machine.

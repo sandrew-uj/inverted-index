@@ -1,0 +1,7 @@
+   O-succinylbenzoate CoA ligase (EC 6.2.1.26), encoded from the menE gene
+   in Escherichia coli, catalyzes the fifth reaction in the synthesis of
+   menaquinone (vitamin K2). This pathway is called 1,
+   4-dihydroxy-2-naphthoate biosynthesis I. Vitamin K is a quinone
+   that serves as an electron transporter during anaerobic respiration.
+   This process of anaerobic respiration allows the bacteria to generate
+   the energy required to survive.

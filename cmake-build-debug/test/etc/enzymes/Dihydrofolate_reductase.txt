@@ -1,0 +1,139 @@
+   Dihydrofolate reductase
+   PDB 8dfr EBI.jpg
+   Crystal structure of chicken liver dihydrofolate reductase. PDB entry
+   8dfr
+   Identifiers
+   EC no. 1.5.1.3
+   CAS no. 9002-03-3
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Dihydrofolate reductase
+   Identifiers
+   Symbol DHFR_1
+   Pfam PF00186
+   Pfam clan CL0387
+   InterPro IPR001796
+   PROSITE PDOC00072
+   SCOP2 1dhi / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   R67 dihydrofolate reductase
+   PDB 2gqv EBI.jpg
+   High-resolution structure of a plasmid-encoded dihydrofolate reductase
+   from E.coli. PDB entry 2gqv
+   Identifiers
+   Symbol DHFR_2
+   Pfam PF06442
+   InterPro IPR009159
+   SCOP2 1vif / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   DHFR
+   Dihydrofolate reductase 1DRF.png
+   Available structures
+   PDB Ortholog search: PDBe RCSB
+   List of PDB id codes
+   1BOZ, 1DHF, 1DLR, 1DLS, 1DRF, 1HFP, 1HFQ, 1HFR, 1KMS, 1KMV, 1MVS, 1MVT,
+   1OHJ, 1OHK, 1PD8, 1PD9, 1PDB, 1S3U, 1S3V, 1S3W, 1U71, 1U72, 1YHO, 2C2S,
+   2C2T, 2DHF, 2W3A, 2W3B, 2W3M, 3EIG, 3F8Y, 3F8Z, 3F91, 3FS6, 3GHC, 3GHV,
+   3GHW, 3GI2, 3GYF, 3L3R, 3N0H, 3NTZ, 3NU0, 3NXO, 3NXR, 3NXT, 3NXV, 3NXX,
+   3NXY, 3NZD, 3OAF, 3S3V, 3S7A, 4DDR, 4G95, 4KAK, 4KBN, 4KD7, 4KEB, 4KFJ,
+   4M6J, 4M6K, 4M6L, 4QHV, 4QJC
+   Identifiers
+   Aliases DHFR, DHFRP1, DYR, dihydrofolate reductase
+   External IDs OMIM: 126060 MGI: 94890 HomoloGene: 56470 GeneCards: DHFR
+         Gene location (Human)
+   Chromosome 5 (human)
+   Chr. Chromosome 5 (human)
+   Chromosome 5 (human)
+   Genomic location for DHFR
+   Genomic location for DHFR
+   Band 5q14.1 Start 80,626,226 bp
+                End  80,654,983 bp
+               Gene location (Mouse)
+   Chromosome 13 (mouse)
+   Chr. Chromosome 13 (mouse)
+   Chromosome 13 (mouse)
+   Genomic location for DHFR
+   Genomic location for DHFR
+   Band 13 C3|13 47.64 cM Start 92,354,726 bp
+                           End  92,389,053 bp
+   Gene ontology
+   Molecular function o methotrexate binding
+   o folic acid binding
+   o dihydrofolate reductase activity
+   o drug binding
+   o NADPH binding
+   o RNA binding
+   o oxidoreductase activity
+   o mRNA binding
+   o folate reductase activity
+   o translation repressor activity, mRNA regulatory element binding
+   o sequence-specific mRNA binding
+   o NADP binding
+   Cellular component o cytosol
+   o cytoplasm
+   o mitochondrion
+   o cellular component
+   Biological process o response to methotrexate
+   o dihydrofolate metabolic process
+   o one-carbon metabolic process
+   o axon regeneration
+   o regulation of transcription involved in G1/S transition of mitotic
+   cell cycle
+   o tetrahydrofolate metabolic process
+   o tetrahydrofolate biosynthetic process
+   o positive regulation of nitric-oxide synthase activity
+   o folic acid metabolic process
+   o tetrahydrobiopterin biosynthetic process
+   o regulation of removal of superoxide radicals
+   o negative regulation of translation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1719
+   13361
+   Ensembl
+   ENSG00000228716
+   ENSMUSG00000021707
+   UniProt
+   P00374
+   P00375
+   RefSeq (mRNA)
+   NM_000791
+   NM_001290354
+   NM_001290357
+   NM_010049
+   RefSeq (protein)
+   NP_000782
+   NP_001277283
+   NP_001277286
+   NP_034179
+   Location (UCSC) Chr 5: 80.63 - 80.65 Mb Chr 13: 92.35 - 92.39 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Dihydrofolate reductase, or DHFR, is an enzyme that reduces
+   dihydrofolic acid to tetrahydrofolic acid, using NADPH as electron
+   donor, which can be converted to the kinds of tetrahydrofolate
+   cofactors used in 1-carbon transfer chemistry. In humans, the DHFR
+   enzyme is encoded by the DHFR gene. It is found in the q11->q22
+   region of chromosome 5. Bacterial species possess distinct DHFR
+   enzymes (based on their pattern of binding diaminoheterocyclic
+   molecules), but mammalian DHFRs are highly similar.

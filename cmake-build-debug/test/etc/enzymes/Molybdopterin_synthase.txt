@@ -1,0 +1,14 @@
+   Molybdopterin synthase (EC 2.8.1.12, MPT synthase) is an enzyme
+   required to synthesize molybdopterin (MPT) from precursor Z (now known
+   as cyclic pyranopterin monophosphate). Molydopterin is
+   subsequently complexed with molybdenum to form molybdenum cofactor
+   (MoCo). MPT synthase catalyses the following chemical reaction:
+          precursor Z + 2 [molybdopterin-synthase sulfur-carrier
+          protein]-Gly-NH-CH[2]-C(O)SH + H[2]O
+           molybdopterin + 2 molybdopterin-synthase
+          sulfur-carrier protein
+   Molybdopterin synthase is heterodimeric and coded for by the MOCS2
+   gene. Genetic deficiencies of enzymes such as MPT synthase, which
+   are involved in MoCo biosynthesis, lead to MoCo deficiency, a rare
+   disease that results in severe neurological
+   abnormalities.

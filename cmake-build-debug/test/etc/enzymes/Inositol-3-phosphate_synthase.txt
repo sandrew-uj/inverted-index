@@ -1,0 +1,37 @@
+   In enzymology, an inositol-3-phosphate synthase (EC 5.5.1.4) is an
+   enzyme that catalyzes the chemical reaction
+          D-glucose 6-phosphate
+           1D-myo-inositol 3-phosphate
+   Hence, this enzyme has one substrate, D-glucose 6-phosphate, and one
+   product, 1D-myo-inositol 3-phosphate.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   1D-myo-inositol-3-phosphate lyase (isomerizing). Other names in common
+   use include myo-inositol-1-phosphate synthase, D-glucose 6-phosphate
+   cycloaldolase, inositol 1-phosphate synthatase, glucose 6-phosphate
+   cyclase, inositol 1-phosphate synthetase, glucose-6-phosphate inositol
+   monophosphate cycloaldolase, glucocycloaldolase, and
+   1L-myo-inositol-1-phosphate lyase (isomerizing).
+   This enzyme participates in streptomycin biosynthesis and inositol
+   phosphate metabolism. It employs one cofactor, NAD+. The reaction this
+   enzyme catalyses represents the first committed step in the production
+   of all inositol-containing compounds, including phospholipids, either
+   directly or by salvage. The enzyme exists in a cytoplasmic form in a
+   wide range of plants, animals, and fungi. It has also been detected in
+   several bacteria and a chloroplast form is observed in alga and higher
+   plants. Inositol phosphates play an important role in signal
+   transduction.
+   In Saccharomyces cerevisiae (Baker's yeast), the transcriptional
+   regulation of the INO1 gene encoding inositol-3-phosphate synthase has
+   been studied in detail and its expression is sensitive to the
+   availability of phospholipid precursors as well as growth phase.
+   The regulation of the structural gene encoding
+   1L-myo-inositol-1-phosphate synthase has also been analyzed at the
+   transcriptional level in the aquatic angiosperm, Spirodela polyrrhiza
+   (Giant duckweed) and the halophyte, Mesembryanthemum crystallinum
+   (Common ice plant).
+   In prokaryotes, myo-D-inositol phosphate synthase was discovered by
+   Bachhawat and Mande in 1999 (reported in Journal of Molecular Biology).
+   The existence of inositol in prokaryotes is not extensive, but the
+   discovery of this enzyme first in Mycobacterium tuberculosis, nucleated
+   activity towards finding its inhibitors.

@@ -1,0 +1,49 @@
+   n/a
+   n/a
+   Ensembl
+   n/a
+   n/a
+   UniProt
+   n
+   a
+   n/a
+   RefSeq (mRNA)
+   n/a
+   n/a
+   RefSeq (protein)
+   n/a
+   n/a
+   Location (UCSC) n/a n/a
+   PubMed search n/a n/a
+   Wikidata
+                    View/Edit Human
+   catechol-O-methyltransferase
+   Identifiers
+   EC no. 2.1.1.6
+   CAS no. 9012-25-3
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Norepinephrine degradation. Catechol-O-methyltransferase is shown in
+   green boxes.
+   Catechol-O-methyltransferase (COMT; EC 2.1.1.6) is one of several
+   enzymes that degrade catecholamines (neurotransmitters such as
+   dopamine, epinephrine, and norepinephrine), catecholestrogens, and
+   various drugs and substances having a catechol structure. In
+   humans, catechol-O-methyltransferase protein is encoded by the COMT
+   gene. Two isoforms of COMT are produced: the soluble short form
+   (S-COMT) and the membrane bound long form (MB-COMT). As the regulation
+   of catecholamines is impaired in a number of medical conditions,
+   several pharmaceutical drugs target COMT to alter its activity and
+   therefore the availability of catecholamines. COMT was first
+   discovered by the biochemist Julius Axelrod in 1957.

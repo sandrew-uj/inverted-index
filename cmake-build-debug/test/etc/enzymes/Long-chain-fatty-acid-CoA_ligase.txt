@@ -1,0 +1,10 @@
+   The long chain fatty acyl-CoA ligase (or synthetase) is an enzyme of
+   the ligase family that activates the oxidation of complex fatty
+   acids. Long chain fatty acyl-CoA synthetase catalyzes the formation
+   of fatty acyl-CoA by a two-step process proceeding through an
+   adenylated intermediate. The enzyme catalyzes the following
+   reaction,
+          Fatty acid + CoA + ATP <=> Acyl-CoA + AMP + PP[i]
+   It is present in all organisms from bacteria to humans. It catalyzes
+   the pre-step reaction for b-oxidation of fatty acids or can be
+   incorporated in phospholipids.

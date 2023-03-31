@@ -1,0 +1,12 @@
+   Monoamine oxidases (MAO) (EC 1.4.3.4) are a family of enzymes that
+   catalyze the oxidation of monoamines, employing oxygen to clip off
+   their amine group. They are found bound to the outer membrane
+   of mitochondria in most cell types of the body. The first such enzyme
+   was discovered in 1928 by Mary Bernheim in the liver and was named
+   tyramine oxidase. The MAOs belong to the protein family of
+   flavin-containing amine oxidoreductases.
+   MAOs are important in the breakdown of monoamines ingested in food, and
+   also serve to inactivate monoamine neurotransmitters. Because of the
+   latter, they are involved in a number of psychiatric and neurological
+   diseases, some of which can be treated with monoamine oxidase
+   inhibitors (MAOIs) which block the action of MAOs.

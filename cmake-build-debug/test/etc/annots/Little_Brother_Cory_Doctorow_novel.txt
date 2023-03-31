@@ -1,0 +1,32 @@
+
+   Marcus Yallow is a 17-year-old hacker/techno whiz from San Francisco.
+   One day Marcus and his best friend Darryl play truant from school to
+   play an Alternate Reality Game. A terrorist attack is perpetrated
+   against the city, and the four are captured and detained under
+   suspicion of terrorism.
+
+   After a series of interrogations that take place over a period of six
+   days, Marcus, Jolu, and Vanessa are finally released; Darryl's
+   whereabouts are unknown. The DHS tells Marcus that they will be
+   monitoring his actions and moves because he is still a suspect. Marcus
+   is "infuriated at how his civil rights  ignored."
+
+   In response to the increasing surveillance of the city and its
+   citizens, Marcus creates Xnet, a private mesh network intended to allow
+   people to communicate freely while fighting "the surveillance
+   state." Through XNet, using his pseudonym 'Mik3y', Marcus
+   encourages his peers to rebel against the DHS surveillance.
+
+   While introducing a group to Cryptography during a key signing party,
+   Marcus meets Ange, and shortly thereafter they begin to date.
+
+   When a former prisoner who was held by the DHS tells Marcus that Darryl
+   is still alive, Marcus tells a reporter and his family about his
+   actions taken against the DHS. The journalist's story is then published
+   and the DHS takes Marcus into custody again. On order from the
+   governor, California highway patrol troopers raid the DHS compound
+   during a waterboarding interrogation and arrest the DHS agents. Darryl
+   is subsequently freed and Marcus, after his parents have to pay his
+   bail to make sure he doesn't go to prison, finally returns to his life
+   the way it was before the terrorist attacks.
+

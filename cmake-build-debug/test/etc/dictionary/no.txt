@@ -1,0 +1,8 @@
+               o 1.1.1 Sense: that is incorrect
+               o 1.2.1 Sense: mild disapproval
+               o 1.2.2 Sense: disgust
+               o 1.2.3 Sense: vehement rejection of truthfulness
+Sense: that is incorrect
+Sense: mild disapproval
+Sense: disgust
+Sense: vehement rejection of truthfulness

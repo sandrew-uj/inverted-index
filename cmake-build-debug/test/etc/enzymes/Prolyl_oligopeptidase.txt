@@ -1,0 +1,55 @@
+   3DDU
+   Identifiers
+   Aliases PREP, PE, PEP, prolyl endopeptidase
+   External IDs OMIM: 600400 MGI: 1270863 HomoloGene: 2042 GeneCards: PREP
+         Gene location (Human)
+   Chromosome 6 (human)
+   Chr. Chromosome 6 (human)
+   Chromosome 6 (human)
+   Genomic location for PREP
+   Genomic location for PREP
+   Band 6q21 Start 105,273,218 bp
+              End  105,454,062 bp
+      RNA expression pattern
+   PBB GE PREP 37950 at fs.png
+   PBB GE PREP 204117 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o serine-type exopeptidase activity
+   o peptidase activity
+   o serine-type peptidase activity
+   o serine-type endopeptidase activity
+   o GO:0001948 protein binding
+   o hydrolase activity
+   o endopeptidase activity
+   o oligopeptidase activity
+   Cellular component o membrane
+   o nucleus
+   o cytoplasm
+   o cytosol
+   Biological process o proteolysis
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5550
+   19072
+   Ensembl
+   ENSG00000085377
+   ENSMUSG00000019849
+   UniProt
+   P48147
+   Q9QUR6
+   RefSeq (mRNA)
+   NM_002726
+   NM_011156
+   RefSeq (protein)
+   NP_002717
+   NP_035286
+   Location (UCSC) Chr 6: 105.27 - 105.45 Mb n/a
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Prolyl endopeptidase (PE) also known as prolyl oligopeptidase or
+   post-proline cleaving enzyme is an enzyme that in humans is encoded by
+   the PREP gene.

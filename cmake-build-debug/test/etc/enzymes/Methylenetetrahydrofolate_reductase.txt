@@ -1,0 +1,86 @@
+   Chromosome 1 (human)
+   Genomic location for MTHFR
+   Genomic location for MTHFR
+   Band 1p36.22 Start 11,785,723 bp
+                 End  11,806,455 bp
+              Gene location (Mouse)
+   Chromosome 4 (mouse)
+   Chr. Chromosome 4 (mouse)
+   Chromosome 4 (mouse)
+   Genomic location for MTHFR
+   Genomic location for MTHFR
+   Band 4 E2|4 78.67 cM Start 148,039,077 bp
+                         End  148,059,551 bp
+      RNA expression pattern
+   PBB GE MTHFR 217070 at fs.png
+   PBB GE MTHFR 217071 s at fs.png
+   PBB GE MTHFR 206800 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o flavin adenine dinucleotide binding
+   o methylenetetrahydrofolate reductase (NAD(P)H) activity
+   o modified amino acid binding
+   o catalytic activity
+   o NADP binding
+   o oxidoreductase activity
+   o GO:0032403 protein-containing complex binding
+   Cellular component o cytosol
+   o synapse
+   Biological process o response to amino acid
+   o response to interleukin-1
+   o response to hypoxia
+   o cellular amino acid metabolic process
+   o tetrahydrofolate interconversion
+   o S-adenosylmethionine metabolic process
+   o blood circulation
+   o tetrahydrofolate metabolic process
+   o methionine metabolic process
+   o regulation of histone methylation
+   o response to vitamin B2
+   o folic acid metabolic process
+   o homocysteine metabolic process
+   o response to folic acid
+   o metabolism
+   o heterochromatin maintenance
+   o response to drug
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   4524
+   17769
+   Ensembl
+   ENSG00000177000
+   ENSMUSG00000029009
+   UniProt
+   P42898
+   Q9WU20
+   RefSeq (mRNA)
+   NM_005957
+   NM_001330358
+   NM_001161798
+   NM_010840
+   RefSeq (protein)
+   NP_001317287
+   NP_005948
+   NP_001155270
+   NP_034970
+   Location (UCSC) Chr 1: 11.79 - 11.81 Mb Chr 4: 148.04 - 148.06 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Methylene tetrahydrofolate reductase (MTHFR) is the rate-limiting
+   enzyme in the methyl cycle, and it is encoded by the MTHFR gene.
+   Methylenetetrahydrofolate reductase catalyzes the conversion of
+   5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a
+   cosubstrate for homocysteine remethylation to methionine. Natural
+   variation in this gene is common in otherwise healthy people. Although
+   some variants have been reported to influence susceptibility to
+   occlusive vascular disease, neural tube defects, Alzheimer's disease
+   and other forms of dementia, colon cancer, and acute leukemia, findings
+   from small early studies have not been reproduced. Some mutations in
+   this gene are associated with methylenetetrahydrofolate reductase
+   deficiency. Complex I deficiency with recessive spastic
+   paraparesis has also been linked to MTHFR variants. In addition, the
+   aberrant promoter hypermethylation of this gene is associated with male
+   infertility and recurrent spontaneous abortion.

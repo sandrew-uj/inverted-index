@@ -1,0 +1,4 @@
+   In biochemistry, the DNA methyltransferase (DNA MTase, DNMT) family of
+   enzymes catalyze the transfer of a methyl group to DNA. DNA methylation
+   serves a wide variety of biological functions. All the known DNA
+   methyltransferases use S-adenosyl methionine (SAM) as the methyl donor.

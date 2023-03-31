@@ -1,0 +1,16 @@
+   In enzymology, a succinate-CoA ligase (ADP-forming) (EC 6.2.1.5) is an
+   enzyme that catalyzes the chemical reaction
+          ATP + succinate + CoA
+           ADP + phosphate + succinyl-CoA
+   The 3 substrates of this enzyme are ATP, succinate, and CoA, whereas
+   its 3 products are ADP, phosphate, and succinyl-CoA.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is succinate:CoA ligase (ADP-forming). Other names
+   in common use include succinyl-CoA synthetase (ADP-forming), succinic
+   thiokinase, succinate thiokinase, succinyl-CoA synthetase, succinyl
+   coenzyme A synthetase (adenosine diphosphate-forming), succinyl
+   coenzyme A synthetase, A-STK (adenin nucleotide-linked succinate
+   thiokinase), STK, and A-SCS. This enzyme participates in 4 metabolic
+   pathways: Citric acid cycle, propanoate metabolism, c5-branched dibasic
+   acid metabolism, and reductive carboxylate cycle (CO[2] fixation).

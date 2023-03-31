@@ -1,0 +1,15 @@
+   In enzymology, an oxalate-CoA ligase (EC 6.2.1.8) is an enzyme that
+   catalyzes the chemical reaction
+          ATP + oxalate + CoA
+           AMP + diphosphate + oxalyl-CoA
+   The 3 substrates of this enzyme are ATP, oxalate, and coenzyme A (CoA),
+   whereas its 3 products are AMP, diphosphate, and oxalyl-CoA.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is oxalate:CoA ligase (AMP-forming). Other names
+   in common use include oxalyl-CoA synthetase, and oxalyl coenzyme A
+   synthetase. This enzyme participates in glyoxylate and dicarboxylate
+   metabolism.
+   Organisms with Oxalate-CoA Ligases include:
+   Arabidopsis thaliana
+   Saccharomyces cerevisiae

@@ -1,0 +1,10 @@
+   Arsenate reductase (glutaredoxin) (EC 1.20.4.1) is an enzyme that
+   catalyzes the chemical reaction
+          arsenate + glutaredoxin
+           arsenite + glutaredoxin disulfide + H[2]O
+   Thus, the two substrates of this enzyme are arsenate and glutaredoxin,
+   whereas its 3 products are arsenite, glutaredoxin disulfide, and water.
+   This enzyme belongs to the family of oxidoreductases, specifically
+   those acting on phosphorus or arsenic in donor with disulfide as
+   acceptor. The systematic name of this enzyme class is
+   glutaredoxin:arsenate oxidoreductase.

@@ -1,0 +1,103 @@
+   1FB1
+   Identifiers
+   Aliases GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B, GTP
+   cyclohydrolase 1
+   External IDs OMIM: 600225 MGI: 95675 HomoloGene: 132 GeneCards: GCH1
+          Gene location (Human)
+   Chromosome 14 (human)
+   Chr. Chromosome 14 (human)
+   Chromosome 14 (human)
+   Genomic location for GCH1
+   Genomic location for GCH1
+   Band 14q22.2 Start 54,842,008 bp
+                 End  54,902,826 bp
+              Gene location (Mouse)
+   Chromosome 14 (mouse)
+   Chr. Chromosome 14 (mouse)
+   Chromosome 14 (mouse)
+   Genomic location for GCH1
+   Genomic location for GCH1
+   Band 14 C1|14 24.6 cM Start 47,153,895 bp
+                          End  47,189,413 bp
+       RNA expression pattern
+   PBB GE GCH1 204224 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o nucleotide binding
+   o calcium ion binding
+   o protein homodimerization activity
+   o zinc ion binding
+   o GTP binding
+   o metal ion binding
+   o GO:0001948 protein binding
+   o catalytic activity
+   o hydrolase activity
+   o GTP cyclohydrolase I activity
+   o mitogen-activated protein kinase binding
+   o GO:0006184 GTPase activity
+   o GTP-dependent protein binding
+   o translation initiation factor binding
+   Cellular component o cytoplasm
+   o cytosol
+   o nuclear membrane
+   o nucleoplasm
+   o GO:0016023 cytoplasmic vesicle
+   o nucleus
+   o neuron projection terminus
+   o protein-containing complex
+   Biological process o nitric oxide biosynthetic process
+   o response to interferon-gamma
+   o neuromuscular process controlling posture
+   o protein heterooligomerization
+   o negative regulation of blood pressure
+   o dopamine biosynthetic process
+   o regulation of lung blood pressure
+   o vasodilation
+   o pteridine-containing compound biosynthetic process
+   o 7,8-dihydroneopterin 3'-triphosphate biosynthetic process
+   o dihydrobiopterin metabolic process
+   o regulation of blood pressure
+   o response to tumor necrosis factor
+   o tetrahydrofolate biosynthetic process
+   o response to lipopolysaccharide
+   o positive regulation of nitric-oxide synthase activity
+   o response to pain
+   o tetrahydrobiopterin biosynthetic process
+   o metabolism
+   o protein homooligomerization
+   o regulation of removal of superoxide radicals
+   o positive regulation of heart rate
+   o protein-containing complex assembly
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2643
+   14528
+   Ensembl
+   ENSG00000131979
+   ENSMUSG00000037580
+   UniProt
+   P30793
+   Q05915
+   RefSeq (mRNA)
+   NM_000161
+   NM_001024024
+   NM_001024070
+   NM_001024071
+   NM_008102
+   RefSeq (protein)
+   NP_000152
+   NP_001019195
+   NP_001019241
+   NP_001019242
+   NP_032128
+   Location (UCSC) Chr 14: 54.84 - 54.9 Mb Chr 14: 47.15 - 47.19 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   GTP cyclohydrolase I (GTPCH) (EC 3.5.4.16) is a member of the GTP
+   cyclohydrolase family of enzymes. GTPCH is part of the folate and
+   biopterin biosynthesis pathways. It is responsible for the hydrolysis
+   of guanosine triphosphate (GTP) to form 7,8-dihydroneopterin
+   triphosphate (7,8-DHNP-3'-TP, 7,8-NH[2]-3'-TP).

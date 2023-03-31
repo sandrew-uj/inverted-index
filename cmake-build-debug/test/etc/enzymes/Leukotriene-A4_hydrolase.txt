@@ -1,0 +1,4 @@
+   Leukotriene A4 hydrolase, also known as LTA4H is a human
+   gene. The protein encoded by this gene is a bifunctional
+   enzyme (EC 3.3.2.6) which converts leukotriene A4 to leukotriene B4 and
+   acts as an aminopeptidase.

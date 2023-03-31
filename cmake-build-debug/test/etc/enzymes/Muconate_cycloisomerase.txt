@@ -1,0 +1,27 @@
+   Muconate lactonizing enzymes (EC 5.5.1.1, muconate cycloisomerase I,
+   cis,cis-muconate-lactonizing enzyme, cis,cis-muconate cycloisomerase,
+   4-carboxymethyl-4-hydroxyisocrotonolactone lyase (decyclizing), CatB,
+   MCI, MLE, 2,5-dihydro-5-oxofuran-2-acetate lyase (decyclizing)) are
+   involved in the breakdown of lignin-derived aromatics, catechol and
+   protocatechuate, to citric acid cycle intermediates as a part of the
+   b-ketoadipate pathway in soil microbes. Some bacterial species are also
+   capable of dehalogenating chloroaromatic compounds by the action of
+   chloromuconate lactonizing enzymes. MLEs consist of several strands
+   which have variable reaction favorable parts therefore the
+   configuration of the strands affect its ability to accept protons.
+   The bacterial MLEs belong to the enolase superfamily, several
+   structures from which are known. MLEs have an identifying
+   structure made up of two proteins and two Magnesium ions as well as
+   various classes depending on whether it is bacterial or
+   eukaryotic.  The reaction mechanism that MLEs undergo are the
+   reverse of beta-elimination in which the enolate alpha-carbon is
+   protonated. MLEs can undergo mutations caused by a deletion of catB
+   structural genes which can cause some bacteria to lose its functions
+   such as the ability to grow. Additional mutations to MLEs can cause
+   its structure and function to alter and could cause the conformation to
+   change therefore making it an inactive enzyme that is unable to bind
+   its substrate. There is another enzyme called Mandelate Racemase
+   that is very similar to MLEs in the structural way as well as them both
+   being a part of the enolase superfamily. They both have the same end
+   product even though they undergo different chemical reactions in order
+   to reach the end product.

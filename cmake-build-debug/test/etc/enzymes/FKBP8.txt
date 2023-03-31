@@ -1,0 +1,98 @@
+   2AWG, 2D9F, 2F2D, 2MF9, 3EY6
+   Identifiers
+   Aliases FKBP8, FKBP38, FKBPr38, FK506 binding protein 8, FKBP prolyl
+   isomerase 8
+   External IDs OMIM: 604840 MGI: 1341070 HomoloGene: 7720 GeneCards:
+   FKBP8
+          Gene location (Human)
+   Chromosome 19 (human)
+   Chr. Chromosome 19 (human)
+   Chromosome 19 (human)
+   Genomic location for FKBP8
+   Genomic location for FKBP8
+   Band 19p13.11 Start 18,531,751 bp
+                  End  18,544,077 bp
+          Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for FKBP8
+   Genomic location for FKBP8
+   Band 8|8 B3.3 Start 70,527,724 bp
+                  End  70,535,328 bp
+       RNA expression pattern
+   PBB GE FKBP8 208255 s at fs.png
+   PBB GE FKBP8 40850 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o FK506 binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   o metal ion binding
+   o GO:0001948 protein binding
+   o identical protein binding
+   o disordered domain specific binding
+   Cellular component o integral component of membrane
+   o membrane
+   o mitochondrial membrane
+   o integral component of endoplasmic reticulum membrane
+   o mitochondrial envelope
+   o mitochondrion
+   o endoplasmic reticulum
+   o cytosol
+   o cytoplasm
+   o protein-containing complex
+   Biological process o apoptotic process
+   o GO:0007243 intracellular signal transduction
+   o multicellular organism growth
+   o cell fate specification
+   o negative regulation of apoptotic process
+   o regulation of BMP signaling pathway
+   o neural tube development
+   o positive regulation of BMP signaling pathway
+   o regulation of gene expression
+   o smoothened signaling pathway
+   o camera-type eye development
+   o dorsal/ventral neural tube patterning
+   o GO:0022415 viral process
+   o dorsal/ventral pattern formation
+   o chaperone-mediated protein folding
+   o protein peptidyl-prolyl isomerization
+   o negative regulation of protein phosphorylation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   23770
+   14232
+   Ensembl
+   ENSG00000105701
+   ENSMUSG00000019428
+   UniProt
+   Q14318
+   O35465
+   RefSeq (mRNA)
+   NM_001308373
+   NM_012181
+   NM_001111066
+   NM_001199631
+   NM_010223
+   RefSeq (protein)
+   NP_001295302
+   NP_036313
+   NP_001295302.1
+   NP_001104536
+   NP_001186560
+   NP_034353
+   Location (UCSC) Chr 19: 18.53 - 18.54 Mb Chr 8: 70.53 - 70.54 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 8 is a protein that in humans is encoded by the
+   FKBP8 gene.
+   The protein encoded by this gene is a member of the immunophilin
+   protein family, which play a role in immunoregulation and basic
+   cellular processes involving protein folding and trafficking. Unlike
+   the other members of the family, this encoded protein does not seem to
+   have PPIase/rotamase activity. It may have a role in neurons associated
+   with memory function.

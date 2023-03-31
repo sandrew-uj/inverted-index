@@ -1,0 +1,119 @@
+
+   The novel opens aboard Hong Kong-based TransPacific Airlines Flight
+   545, a Norton Aircraft-manufactured N-22 wide-body aircraft, flying
+   from Hong Kong to Denver. An incident occurs on board the plane about
+   1/2 hour west of the California coast, and the pilot requests an
+   emergency landing at Los Angeles International Airport, stating that
+   the plane encountered "severe turbulence" in flight. The pilot gives
+   air traffic control conflicting information regarding the types and
+   severity of injuries, but does inform them that crew members are hurt
+   and "two passengers are dead."
+
+   The incident seems inexplicable. The N-22 is a plane with an excellent
+   safety record, and the captain, John Zhen Chang, is highly skilled,
+   making the possibility of human error unlikely. Passengers and flight
+   crew give almost identical accounts of the circumstances of the
+   disaster, and the most likely explanation turns out to be a technical
+   problem that was thought to have been fixed years before. As Vice
+   President of Quality Assurance at Norton Aircraft, it is Casey
+   Singleton's job to try to protect the design's (and Norton's)
+   reputation, especially since it jeopardizes a crucial aircraft purchase
+   deal with China. However, not only does she have to deal with a
+   ratings-hungry media intent on assigning blame for the incident, she
+   must also deal with Bob Richman, an arrogant and suspicious Norton
+   family member assigned to assist her. All the while, she has to
+   navigate the murky politics of the factory union and try and soothe the
+   tempers of disgruntled Norton workers who fear the fallout from the
+   incident will bankrupt the company and cost them their jobs.
+
+   When the company's Incident Review Team begins to investigate, they
+   discover that the plane's Flight Data Recorder (FDR) had malfunctioned
+   prior to the accident, and thus the data on any system errors or pilot
+   control inputs is corrupted. Because Cockpit Voice Recorders (CVRs) are
+   not allowed to store longer recordings due to Federal Aviation
+   Administration restrictions, the CVR data from the time of the
+   accident has also been lost. Without FDR and CVR data, the team is
+   forced to go over every part and circuit of the aircraft to look for
+   what might have caused the accident. At first, all signs point to a
+   malfunction of the plane's slats having caused them to deploy
+   mid-flight. Though other N-22s had exhibited similar slats errors in
+   the past, they were thought to have been caused by pilots inadvertently
+   snagging the control lever. Norton assumed that the slats problem had
+   been fixed by its subsequent Airworthiness Directives (ADs) locking the
+   lever into place and covering it when not in use. The team is anxious
+   to prove that this was not the cause of the accident, because a slats
+   malfunction despite both ADs' being fully implemented points to an
+   underlying error that could make the N-22 unsafe to fly. Their search
+   eventually uncovers a counterfeit part likely installed by a careless
+   maintenance worker, but this would not have been enough to cause the
+   accident on its own.
+
+   Upon reviewing the plane's raw fault data printouts, Casey realizes
+   that the plane was equipped with a Quick Access Recorder (QAR). A QAR
+   provides even more detailed flight data than the FDR, but the team did
+   not know the plane was equipped with one because QARs are optional.
+   Casey locates the QAR on board the N-22, and she is able to piece
+   together the events that caused the accident from the data it recorded.
+
+   Contrary to public belief, the accident was caused not by a design flaw
+   at Norton, but by an accident cascade stemming from poor maintenance
+   practices at Transpacific Airlines and from pilot error. First, the
+   counterfeit part caused a sensor in the plane's wing to malfunction,
+   which produced an error message in the cockpit. This error message
+   could be cleared by deploying and retracting the plane's slats.
+   Although deploying the slats would change the shape of the wing, the
+   N-22's autopilot was capable of making the necessary adjustments
+   without incident. However, the pilot at the time of the accident
+   manually overcorrected, overriding the autopilot and sending the plane
+   into a series of oscillations that resulted in fatalities. Originally,
+   this had been ruled out as a possible cause because the plane's
+   captain, who was reportedly at the controls during the accident, was a
+   highly capable pilot with ample experience flying the N-22. However,
+   Casey noticed that Chang's son Thomas was listed as a member of the
+   flight crew. Although Thomas was a pilot, he was not type certified to
+   fly the N-22 and was thus unfamiliar with the particulars of its
+   systems. A videotape taken by a passenger reveals that Chang had
+   allowed Thomas to take the plane's controls at the time of the
+   accident. A pilot more familiar with the aircraft would have known to
+   allow the autopilot to correct for slats deployment, but Thomas's
+   inexperience caused him to panic and assume manual control.
+   Transpacific attempted to cover this up by changing his position on the
+   crew list from first officer (a pilot with authorization to fly the
+   plane) to flight engineer (a mechanic in charge of the aircraft
+   systems). Chang - who had been knocked unconscious during the accident
+   and later died in the hospital - was disguised as a first officer so
+   that no one would realize he was outside the cockpit when the accident
+   occurred.
+
+   Despite her initial excitement at exonerating Norton, Casey realizes
+   that she cannot publicize this information. Publicly pinning the blame
+   for the accident on a TransPacific employee would sour relations with
+   the airline, ruining future sales just as surely as any N-22 safety
+   issues would.
+
+   As Casey investigates further, she discovers a deeper plan at work.
+   Richman had secretly plotted with another Norton executive, John
+   Marder, to oust CEO Harold Edgarton from his position and seize control
+   of the company. They intended to wait for an incident that would put
+   the N-22's reputation in question and torpedo the company's deal with
+   China. Then, once in control of Norton, they would finalize an even
+   larger deal with a South Korean airline. The deal, already prepared,
+   would initially be worth several billion dollars, leading to huge
+   profits for current stockholders, but would eventually destroy the
+   company by moving production of the wing overseas, giving critical
+   know-how away to competitors.
+
+   Casey manages to thwart the plan by revealing the truth to TV producer
+   Jennifer Malone, who had promised to run a devastating report on the
+   N-22's safety issues. Once Malone is shown the evidence, she cannot
+   claim ignorance of the truth and air her report anyway without opening
+   herself up to a defamation lawsuit. She is also unable to report the
+   true story, since her boss doesn't think it's exciting enough to hold
+   people's attention.
+
+   With the N-22's reputation cleared, the China deal goes off without a
+   hitch, and the company's future is secured. Afterwards, Edgarton
+   promotes Casey to head the company's Media Relations Division. Richman
+   is later arrested in Singapore for narcotics possession, while Marder
+   leaves the company, supposedly on good terms.
+

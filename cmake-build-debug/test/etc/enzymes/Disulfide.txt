@@ -1,0 +1,10 @@
+   In chemistry, a disulfide refers to a functional group with the
+   structure R-S-S-R'. The linkage is also called an SS-bond or sometimes
+   a disulfide bridge and is usually derived by the coupling of two thiol
+   groups. In biology, disulfide bridges formed between thiol groups in
+   two cysteine residues are an important component of the secondary and
+   tertiary structure of proteins. Persulfide usually refers to R-S-S-H
+   compounds.
+   In inorganic chemistry disulfide usually refers to the corresponding
+   anion S^2-
+   [2] (^-S-S^-).

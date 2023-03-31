@@ -1,0 +1,9 @@
+   An acid anhydride is a type of chemical compound derived by the removal
+   of water molecules from an acid.
+   In organic chemistry, organic acid anhydrides contain the functional
+   group R(CO)O(CO)R'. Organic acid anhydrides often form when one
+   equivalent of water is removed from two equivalents of an organic acid
+   in a dehydration reaction.
+   In inorganic chemistry, an acid anhydride refers to an acidic oxide, an
+   oxide that reacts with water to form an oxyacid (an inorganic acid that
+   contains oxygen or carbonic acid), or with a base to form a salt.

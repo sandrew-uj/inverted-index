@@ -1,0 +1,96 @@
+   3BG3, 3BG9
+   Identifiers
+   Aliases PC, pyruvate carboxylase, PCB
+   External IDs OMIM: 608786 MGI: 97520 HomoloGene: 5422 GeneCards: PC
+          Gene location (Human)
+   Chromosome 11 (human)
+   Chr. Chromosome 11 (human)
+   Chromosome 11 (human)
+   Genomic location for PC
+   Genomic location for PC
+   Band 11q13.2 Start 66,848,417 bp
+                 End  66,958,386 bp
+             Gene location (Mouse)
+   Chromosome 19 (mouse)
+   Chr. Chromosome 19 (mouse)
+   Chromosome 19 (mouse)
+   Genomic location for PC
+   Genomic location for PC
+   Band 19 A|19 4.07 cM Start 4,510,472 bp
+                         End  4,621,752 bp
+   Gene ontology
+   Molecular function o nucleotide binding
+   o biotin binding
+   o metal ion binding
+   o pyruvate carboxylase activity
+   o ligase activity
+   o GO:0001948 protein binding
+   o catalytic activity
+   o ATP binding
+   o identical protein binding
+   Cellular component o cytoplasm
+   o cytosol
+   o mitochondrial matrix
+   o mitochondrion
+   Biological process o gluconeogenesis
+   o positive regulation by host of viral release from host cell
+   o biotin metabolic process
+   o lipid metabolism
+   o negative regulation of gene expression
+   o positive regulation by host of viral process
+   o pyruvate metabolic process
+   o viral RNA genome packaging
+   o metabolism
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5091
+   18563
+   Ensembl
+   ENSG00000173599
+   ENSMUSG00000024892
+   UniProt
+   P11498
+   Q05920
+   RefSeq (mRNA)
+   NM_000920
+   NM_001040716
+   NM_022172
+   NM_001162946
+   NM_008797
+   RefSeq (protein)
+   NP_000911
+   NP_001035806
+   NP_071504
+   n/a
+   Location (UCSC) Chr 11: 66.85 - 66.96 Mb Chr 19: 4.51 - 4.62 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Pyruvate carboxylase (PC) encoded by the gene PC is an enzyme of the
+   ligase class that catalyzes (depending on the species) the
+   physiologically irreversible^[citation needed] carboxylation of
+   pyruvate to form oxaloacetate (OAA).
+     * Pyruvic acid
+     * Oxaloacetic acid
+   The reaction it catalyzes is:
+          pyruvate + HCO^-
+          [3] + ATP -> oxaloacetate + ADP + P
+   It is an important anaplerotic reaction that creates oxaloacetate from
+   pyruvate. The enzyme is a mitochondrial protein containing a biotin
+   prosthetic group, requiring magnesium or manganese and acetyl-CoA.
+   Pyruvate carboxylase was first discovered in 1959 at Case Western
+   Reserve University by M. F. Utter and D. B. Keech. Since then
+   it has been found in a wide variety of prokaryotes and eukaryotes
+   including fungi, bacteria, plants, and animals. In mammals, PC
+   plays a crucial role in gluconeogenesis and lipogenesis, in the
+   biosynthesis of neurotransmitters, and in glucose-induced insulin
+   secretion by pancreatic islets. Oxaloacetate produced by PC is an
+   important intermediate, which is used in these biosynthetic
+   pathways. In mammals, PC is expressed in a tissue-specific manner,
+   with its activity found to be highest in the liver and kidney
+   (gluconeogenic tissues), in adipose tissue and lactating mammary gland
+   (lipogenic tissues), and in pancreatic islets. Activity is moderate in
+   brain, heart and adrenal gland, and least in white blood cells and skin
+   fibroblasts.

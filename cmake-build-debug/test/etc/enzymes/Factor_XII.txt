@@ -1,0 +1,79 @@
+   4BDW, 4BDX, 4XDE, 4XE4
+   Identifiers
+   Aliases F12, HAE3, HAEX, HAF, coagulation factor XII
+   External IDs OMIM: 610619 MGI: 1891012 HomoloGene: 425 GeneCards: F12
+          Gene location (Human)
+   Chromosome 5 (human)
+   Chr. Chromosome 5 (human)
+   Chromosome 5 (human)
+   Genomic location for F12
+   Genomic location for F12
+   Band 5q35.3 Start 177,402,141 bp
+                End  177,409,564 bp
+          Gene location (Mouse)
+   Chromosome 13 (mouse)
+   Chr. Chromosome 13 (mouse)
+   Chromosome 13 (mouse)
+   Genomic location for F12
+   Genomic location for F12
+   Band 13|13 B1 Start 55,417,958 bp
+                  End  55,426,793 bp
+      RNA expression pattern
+   PBB GE F12 205774 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o misfolded protein binding
+   o peptidase activity
+   o GO:0001948 protein binding
+   o serine-type peptidase activity
+   o hydrolase activity
+   o serine-type endopeptidase activity
+   o calcium ion binding
+   Cellular component o cell membrane
+   o extracellular region
+   o extracellular exosome
+   o extracellular space
+   o rough endoplasmic reticulum
+   o collagen-containing extracellular matrix
+   Biological process o hemostasis
+   o blood coagulation, intrinsic pathway
+   o response to misfolded protein
+   o positive regulation of plasminogen activation
+   o fibrinolysis
+   o zymogen activation
+   o protein processing
+   o protein autoprocessing
+   o proteolysis
+   o positive regulation of blood coagulation
+   o positive regulation of fibrinolysis
+   o innate immune response
+   o regulation of blood coagulation
+   o plasma kallikrein-kinin cascade
+   o Factor XII activation
+   o blood coagulation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2161
+   58992
+   Ensembl
+   ENSG00000131187
+   ENSMUSG00000021492
+   UniProt
+   P00748
+   Q80YC5
+   RefSeq (mRNA)
+   NM_000505
+   NM_021489
+   RefSeq (protein)
+   NP_000496
+   NP_067464
+   Location (UCSC) Chr 5: 177.4 - 177.41 Mb Chr 13: 55.42 - 55.43 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Coagulation factor XII, also known as Hageman factor, is a plasma
+   protein. It is the zymogen form of factor XIIa, an enzyme (EC
+   3.4.21.38) of the serine protease (or serine endopeptidase) class. In
+   humans, factor XII is encoded by the F12 gene.

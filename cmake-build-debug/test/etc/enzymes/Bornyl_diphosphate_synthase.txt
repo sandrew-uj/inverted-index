@@ -1,0 +1,28 @@
+   In enzymology, bornyl diphosphate synthase (BPPS) (EC 5.5.1.8) is an
+   enzyme that catalyzes the chemical reaction
+          geranyl diphosphate
+           (+)-bornyl diphosphate
+   Bornyl diphosphate synthase is involved in the biosynthesis of the
+   cyclic monoterpenoid bornyl diphosphate. As seen from the reaction
+   above, BPPS takes geranyl diphosphate as its only substrate and
+   isomerizes into the product, (+)- bornyl diphosphate. This reaction
+   comes from a general class of enzymes called terpene synthases that
+   cyclize a universal precursor, geranyl diphosphate, to form varying
+   monocyclic and bicyclic monoterpenes. The biochemical
+   transformation of geranyl diphosphate to cyclic products occurs in a
+   variety of aromatic plants, including both angiosperms and gymnosperms,
+   and is used for various purposes described in sections below.
+   Terpene synthases like BPPS are the primary enzymes in the formation of
+   low-molecular-weight terpene metabolites. The organization of terpene
+   synthases, their characteristic ability to form multiple products, and
+   regulation in response to biotic and abiotic factors contribute to the
+   formation of a diverse group of terpene metabolites. The structural
+   diversity and complexity of terpenes generates an enormous potential
+   for mediating plant-environment interactions.
+   The systematic name of this enzyme class is (+)-bornyl-diphosphate
+   lyase (decyclizing). Other names in common use include bornyl
+   pyrophosphate synthase, bornyl pyrophosphate synthetase,
+   (+)-bornylpyrophosphate cyclase, and geranyl-diphosphate cyclase
+   (ambiguous). This enzyme participates in monoterpenoid biosynthesis and
+   belongs to the family of isomerases, specifically the class of
+   intramolecular lyases.

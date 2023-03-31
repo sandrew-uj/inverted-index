@@ -1,0 +1,2 @@
+   CTP synthase is an enzyme involved in pyrimidine biosynthesis that
+   interconverts UTP and CTP.

@@ -1,0 +1,191 @@
+
+   Computer at home, USA 1965
+
+   As early as 1965, some experimental projects, such as Jim Sutherland's
+   ECHO IV, explored the possible utility of a computer in the
+   home. In 1969, the Honeywell Kitchen Computer was marketed as
+   a luxury gift item, and would have inaugurated the era of home
+   computing, but none were sold.
+
+   Computers became affordable for the general public in the 1970s due to
+   the mass production of the microprocessor starting in 1971. Early
+   microcomputers such as the Altair 8800 had front-mounted switches and
+   diagnostic lights (nicknamed "blinkenlights") to control and indicate
+   internal system status, and were often sold in kit form to hobbyists.
+   These kits would contain an empty printed circuit board which the buyer
+   would fill with the integrated circuits, other individual electronic
+   components, wires and connectors, and then hand-solder all the
+   connections.
+
+   While two early home computers (Sinclair ZX80 and Acorn Atom) could be
+   bought either in kit form or assembled, most home computers were only
+   sold pre-assembled. They were enclosed in plastic or metal cases
+   similar in appearance to typewriter or hi-fi equipment enclosures,
+   which were more familiar and attractive to consumers than the
+   industrial metal card-cage enclosures used by the Altair and similar
+   computers. The keyboard - a feature lacking on the Altair - was usually
+   built into the same case as the motherboard. Ports for plug-in
+   peripheral devices such as a video display, cassette tape recorders,
+   joysticks, and (later) disk drives were either built-in or available on
+   expansion cards. Although the Apple II series had internal expansion
+   slots, most other home computer models' expansion arrangements were
+   through externally accessible 'expansion ports' that also served as a
+   place to plug in cartridge-based games. Usually the manufacturer would
+   sell peripheral devices designed to be compatible with their computers
+   as extra cost accessories. Peripherals and software were not often
+   interchangeable between different brands of home computer, or even
+   between successive models of the same brand.
+
+   To save the cost of a dedicated monitor, the home computer would often
+   connect through an RF modulator to the family TV set, which served as
+   both video display and sound system.
+
+   By 1982, an estimated 621,000 home computers were in American
+   households, at an average sales price of US$530 (equivalent to $1,421
+   in 2020). After the success of the Radio Shack TRS-80, the
+   Commodore PET and the Apple II in 1977, almost every manufacturer of
+   consumer electronics rushed to introduce a home computer. Large numbers
+   of new machines of all types began to appear during the late 1970s and
+   early 1980s. Mattel, Coleco, Texas Instruments and Timex, none of which
+   had any prior connection to the computer industry, all had short-lived
+   home computer lines in the early 1980s. Some home computers were more
+   successful - the BBC Micro, Sinclair ZX Spectrum, Atari 800XL and
+   Commodore 64 sold many units over several years and attracted
+   third-party software development.
+
+   Almost universally, home computers had a BASIC interpreter combined
+   with a line editor in permanent read-only memory which one could use to
+   type in BASIC programs and execute them immediately or save them to
+   tape or disk. In direct mode, the BASIC interpreter was also used as
+   the user interface, and given tasks such as loading, saving, managing,
+   and running files. One exception was the Jupiter Ace, which had a
+   Forth interpreter instead of BASIC. A built-in programming language was
+   seen as a requirement for any computer of the era, and was the main
+   feature setting home computers apart from video game consoles.
+
+   Still, home computers competed in the same market as the consoles. A
+   home computer was often seen as simply as a higher end purchase than a
+   console, adding abilities and productivity potential to what would
+   still be mainly a gaming device. A common marketing tactic was to show
+   a computer system and console playing games side by side, then
+   emphasizing the computer's greater ability by showing it running
+   user-created programs, education software, word processing, spreadsheet
+   and other applications while the game console showed a blank screen or
+   continued playing the same repetitive game. Another capability home
+   computers had that game consoles of the time lacked was the ability to
+   access remote services over telephone lines by adding a serial port
+   interface, a modem, and communication software. Though it could be
+   costly, it permitted the computer user to access services like
+   Compuserve and private or corporate bulletin board systems to post or
+   read messages, or to download or upload software. Some enthusiasts with
+   computers equipped with large storage capacity and a dedicated phone
+   line operated bulletin boards of their own. This capability anticipated
+   the internet by nearly twenty years.
+
+   Some game consoles offered "programming packs" consisting of a version
+   of BASIC in a ROM cartridge. Atari's BASIC Programming for the Atari
+   2600 was one of these. For the ColecoVision console, Coleco even
+   announced an expansion module which would convert it into a
+   full-fledged computer system. The Magnavox Odyssey2 game console had a
+   built-in keyboard to support its C7420 Home Computer Module.
+
+   Books of type-in program listings like BASIC Computer Games were
+   available dedicated for the BASICs of most models of computer with
+   titles along the lines of 64 Amazing BASIC Games for the Commodore
+   64. While most of the programs in these books were short and
+   simple games or demos, some titles such as Compute!'s SpeedScript
+   series, contained productivity software that rivaled commercial
+   packages. To avoid the tedious process of typing in a program listing
+   from a book, these books would sometimes include a mail-in offer from
+   the author to obtain the programs on disk or cassette for a few
+   dollars. Before the Internet, and before most computer owners had a
+   modem, books were a popular and low-cost means of software
+   distribution--one that had the advantage of incorporating its own
+   documentation. These books also served a role in familiarizing new
+   computer owners with the concepts of programming; some titles added
+   suggested modifications to the program listings for the user to carry
+   out. Applying a patch to modify software to be compatible with one's
+   system or writing a utility program to fit one's needs was a skill
+   every advanced computer owner was expected to have.
+
+   During the peak years of the home computer market, scores of models
+   were produced, usually as individual design projects with little or no
+   thought given to compatibility between different manufacturers or even
+   within product lines of the same manufacturer. Except for the
+   Japanese MSX standard, the concept of a computer platform was
+   still forming, with most companies considering rudimentary BASIC
+   language and disk format compatibility sufficient to claim a model as
+   "compatible". Things were different in the business world, where
+   cost-conscious small business owners had been using CP/M running on Z80
+   based computers from Osborne, Kaypro, Morrow Designs and a host of
+   other manufacturers. For many of these businesses, the development of
+   the microcomputer made computing and business software affordable where
+   they had not been before.
+
+   Introduced in August 1981, the IBM Personal Computer would eventually
+   supplant CP/M as the standard platform used in business. This was
+   largely due to the IBM name and the system's 16 bit open architecture,
+   which expanded maximum memory tenfold, and also encouraged production
+   of third-party clones. In the late 1970s, the 6502-based Apple II
+   series had carved out a niche for itself in business, thanks to the
+   industry's first killer app, VisiCalc, released in 1979. However the
+   Apple II would quickly be displaced for office use by IBM PC
+   compatibles running Lotus 1-2-3. Apple Computer's 1980 Apple III
+   was underwhelming, and although the 1984 release of the Apple Macintosh
+   introduced the modern GUI to the market, it wasn't common until
+   IBM-compatible computers adopted it. Throughout the 1980s,
+   businesses large and small adopted the PC platform, leading, by the end
+   of the decade, to sub-US$1000 IBM PC XT-class white box machines,
+   usually built in Asia and sold by US companies like PCs Limited.
+
+   In 1980 Wayne Green, the publisher of Kilobaud Microcomputing,
+   recommended that companies avoid the term "home computer" in their
+   advertising as "I feel is self-limiting for sales ... I prefer the term
+   "microcomputers" since it doesn't limit the uses of the equipment in
+   the imagination of the prospective customers". With the exception
+   of Tandy, most computer companies - even those with a majority of
+   sales to home users - agreed, avoiding the term "home computer" because
+   of its association with the image of, as Compute! wrote, "a
+   low-powered, low-end machine primarily suited for playing games". Apple
+   consistently avoided stating that it was a home-computer company, and
+   described the IIc as "a serious computer for the serious home user"
+   despite competing against IBM's PCjr home computer. John Sculley denied
+   that his company sold home computers; rather, he said, Apple sold
+   "computers for use in the home". In 1990 the company
+   reportedly refused to support joysticks on its low-cost Macintosh LC
+   and IIsi computers to prevent customers from considering them as "game
+   machines".
+
+   Although the Apple II and Atari computers are functionally similar,
+   Atari's home-oriented marketing resulted in a game-heavy library with
+   much less business software. By the late 1980s, many mass
+   merchants sold video game consoles like the Nintendo Entertainment
+   System, but no longer sold home computers.
+
+   Toward the end of the 1980s, clones also became popular with
+   non-corporate customers. Inexpensive, highly compatible clones
+   succeeded where the PCjr had failed. Replacing the hobbyists who had
+   made up the majority of the home computer market were, as Compute!
+   described them, "people who want to take work home from the office now
+   and then, play a game now and then, learn more about computers, and
+   help educate their children". By 1986 industry experts predicted an
+   "MS-DOS Christmas", and the magazine stated that clones threatened
+   Commodore, Atari, and Apple's domination of the home-computer
+   market.
+
+   The declining cost of IBM compatibles on the one hand, and the greatly
+   increased graphics, sound, and storage abilities of fourth generation
+   video game consoles such as the Sega Genesis and Super Nintendo
+   Entertainment System on the other, combined to cause the market segment
+   for home computers to vanish by the early 1990s in the US. In Europe,
+   the home computer remained a distinct presence for a few years more,
+   with the low-end models of the 16-bit Amiga and Atari ST families being
+   the dominant players, but by the mid-1990s even the European market had
+   dwindled. The Dutch government even ran a program that allowed
+   businesses to sell computers tax-free to its employees, often
+   accompanied by home training programs. Naturally, these businesses
+   chose to equip their employees with the same systems they themselves
+   were using. Today a computer bought for home use anywhere will be very
+   similar to those used in offices - made by the same manufacturers, with
+   compatible peripherals, operating systems, and application software.
+

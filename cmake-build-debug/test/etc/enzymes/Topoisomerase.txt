@@ -1,0 +1,24 @@
+   Topoisomerases (or DNA topoisomerases) are enzymes that participate in
+   the overwinding or underwinding of DNA. The winding problem of DNA
+   arises due to the intertwined nature of its double-helical structure.
+   During DNA replication and transcription, DNA becomes overwound ahead
+   of a replication fork. If left unabated, this torsion would eventually
+   stop the ability of DNA or RNA polymerases involved in these processes
+   to continue down the DNA strand.
+   In order to prevent and correct these types of topological problems
+   caused by the double helix, topoisomerases bind to DNA and cut the
+   phosphate backbone of either one or both the DNA strands. This
+   intermediate break allows the DNA to be untangled or unwound, and, at
+   the end of these processes, the DNA backbone is resealed again. Since
+   the overall chemical composition and connectivity of the DNA do not
+   change, the DNA substrate and product are chemical isomers, differing
+   only in their global topology, resulting in the name for these enzymes.
+   Topoisomerases are isomerase enzymes that act on the topology of
+   DNA.
+   Bacterial topoisomerases and human topoisomerases proceed via similar
+   mechanisms for managing DNA supercoils. Topoisomerases can be further
+   classified into subfamilies. In the type I family, there are two
+   subfamilies; type IA and type IB when the enzyme links to the 5'
+   phosphate of the DNA strand, and the 3' phosphate on the DNA,
+   respectively. In the type II family, the structure and organism
+   determine the subfamilies and their functions.

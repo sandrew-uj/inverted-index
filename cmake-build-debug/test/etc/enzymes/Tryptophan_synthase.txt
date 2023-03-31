@@ -1,0 +1,14 @@
+   Tryptophan synthase or tryptophan synthetase is an enzyme that
+   catalyses the final two steps in the biosynthesis of tryptophan. It
+   is commonly found in Eubacteria, Archaebacteria, Protista,
+   Fungi, and Plantae. However, it is absent from Animalia. It
+   is typically found as an a2b2 tetramer. The a subunits catalyze the
+   reversible formation of indole and glyceraldehyde-3-phosphate (G3P)
+   from indole-3-glycerol phosphate (IGP). The b subunits catalyze the
+   irreversible condensation of indole and serine to form tryptophan in a
+   pyridoxal phosphate (PLP) dependent reaction. Each a active site is
+   connected to a b active site by a 25 angstrom long hydrophobic channel
+   contained within the enzyme. This facilitates the diffusion of indole
+   formed at a active sites directly to b active sites in a process known
+   as substrate channeling. The active sites of tryptophan synthase
+   are allosterically coupled.

@@ -1,0 +1,31 @@
+   Transketolase encoded by the TKT gene is an enzyme of both the pentose
+   phosphate pathway in all organisms and the Calvin cycle of
+   photosynthesis. It catalyzes two important reactions, which operate in
+   opposite directions in these two pathways. In the first reaction of the
+   non-oxidative pentose phosphate pathway, the cofactor thiamine
+   diphosphate accepts a 2-carbon fragment from a 5-carbon ketose
+   (D-xylulose-5-P), then transfers this fragment to a 5-carbon aldose
+   (D-ribose-5-P) to form a 7-carbon ketose (sedoheptulose-7-P). The
+   abstraction of two carbons from D-xylulose-5-P yields the 3-carbon
+   aldose glyceraldehyde-3-P. In the Calvin cycle, transketolase catalyzes
+   the reverse reaction, the conversion of sedoheptulose-7-P and
+   glyceraldehyde-3-P to pentoses, the aldose D-ribose-5-P and the ketose
+   D-xylulose-5-P.
+   The second reaction catalyzed by transketolase in the pentose phosphate
+   pathway involves the same thiamine diphosphate-mediated transfer of a
+   2-carbon fragment from D-xylulose-5-P to the aldose
+   erythrose-4-phosphate, affording fructose 6-phosphate and
+   glyceraldehyde-3-P. Again, in the Calvin cycle exactly the same
+   reaction occurs, but in the opposite direction. Moreover, in the Calvin
+   cycle this is the first reaction catalyzed by transketolase, rather
+   than the second.
+   In mammals, transketolase connects the pentose phosphate pathway to
+   glycolysis, feeding excess sugar phosphates into the main carbohydrate
+   metabolic pathways. Its presence is necessary for the production of
+   NADPH, especially in tissues actively engaged in biosyntheses, such as
+   fatty acid synthesis by the liver and mammary glands, and for steroid
+   synthesis by the liver and adrenal glands. Thiamine diphosphate is an
+   essential cofactor, along with calcium.
+   Transketolase is abundantly expressed in the mammalian cornea by the
+   stromal keratocytes and epithelial cells and is reputed to be one of
+   the corneal crystallins.

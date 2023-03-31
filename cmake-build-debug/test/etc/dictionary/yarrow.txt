@@ -1,0 +1,6 @@
+               o 1.1.1 Sense: various plants in the genus Achillea
+               o 1.1.2 Sense: plant species Achillea millefolium
+               o 1.1.3 Sense: bird species Picus viridis
+Sense: various plants in the genus Achillea
+Sense: plant species Achillea millefolium
+Sense: bird species Picus viridis

@@ -1,0 +1,17 @@
+   Glycerol dehydrogenase (EC 1.1.1.6, also known as NAD^+-linked glycerol
+   dehydrogenase, glycerol: NAD^+ 2-oxidoreductase, GDH, GlDH, GlyDH) is
+   an enzyme in the oxidoreductase family that utilizes the NAD^+ to
+   catalyze the oxidation of glycerol to form glycerone
+   (dihydroxyacetone).
+   Overall reaction of glycerol to glycerone with NAD+ as catalyzed by
+   glycerol dehydrogenase
+   This enzyme is an oxidoreductase, specifically a metal-dependent
+   alcohol dehydrogenase that plays a role in anaerobic glycerol
+   metabolism and has been isolated from a number of bacteria, including
+   Enterobacter aerogenes, Klebsiella aerogenes, Streptococcus
+   faecalis, Erwinia aeroidea, Bacillus megaterium, and
+   Bacillus stearothermophilus. However, most studies of glycerol
+   dehydrogenase have been performed in Bacillus stearothermophilus, (B.
+   stearothermophilus) due to its thermostability and the following
+   structural and functional information will, therefore, refer primarily
+   to the characterization of the enzyme in this bacterium.

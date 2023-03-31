@@ -1,0 +1,8 @@
+   Syn-copalyl-diphosphate synthase (EC 5.5.1.14, OsCyc1, OsCPSsyn,
+   syn-CPP synthase, syn-copalyl diphosphate synthase) is an enzyme with
+   systematic name 9alpha-copalyl-diphosphate lyase (decyclizing).
+   This enzyme catalyses the following chemical reaction
+          geranylgeranyl diphosphate
+           9alpha-copalyl diphosphate
+   This enzyme requires a divalent metal ion, preferably Mg^2+, for
+   activity.

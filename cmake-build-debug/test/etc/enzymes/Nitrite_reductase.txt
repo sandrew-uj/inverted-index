@@ -1,0 +1,5 @@
+   Nitrite reductase refers to any of several classes of enzymes that
+   catalyze the reduction of nitrite. There are two classes of NIR's. A
+   multi haem enzyme reduces NO[2]^- to a variety of products. Copper
+   containing enzymes carry out a single electron transfer to produce
+   nitric oxide.

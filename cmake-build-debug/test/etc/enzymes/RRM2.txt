@@ -1,0 +1,68 @@
+   2UW2, 3OLJ, 3VPM, 3VPN, 3VPO
+   Identifiers
+   Aliases RRM2, R2, RR2, RR2M, ribonucleotide reductase regulatory
+   subunit M2
+   External IDs OMIM: 180390 MGI: 98181 HomoloGene: 20277 GeneCards: RRM2
+         Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for RRM2
+   Genomic location for RRM2
+   Band 2p25.1 Start 10,120,698 bp
+                End  10,211,725 bp
+               Gene location (Mouse)
+   Chromosome 12 (mouse)
+   Chr. Chromosome 12 (mouse)
+   Chromosome 12 (mouse)
+   Genomic location for RRM2
+   Genomic location for RRM2
+   Band 12 A1.3|12 8.5 cM Start 24,708,241 bp
+                           End  24,714,146 bp
+   Gene ontology
+   Molecular function o metal ion binding
+   o GO:0001948 protein binding
+   o oxidoreductase activity
+   o ribonucleoside-diphosphate reductase activity, thioredoxin disulfide
+   as acceptor
+   o ferric iron binding
+   o protein homodimerization activity
+   Cellular component o cytoplasm
+   o cytosol
+   o ribonucleoside-diphosphate reductase complex
+   Biological process o regulation of transcription involved in G1/S
+   transition of mitotic cell cycle
+   o deoxyribonucleotide biosynthetic process
+   o DNA replication
+   o negative regulation of G0 to G1 transition
+   o deoxyribonucleotide metabolic process
+   o protein complex oligomerization
+   o protein heterotetramerization
+   o nucleobase-containing small molecule interconversion
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   6241
+   20135
+   Ensembl
+   ENSG00000171848
+   ENSMUSG00000020649
+   UniProt
+   P31350
+   P11157
+   RefSeq (mRNA)
+   NM_001165931
+   NM_001034
+   NM_009104
+   RefSeq (protein)
+   NP_001025
+   NP_001159403
+   NP_033130
+   Location (UCSC) Chr 2: 10.12 - 10.21 Mb Chr 12: 24.71 - 24.71 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Ribonucleoside-diphosphate reductase subunit M2, also known as
+   ribonucleotide reductase small subunit, is an enzyme that in humans is
+   encoded by the RRM2 gene.

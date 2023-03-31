@@ -1,0 +1,5 @@
+   Firefly luciferase is the light-emitting enzyme responsible for the
+   bioluminescence of fireflies and click beetles. The enzyme catalyses
+   the oxidation of firefly luciferin, requiring oxygen and ATP. Because
+   of the requirement of ATP, firefly luciferases have been used
+   extensively in biotechnology.

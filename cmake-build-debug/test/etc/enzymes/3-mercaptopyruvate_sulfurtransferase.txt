@@ -1,0 +1,8 @@
+   In enzymology, a 3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2) is
+   an enzyme that catalyzes the chemical reactions of 3-mercaptopyruvate.
+   This enzyme belongs to the family of transferases, specifically the
+   sulfurtransferases. This enzyme participates in cysteine
+   metabolism. It is encoded by the MPST gene.
+   The enzyme is of interest because it provides a pathway for
+   detoxification of cyanide, especially since it occurs widely in the
+   cytosol and distributed broadly.

@@ -1,0 +1,11 @@
+   Ribonucleoside-triphosphate reductase (EC 1.17.4.2, ribonucleotide
+   reductase, 2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin
+   2'-oxidoreductase) is an enzyme with systematic name
+   2'-deoxyribonucleoside-triphosphate:thioredoxin-disulfide
+   2'-oxidoreductase. This enzyme catalyses the following
+   chemical reaction
+          2'-deoxyribonucleoside triphosphate + thioredoxin disulfide +
+          H[2]O
+           ribonucleoside triphosphate + thioredoxin
+   Ribonucleoside-triphosphate reductase requires a cobamide coenzyme and
+   ATP.

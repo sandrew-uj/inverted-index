@@ -1,0 +1,9 @@
+   Nitrogenase (flavodoxin) (EC 1.19.6.1) is an enzyme with systematic
+   name reduced flavodoxin:dinitrogen oxidoreductase
+   (ATP-hydrolysing). This enzyme catalyses the following chemical
+   reaction
+          6 reduced flavodoxin + 6 H^+ + N[2] + n ATP
+           6 oxidized flavodoxin + 2 NH[3] + n ADP + n
+          phosphate
+   The enzyme is a complex of two proteins containing iron-sulfur centres
+   and molybdenum.

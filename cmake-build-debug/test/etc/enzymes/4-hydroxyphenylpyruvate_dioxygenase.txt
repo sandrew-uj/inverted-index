@@ -1,0 +1,11 @@
+   4-Hydroxyphenylpyruvate dioxygenase (HPPD), also known as
+   a-ketoisocaproate dioxygenase (KIC dioxygenase), is an
+   Fe(II)-containing non-heme oxygenase that catalyzes the second reaction
+   in the catabolism of tyrosine - the conversion of
+   4-hydroxyphenylpyruvate into homogentisate. HPPD also catalyzes the
+   conversion of phenylpyruvate to 2-hydroxyphenylacetate and the
+   conversion of a-ketoisocaproate to b-hydroxy b-methylbutyrate.
+   HPPD is an enzyme that is found in nearly all aerobic forms of
+   life.
+   This reaction shows the conversion of 4-hydroxyphenylpyruvate into
+   homogentisate by HPPD.

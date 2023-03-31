@@ -1,0 +1,8 @@
+   L-gulonolactone oxidase (EC 1.1.3.8) is an enzyme that produces vitamin
+   C, but is non-functional in Haplorrhini (including humans), in some
+   bats, and in guinea pigs. It catalyzes the reaction of
+   L-gulono-1,4-lactone with oxygen to L-xylo-hex-3-gulonolactone and
+   hydrogen peroxide. It uses FAD as a cofactor. The
+   L-xylo-hex-3-gulonolactone (2-keto-gulono-gamma-lactone) is able to
+   convert to hexuronic acid (ascorbic acid) spontaneously, without
+   enzymatic action.

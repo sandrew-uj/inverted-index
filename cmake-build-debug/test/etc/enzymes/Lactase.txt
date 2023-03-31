@@ -1,0 +1,14 @@
+   Lactase is an enzyme produced by many organisms. It is located in the
+   brush border of the small intestine of humans and other mammals.
+   Lactase is essential to the complete digestion of whole milk; it breaks
+   down lactose, a sugar which gives milk its sweetness. Lacking lactase,
+   a person consuming dairy products may experience the symptoms of
+   lactose intolerance. Lactase can be purchased as a food supplement,
+   and is added to milk to produce "lactose-free" milk products.
+   Lactase (also known as lactase-phlorizin hydrolase, or LPH), a part of
+   the b-galactosidase family of enzymes, is a glycoside hydrolase
+   involved in the hydrolysis of the disaccharide lactose into constituent
+   galactose and glucose monomers. Lactase is present predominantly along
+   the brush border membrane of the differentiated enterocytes lining the
+   villi of the small intestine. In humans, lactase is encoded by the
+   LCT gene.

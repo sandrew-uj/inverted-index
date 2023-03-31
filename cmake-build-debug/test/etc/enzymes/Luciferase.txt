@@ -1,0 +1,25 @@
+   Luciferase is a generic term for the class of oxidative enzymes that
+   produce bioluminescence, and is usually distinguished from a
+   photoprotein. The name was first used by Raphael Dubois who invented
+   the words luciferin and luciferase, for the substrate and enzyme,
+   respectively. Both words are derived from the Latin word lucifer,
+   meaning "lightbearer", which in turn is derived from the Latin words
+   for "light" (lux) and "to bring or carry" (ferre).
+   Firefly luciferase
+   Firefly Luciferase Crystal Structure.rsh.png
+   Structure of Photinus pyralis firefly luciferase.
+   Identifiers
+   Organism Photinus pyralis
+   Symbol Firefly luciferase
+   PDB 1LCI More structures
+   UniProt P08659
+   Other data
+   EC number 1.13.12.7
+        Search for
+   Structures Swiss-model
+    Domains   InterPro
+   Luciferases are widely used in biotechnology, for microscopy and as
+   reporter genes, for many of the same applications as fluorescent
+   proteins. However, unlike fluorescent proteins, luciferases do not
+   require an external light source, but do require addition of luciferin,
+   the consumable substrate.

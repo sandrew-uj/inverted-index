@@ -1,0 +1,12 @@
+   Isocitrate dehydrogenase (IDH) (EC 1.1.1.42) and (EC 1.1.1.41) is an
+   enzyme that catalyzes the oxidative decarboxylation of isocitrate,
+   producing alpha-ketoglutarate (a-ketoglutarate) and CO[2]. This is a
+   two-step process, which involves oxidation of isocitrate (a secondary
+   alcohol) to oxalosuccinate (a ketone), followed by the decarboxylation
+   of the carboxyl group beta to the ketone, forming alpha-ketoglutarate.
+   In humans, IDH exists in three isoforms: IDH3 catalyzes the third step
+   of the citric acid cycle while converting NAD^+ to NADH in the
+   mitochondria. The isoforms IDH1 and IDH2 catalyze the same reaction
+   outside the context of the citric acid cycle and use NADP^+ as a
+   cofactor instead of NAD^+. They localize to the cytosol as well as the
+   mitochondrion and peroxisome.

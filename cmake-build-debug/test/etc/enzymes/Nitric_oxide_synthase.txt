@@ -1,0 +1,28 @@
+   Nitric oxide synthases (EC 1.14.13.39) (NOSs) are a family of enzymes
+   catalyzing the production of nitric oxide (NO) from L-arginine. NO is
+   an important cellular signaling molecule. It helps modulate vascular
+   tone, insulin secretion, airway tone, and peristalsis, and is involved
+   in angiogenesis and neural development. It may function as a retrograde
+   neurotransmitter. Nitric oxide is mediated in mammals by the
+   calcium-calmodulin controlled isoenzymes eNOS (endothelial NOS) and
+   nNOS (neuronal NOS). The inducible isoform, iNOS, involved in immune
+   response, binds calmodulin at physiologically relevant concentrations,
+   and produces NO as an immune defense mechanism, as NO is a free radical
+   with an unpaired electron. It is the proximate cause of septic shock
+   and may function in autoimmune disease.
+   NOS catalyzes the reaction:
+     * 2 L-arginine + 3 NADPH + 3 H^+ + 4 O[2]
+        2 citrulline +2 nitric oxide + 4 H[2]O + 3
+       NADP^+
+   NOS isoforms catalyze other leak and side reactions, such as superoxide
+   production at the expense of NADPH. As such, this stoichiometry is not
+   generally observed, and reflects the three electrons supplied per NO by
+   NADPH.
+   NOSs are unusual in that they require five cofactors. Eukaryotic NOS
+   isozymes are catalytically self-sufficient. The electron flow in the NO
+   synthase reaction is: NADPH -> FAD -> FMN -> heme -> O[2].
+   Tetrahydrobiopterin provides an additional electron during the
+   catalytic cycle which is replaced during turnover. NOS is the only
+   known enzyme that binds flavin adenine dinucleotide (FAD), flavin
+   mononucleotide (FMN), heme, tetrahydrobiopterin (BH[4]) and
+   calmodulin.^[citation needed]

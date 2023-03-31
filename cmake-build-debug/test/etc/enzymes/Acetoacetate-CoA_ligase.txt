@@ -1,0 +1,11 @@
+   In enzymology, an acetoacetate-CoA ligase (EC 6.2.1.16) is an enzyme
+   that catalyzes the chemical reaction
+          ATP + acetoacetate + CoA
+           AMP + diphosphate + acetoacetyl-CoA
+   The 3 substrates of this enzyme are ATP, acetoacetate, and CoA, whereas
+   its 3 products are AMP, diphosphate, and acetoacetyl-CoA.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is acetoacetate:CoA ligase (AMP-forming). This
+   enzyme is also called acetoacetyl-CoA synthetase. This enzyme
+   participates in butanoate metabolism.

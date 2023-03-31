@@ -1,0 +1,26 @@
+   Aminolevulinic acid synthase (ALA synthase, ALAS, or
+   delta-aminolevulinic acid synthase) is an enzyme (EC 2.3.1.37) that
+   catalyzes the synthesis of d-aminolevulinic acid (ALA) the first common
+   precursor in the biosynthesis of all tetrapyrroles such as hemes,
+   cobalamins and chlorophylls. The reaction is as follows:
+          succinyl-CoA + glycine
+           d-aminolevulinic acid + CoA + CO[2]
+   This enzyme is expressed in all non-plant eukaryotes and the a-class of
+   proteobacteria and the reaction it catalyses is sometimes referred to
+   as the Shemin pathway for ALA formation. Other organisms produce
+   ALA through a three enzyme pathway known as the C5 pathway. ALA is
+   synthesized through the condensation of glycine and succinyl-CoA. In
+   humans, transcription of ALA synthase is tightly controlled by the
+   presence of Fe^2+-binding elements, to prevent accumulation of
+   porphyrin intermediates in the absence of iron. There are two forms of
+   ALA synthase in the body. One form is expressed in red blood cell
+   precursor cells (ALAS2), whereas the other (ALAS1) is ubiquitously
+   expressed throughout the body. The red blood cell form is coded by a
+   gene on chromosome x, whereas the other form is coded by a gene on
+   chromosome 3.
+   The disease X-linked sideroblastic anemia is caused by mutations in the
+   ALA synthase gene on chromosome X, whereas no diseases are known to be
+   caused by mutations in the other gene. Gain of function mutations in
+   the erythroid specific ALA synthase gene have been shown recently to
+   cause a previously unknown form of porphyria known as X-linked-dominant
+   protoporphyria.

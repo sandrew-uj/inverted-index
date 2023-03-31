@@ -1,0 +1,7 @@
+   Biliverdin reductase (BVR) is an enzyme (EC 1.3.1.24) found in all
+   tissues under normal conditions, but especially in reticulo-macrophages
+   of the liver and spleen. BVR facilitates the conversion of biliverdin
+   to bilirubin via the reduction of a double-bond between the second and
+   third pyrrole ring into a single-bond.
+   There are two isozymes, in humans, each encoded by its own gene,
+   biliverdin reductase A (BLVRA) and biliverdin reductase B (BLVRB).

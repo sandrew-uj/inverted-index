@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: indicating the first item in a sequence
+Sense: indicating the first item in a sequence

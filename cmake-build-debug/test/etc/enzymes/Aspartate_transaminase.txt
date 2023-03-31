@@ -1,0 +1,14 @@
+   Aspartate transaminase (AST) or aspartate aminotransferase, also known
+   as AspAT/ASAT/AAT or (serum) glutamic oxaloacetic transaminase (GOT,
+   SGOT), is a pyridoxal phosphate (PLP)-dependent transaminase enzyme (EC
+   2.6.1.1) that was first described by Arthur Karmen and colleagues in
+   1954. AST catalyzes the reversible transfer of an a-amino
+   group between aspartate and glutamate and, as such, is an important
+   enzyme in amino acid metabolism. AST is found in the liver, heart,
+   skeletal muscle, kidneys, brain, and red blood cells. Serum AST level,
+   serum ALT (alanine transaminase) level, and their ratio (AST/ALT ratio)
+   are commonly measured clinically as biomarkers for liver health. The
+   tests are part of blood panels.
+   The half-life of total AST in the circulation approximates 17 hours
+   and, on average, 87 hours for mitochondrial AST. Aminotransferase
+   is cleared by sinusoidal cells in the liver.

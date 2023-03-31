@@ -1,0 +1,96 @@
+   2WGH, 3HNC, 3HND, 3HNE, 3HNF, 5D1Y, 4X3V
+   Identifiers
+   Aliases RRM1, R1, RIR1, RR1, ribonucleotide reductase catalytic subunit
+   M1
+   External IDs OMIM: 180410 MGI: 98180 HomoloGene: 806 GeneCards: RRM1
+         Gene location (Human)
+   Chromosome 11 (human)
+   Chr. Chromosome 11 (human)
+   Chromosome 11 (human)
+   Genomic location for RRM1
+   Genomic location for RRM1
+   Band 11p15.4 Start 4,094,707 bp
+                 End  4,138,932 bp
+              Gene location (Mouse)
+   Chromosome 7 (mouse)
+   Chr. Chromosome 7 (mouse)
+   Chromosome 7 (mouse)
+   Genomic location for RRM1
+   Genomic location for RRM1
+   Band 7 E3|7 54.72 cM Start 102,441,695 bp
+                         End  102,469,771 bp
+      RNA expression pattern
+   PBB GE RRM1 201476 s at fs.png
+   PBB GE RRM1 201477 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o nucleotide binding
+   o catalytic activity
+   o oxidoreductase activity
+   o ATP binding
+   o GO:0001948 protein binding
+   o ribonucleoside-diphosphate reductase activity, thioredoxin disulfide
+   as acceptor
+   o identical protein binding
+   o purine nucleotide binding
+   o disordered domain specific binding
+   Cellular component o cytoplasm
+   o cytosol
+   o nuclear envelope
+   o ribonucleoside-diphosphate reductase complex
+   o cell projection
+   o neuronal cell body
+   Biological process o DNA replication
+   o metabolism
+   o GO:0007067 mitotic cell cycle
+   o pyrimidine nucleobase metabolic process
+   o male gonad development
+   o deoxyribonucleotide biosynthetic process
+   o response to ionizing radiation
+   o cell proliferation in forebrain
+   o protein complex oligomerization
+   o protein heterotetramerization
+   o retina development in camera-type eye
+   o nucleobase-containing small molecule interconversion
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   6240
+   20133
+   Ensembl
+   ENSG00000167325
+   ENSMUSG00000030978
+   UniProt
+   P23921
+   P07742
+   RefSeq (mRNA)
+   NM_001033
+   NM_001318064
+   NM_001318065
+   NM_001330193
+   NM_009103
+   RefSeq (protein)
+   NP_001024
+   NP_001304993
+   NP_001304994
+   NP_001317122
+   NP_033129
+   Location (UCSC) Chr 11: 4.09 - 4.14 Mb Chr 7: 102.44 - 102.47 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Ribonucleoside-diphosphate reductase large subunit is an enzyme that in
+   humans is encoded by the RRM1 gene.
+   This gene encodes one of two non-identical subunits which constitute
+   ribonucleoside-diphosphate reductase, an enzyme essential for the
+   production of deoxyribonucleotides prior to DNA synthesis in S phase of
+   dividing cells. It is one of several genes located in the imprinted
+   gene domain of 11p15.5, an important tumor-suppressor gene region.
+   Alterations in this region have been associated with the
+   Beckwith-Wiedemann syndrome, Wilms tumor, rhabdomyosarcoma,
+   adrenocortical carcinoma, and lung, ovarian, and breast cancer. This
+   gene may play a role in malignancies and disease that involve this
+   region. This gene is oriented in a head-to-tail configuration with the
+   stromal interaction molecule 1 gene (STIM1), with the 3' end of STIM1
+   situated 1.6 kb from the 5' end of this gene.

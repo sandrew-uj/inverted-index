@@ -1,0 +1,141 @@
+   Chemical element, symbol N and atomic number 7
+   CAPTION: Nitrogen, [7]N
+   Liquidnitrogen.jpg
+                        Nitrogen
+         Appearance      colorless gas, liquid or solid
+   Standard atomic weight
+   A[r, std](N)
+   [14.00643, 14.00728] conventional: 14.007
+   Nitrogen in the periodic table
+   Hydrogen Helium
+   Lithium Beryllium Boron Carbon Nitrogen Oxygen Fluorine Neon
+   Sodium Magnesium Aluminium Silicon Phosphorus Sulfur Chlorine Argon
+   Potassium Calcium Scandium Titanium Vanadium Chromium Manganese Iron
+   Cobalt Nickel Copper Zinc Gallium Germanium Arsenic Selenium Bromine
+   Krypton
+   Rubidium Strontium Yttrium Zirconium Niobium Molybdenum Technetium
+   Ruthenium Rhodium Palladium Silver Cadmium Indium Tin Antimony
+   Tellurium Iodine Xenon
+   Caesium Barium Lanthanum Cerium Praseodymium Neodymium Promethium
+   Samarium Europium Gadolinium Terbium Dysprosium Holmium Erbium Thulium
+   Ytterbium Lutetium Hafnium Tantalum Tungsten Rhenium Osmium Iridium
+   Platinum Gold Mercury (element) Thallium Lead Bismuth Polonium Astatine
+   Radon
+   Francium Radium Actinium Thorium Protactinium Uranium Neptunium
+   Plutonium Americium Curium Berkelium Californium Einsteinium Fermium
+   Mendelevium Nobelium Lawrencium Rutherfordium Dubnium Seaborgium
+   Bohrium Hassium Meitnerium Darmstadtium Roentgenium Copernicium
+   Nihonium Flerovium Moscovium Livermorium Tennessine Oganesson
+   -
+   ^|
+   N
+   |v
+   P
+   carbon <- nitrogen -> oxygen
+   Atomic number (Z) 7
+   Group group 15 (pnictogens)
+   Period period 2
+   Block   p-block
+   Electron configuration [He] 2s^2 2p^3
+   Electrons per shell 2, 5
+   Physical properties
+   Phase
+   at STP gas
+   Melting point (N[2]) 63.23 K &#x200b;(-209.86 DEGC,
+   &#x200b;-345.75 DEGF)
+   Boiling point (N[2]) 77.355 K &#x200b;(-195.795 DEGC,
+   &#x200b;-320.431 DEGF)
+   Density (at STP) 1.2506 g/L at 0 DEGC, 1013 mbar
+   when liquid (at b.p.) 0.808 g/cm^3
+   Triple point 63.151 K, &#x200b;12.52 kPa
+   Critical point 126.21 K, 3.39 MPa
+   Heat of fusion (N[2]) 0.72 kJ/mol
+   Heat of vaporisation (N[2]) 5.57 kJ/mol
+   Molar heat capacity (N[2]) 29.124 J/(mol.K)
+   Vapour pressure
+    P (Pa)  1  10 100 1 k 10 k 100 k
+   at T (K) 37 41 46  53  62   77
+   Atomic properties
+   Oxidation states -3, -2, -1, +1, +2, +3, +4, +5 (a strongly acidic
+   oxide)
+   Electronegativity Pauling scale: 3.04
+   Ionisation energies
+     * 1st: 1402.3 kJ/mol
+     * 2nd: 2856 kJ/mol
+     * 3rd: 4578.1 kJ/mol
+     * (more)
+   Covalent radius 71+-1 pm
+   Van der Waals radius 155 pm
+   Color lines in a spectral range
+   Spectral lines of nitrogen
+   Other properties
+   Natural occurrence primordial
+   Crystal structure &#x200b;hexagonal
+   Hexagonal crystal structure for nitrogen
+   Speed of sound 353 m/s (gas, at 27 DEGC)
+   Thermal conductivity 25.83 *10^-3 W/(m DOT K)
+   Magnetic ordering diamagnetic
+   CAS Number 17778-88-0
+   7727-37-9 (N[2])
+   History
+   Discovery Daniel Rutherford (1772)
+   Named by Jean-Antoine Chaptal (1790)
+   Main isotopes of nitrogen
+   Isotope Abundance Half-life
+   (t[1/2]) Decay mode Product
+   ^13N syn 9.965 min e ^13C
+   ^14N 99.6% stable
+   ^15N 0.4% stable
+   Category  Category: Nitrogen
+     * view
+     * talk
+     * edit
+   | references
+   Nitrogen is the chemical element with the symbol N and atomic number 7.
+   It was first discovered and isolated by Scottish physician Daniel
+   Rutherford in 1772. Although Carl Wilhelm Scheele and Henry Cavendish
+   had independently done so at about the same time, Rutherford is
+   generally accorded the credit because his work was published first. The
+   name nitrogene was suggested by French chemist Jean-Antoine-Claude
+   Chaptal in 1790 when it was found that nitrogen was present in nitric
+   acid and nitrates. Antoine Lavoisier suggested instead the name azote,
+   from the Ancient Greek: azwtiko'*s "no life", as it is an asphyxiant
+   gas; this name is used instead in many languages, such as French,
+   Italian, Russian, Romanian, Portuguese and Turkish, and appears in the
+   English names of some nitrogen compounds such as hydrazine, azides and
+   azo compounds.
+   Nitrogen is the lightest member of group 15 of the periodic table,
+   often called the pnictogens. It is a common element in the universe,
+   estimated at about seventh in total abundance in the Milky Way and the
+   Solar System. At standard temperature and pressure, two atoms of the
+   element bind to form dinitrogen, a colourless and odorless diatomic gas
+   with the formula N[2]. Dinitrogen forms about 78% of Earth's
+   atmosphere, making it the most abundant uncombined element. Nitrogen
+   occurs in all organisms, primarily in amino acids (and thus proteins),
+   in the nucleic acids (DNA and RNA) and in the energy transfer molecule
+   adenosine triphosphate. The human body contains about 3% nitrogen by
+   mass, the fourth most abundant element in the body after oxygen,
+   carbon, and hydrogen. The nitrogen cycle describes movement of the
+   element from the air, into the biosphere and organic compounds, then
+   back into the atmosphere.
+   Many industrially important compounds, such as ammonia, nitric acid,
+   organic nitrates (propellants and explosives), and cyanides, contain
+   nitrogen. The extremely strong triple bond in elemental nitrogen
+   (N=3N), the second strongest bond in any diatomic molecule after carbon
+   monoxide (CO), dominates nitrogen chemistry. This causes difficulty
+   for both organisms and industry in converting N[2] into useful
+   compounds, but at the same time means that burning, exploding, or
+   decomposing nitrogen compounds to form nitrogen gas releases large
+   amounts of often useful energy. Synthetically produced ammonia and
+   nitrates are key industrial fertilisers, and fertiliser nitrates are
+   key pollutants in the eutrophication of water systems.
+   Apart from its use in fertilisers and energy-stores, nitrogen is a
+   constituent of organic compounds as diverse as Kevlar used in
+   high-strength fabric and cyanoacrylate used in superglue. Nitrogen is a
+   constituent of every major pharmacological drug class, including
+   antibiotics. Many drugs are mimics or prodrugs of natural
+   nitrogen-containing signal molecules: for example, the organic nitrates
+   nitroglycerin and nitroprusside control blood pressure by metabolizing
+   into nitric oxide. Many notable nitrogen-containing drugs, such as the
+   natural caffeine and morphine or the synthetic amphetamines, act on
+   receptors of animal neurotransmitters.

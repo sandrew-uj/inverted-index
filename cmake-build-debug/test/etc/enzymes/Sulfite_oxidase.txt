@@ -1,0 +1,74 @@
+   1MJ4
+   Identifiers
+   Aliases SUOX, entrez:6821, sulfite oxidase
+   External IDs OMIM: 606887 MGI: 2446117 HomoloGene: 394 GeneCards: SUOX
+          Gene location (Human)
+   Chromosome 12 (human)
+   Chr. Chromosome 12 (human)
+   Chromosome 12 (human)
+   Genomic location for SUOX
+   Genomic location for SUOX
+   Band 12q13.2 Start 55,997,180 bp
+                 End  56,006,641 bp
+           Gene location (Mouse)
+   Chromosome 10 (mouse)
+   Chr. Chromosome 10 (mouse)
+   Chromosome 10 (mouse)
+   Genomic location for SUOX
+   Genomic location for SUOX
+   Band 10|10 D3 Start 128,669,894 bp
+                  End  128,674,073 bp
+   Gene ontology
+   Molecular function o molybdopterin cofactor binding
+   o molybdenum ion binding
+   o oxidoreductase activity
+   o sulfite oxidase activity
+   o heme binding
+   o metal ion binding
+   o GO:0001948 protein binding
+   Cellular component o mitochondrial matrix
+   o mitochondrial intermembrane space
+   o mitochondrion
+   Biological process o sulfur compound metabolic process
+   o sulfide oxidation, using sulfide:quinone oxidoreductase
+   o nitrate assimilation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   6821
+   211389
+   Ensembl
+   ENSG00000139531
+   ENSMUSG00000049858
+   UniProt
+   P51687
+   Q8R086
+   RefSeq (mRNA)
+   NM_000456
+   NM_001032386
+   NM_001032387
+   NM_173733
+   RefSeq (protein)
+   NP_000447
+   NP_001027558
+   NP_001027559
+   NP_776094
+   Location (UCSC) Chr 12: 56 - 56.01 Mb Chr 10: 128.67 - 128.67 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Sulfite oxidase (EC 1.8.3.1) is an enzyme in the mitochondria of all
+   eukaryotes, with exception of the yeasts.^[citation needed] It oxidizes
+   sulfite to sulfate and, via cytochrome c, transfers the electrons
+   produced to the electron transport chain, allowing generation of ATP in
+   oxidative phosphorylation. This is the last step in the
+   metabolism of sulfur-containing compounds and the sulfate is excreted.
+   Sulfite oxidase is a metallo-enzyme that utilizes a molybdopterin
+   cofactor and a heme group (in a case of animals). It is one of the
+   cytochromes b[5] and belongs to the enzyme super-family of molybdenum
+   oxotransferases that also includes DMSO reductase, xanthine oxidase,
+   and nitrite reductase.
+   In mammals, the expression levels of sulfite oxidase is high in the
+   liver, kidney, and heart, and very low in spleen, brain, skeletal
+   muscle, and blood.

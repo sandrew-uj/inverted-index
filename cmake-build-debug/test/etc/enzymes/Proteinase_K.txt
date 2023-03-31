@@ -1,0 +1,12 @@
+   In molecular biology Proteinase K (EC 3.4.21.64, protease K,
+   endopeptidase K, Tritirachium alkaline proteinase, Tritirachium album
+   serine proteinase, Tritirachium album proteinase K) is a broad-spectrum
+   serine protease. The enzyme was discovered in 1974 in
+   extracts of the fungus Engyodontium album (formerly Tritirachium
+   album). Proteinase K is able to digest hair (keratin), hence, the
+   name "Proteinase K". The predominant site of cleavage is the peptide
+   bond adjacent to the carboxyl group of aliphatic and aromatic amino
+   acids with blocked alpha amino groups. It is commonly used for its
+   broad specificity. This enzyme belongs to Peptidase family S8
+   (subtilisin). The molecular weight of Proteinase K is 28,900 daltons
+   (28.9 kDa).

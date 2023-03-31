@@ -1,0 +1,19 @@
+   Glutathione S-transferases (GSTs), previously known as ligandins, are a
+   family of eukaryotic and prokaryotic phase II metabolic isozymes best
+   known for their ability to catalyze the conjugation of the reduced form
+   of glutathione (GSH) to xenobiotic substrates for the purpose of
+   detoxification. The GST family consists of three superfamilies: the
+   cytosolic, mitochondrial, and microsomal--also known as
+   MAPEG--proteins. Members of the GST superfamily are
+   extremely diverse in amino acid sequence, and a large fraction of the
+   sequences deposited in public databases are of unknown function.
+   The Enzyme Function Initiative (EFI) is using GSTs as a model
+   superfamily to identify new GST functions.
+   GSTs can constitute up to 10% of cytosolic protein in some mammalian
+   organs. GSTs catalyse the conjugation of GSH--via a sulfhydryl
+   group--to electrophilic centers on a wide variety of substrates in
+   order to make the compounds more water-soluble. This activity
+   detoxifies endogenous compounds such as peroxidised lipids and enables
+   the breakdown of xenobiotics. GSTs may also bind toxins and function as
+   transport proteins, which gave rise to the early term for GSTs,
+   ligandin.

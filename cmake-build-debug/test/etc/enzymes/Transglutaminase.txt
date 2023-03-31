@@ -1,0 +1,42 @@
+   Transglutaminase
+   Coagulation factor XIII 1EVU.png
+   Transglutaminase example: coagulation factor XIII from human blood. PDB
+   code: 1EVU.
+   Identifiers
+   EC no. 2.3.2.13
+   CAS no. 80146-85-6
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Transglutaminases are enzymes that in nature primarily catalyze the
+   formation of an isopeptide bond between g-carboxamide groups
+   ( -(C=O)NH[2] ) of glutamine residue side chains and the e-amino groups
+   ( -NH[2] ) of lysine residue side chains with subsequent release of
+   ammonia ( NH[3] ). Lysine and glutamine residues must be bound to a
+   peptide or a protein so that this cross-linking (between separate
+   molecules) or intramolecular (within the same molecule) reaction can
+   happen. Bonds formed by transglutaminase exhibit high resistance to
+   proteolytic degradation (proteolysis). The reaction is
+          Gln-(C=O)NH[2] + NH[2]-Lys -> Gln-(C=O)NH-Lys + NH[3]
+   Transglutaminases can also join a primary amine ( RNH[2] ) to the side
+   chain carboxyamide group of a protein/peptide bound glutamine residue
+   thus forming an isopeptide bond
+          Gln-(C=O)NH[2] + RNH[2] -> Gln-(C=O)NHR + NH[3]
+   These enzymes can also deamidate glutamine residues to glutamic acid
+   residues in the presence of water
+          Gln-(C=O)NH[2] + H[2]O -> Gln-COOH + NH[3]
+   Transglutaminase isolated from Streptomyces mobaraensis -bacteria for
+   example, is a calcium-independent enzyme. Mammalian transglutaminases
+   among other transglutaminases require Ca^2+ ions as a cofactor.
+   Transglutaminases were first described in 1959. The exact
+   biochemical activity of transglutaminases was discovered in blood
+   coagulation protein factor XIII in 1968.

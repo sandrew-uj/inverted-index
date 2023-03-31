@@ -1,0 +1,102 @@
+   1B2I, 1BML, 1BUI, 1CEA, 1CEB, 1DDJ, 1HPJ, 1HPK, 1I5K, 1KI0, 1KRN, 1L4D,
+   1L4Z, 1PK4, 1PKR, 1PMK, 1QRZ, 1RJX, 2DOH, 2DOI, 2KNF, 2L0S, 2PK4, 3UIR,
+   4A5T, 4CIK, 4DCB, 4DUR, 4DUU, 5HPG
+   Identifiers
+   Aliases PLG, plasminogen, plasmin, HAE4
+   External IDs OMIM: 173350 MGI: 97620 HomoloGene: 55452 GeneCards: PLG
+         Gene location (Human)
+   Chromosome 6 (human)
+   Chr. Chromosome 6 (human)
+   Chromosome 6 (human)
+   Genomic location for PLG
+   Genomic location for PLG
+   Band 6q26 Start 160,702,238 bp
+              End  160,754,097 bp
+              Gene location (Mouse)
+   Chromosome 17 (mouse)
+   Chr. Chromosome 17 (mouse)
+   Chromosome 17 (mouse)
+   Genomic location for PLG
+   Genomic location for PLG
+   Band 17 A1|17 8.5 cM Start 12,378,608 bp
+                         End  12,419,385 bp
+      RNA expression pattern
+   PBB GE PLG 209978 s at fs.png
+   PBB GE PLG 209977 at fs.png
+   PBB GE PLG 205871 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o apolipoprotein binding
+   o protein domain specific binding
+   o peptidase activity
+   o GO:0001948 protein binding
+   o serine-type peptidase activity
+   o signaling receptor binding
+   o hydrolase activity
+   o serine-type endopeptidase activity
+   o chaperone binding
+   o proteasome core complex binding
+   o protein antigen binding
+   o endopeptidase activity
+   o enzyme binding
+   o kinase binding
+   Cellular component o blood microparticle
+   o extracellular region
+   o cell surface
+   o extrinsic component of external side of plasma membrane
+   o extracellular exosome
+   o platelet alpha granule lumen
+   o extracellular space
+   o cell membrane
+   o extrinsic component of plasma membrane
+   o intracellular membrane-bounded organelle
+   o collagen-containing extracellular matrix
+   Biological process o hemostasis
+   o negative regulation of cell-substrate adhesion
+   o cellular protein metabolic process
+   o negative regulation of fibrinolysis
+   o negative regulation of cell-cell adhesion mediated by cadherin
+   o platelet degranulation
+   o extracellular matrix disassembly
+   o positive regulation of fibrinolysis
+   o tissue remodeling
+   o negative regulation of cell population proliferation
+   o blood coagulation
+   o proteolysis
+   o fibrinolysis
+   o positive regulation of blood vessel endothelial cell migration
+   o tissue regeneration
+   o myoblast differentiation
+   o muscle cell cellular homeostasis
+   o proteolysis involved in cellular protein catabolic process
+   o trophoblast giant cell differentiation
+   o labyrinthine layer blood vessel development
+   o mononuclear cell migration
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5340
+   18815
+   Ensembl
+   ENSG00000122194
+   ENSMUSG00000059481
+   UniProt
+   P00747
+   P20918
+   RefSeq (mRNA)
+   NM_001168338
+   NM_000301
+   NM_008877
+   RefSeq (protein)
+   NP_000292
+   NP_001161810
+   NP_032903
+   Location (UCSC) Chr 6: 160.7 - 160.75 Mb Chr 17: 12.38 - 12.42 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Plasmin is an important enzyme (EC 3.4.21.7) present in blood that
+   degrades many blood plasma proteins, including fibrin clots. The
+   degradation of fibrin is termed fibrinolysis. In humans, the plasmin
+   protein is encoded by the PLG gene.

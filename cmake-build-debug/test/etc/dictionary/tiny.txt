@@ -1,0 +1,5 @@
+               o 1.1.1 Sense: small in size
+               o 1.1.2 Sense: very small in size
+Sense: small in size
+Sense: very small in size
+   0340#Sense:_very_small_in_size"

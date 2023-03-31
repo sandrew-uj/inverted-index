@@ -1,0 +1,35 @@
+   n/a
+   n/a
+   Ensembl
+   n/a
+   n/a
+   UniProt
+   n
+   a
+   n/a
+   RefSeq (mRNA)
+   n/a
+   n/a
+   RefSeq (protein)
+   n/a
+   n/a
+   Location (UCSC) n/a n/a
+   PubMed search n/a n/a
+   Wikidata
+                    View/Edit Human
+   Catalase is a common enzyme found in nearly all living organisms
+   exposed to oxygen (such as bacteria, plants, and animals) which
+   catalyzes the decomposition of hydrogen peroxide to water and
+   oxygen. It is a very important enzyme in protecting the cell from
+   oxidative damage by reactive oxygen species (ROS). Likewise, catalase
+   has one of the highest turnover numbers of all enzymes; one catalase
+   molecule can convert millions of hydrogen peroxide molecules to water
+   and oxygen each second.
+   Catalase is a tetramer of four polypeptide chains, each over 500 amino
+   acids long. It contains four iron-containing heme groups that allow
+   the enzyme to react with hydrogen peroxide. The optimum pH for human
+   catalase is approximately 7, and has a fairly broad maximum: the
+   rate of reaction does not change appreciably between pH 6.8 and
+   7.5. The pH optimum for other catalases varies between 4 and 11
+   depending on the species. The optimum temperature also varies by
+   species.

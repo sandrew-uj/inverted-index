@@ -1,0 +1,11 @@
+   In enzymology, an acid-CoA ligase (GDP-forming) (EC 6.2.1.10) is an
+   enzyme that catalyzes the chemical reaction
+          GTP + an acid + CoA
+           GDP + phosphate + acyl-CoA
+   The 3 substrates of this enzyme are GTP, acid, and CoA, whereas its 3
+   products are GDP, phosphate, and acyl-CoA.
+   This enzyme belongs to the family of ligases, specifically those
+   forming carbon-sulfur bonds as acid-thiol ligases. The systematic name
+   of this enzyme class is acid:CoA ligase (GDP-forming). Other names in
+   common use include acyl-CoA synthetase (GDP-forming), and acyl coenzyme
+   A synthetase (guanosine diphosphate forming).

@@ -1,0 +1,81 @@
+   4HKP, 2EAW, 2JGY, 2P1F, 2QCC, 2QCD, 2QCE, 2QCF, 2QCG, 2QCH, 2QCL, 2QCM,
+   2QCN, 2V30, 2WNS, 3BGG, 3BGJ, 3BK0, 3BVJ, 3DBP, 3EWU, 3EWW, 3EWX, 3EWY,
+   3EWZ, 3EX1, 3EX2, 3EX3, 3EX4, 3EX6, 3G3D, 3G3M, 3L0K, 3L0N, 3MI2, 3MO7,
+   3MW7, 4HIB
+   Identifiers
+   Aliases UMPS, OPRT, uridine monophosphate synthetase
+   External IDs OMIM: 613891 MGI: 1298388 HomoloGene: 319 GeneCards: UMPS
+          Gene location (Human)
+   Chromosome 3 (human)
+   Chr. Chromosome 3 (human)
+   Chromosome 3 (human)
+   Genomic location for UMPS
+   Genomic location for UMPS
+   Band 3q21.2 Start 124,730,433 bp
+                End  124,749,273 bp
+          Gene location (Mouse)
+   Chromosome 16 (mouse)
+   Chr. Chromosome 16 (mouse)
+   Chromosome 16 (mouse)
+   Genomic location for UMPS
+   Genomic location for UMPS
+   Band 16|16 B3 Start 33,954,782 bp
+                  End  33,967,038 bp
+      RNA expression pattern
+   PBB GE UMPS 215165 x at fs.png
+   PBB GE UMPS 202707 at fs.png
+   PBB GE UMPS 202706 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o lyase activity
+   o carboxy-lyase activity
+   o transferase activity
+   o catalytic activity
+   o transferase activity, transferring glycosyl groups
+   o orotidine-5'-phosphate decarboxylase activity
+   o orotate phosphoribosyltransferase activity
+   o identical protein binding
+   Cellular component o cytoplasm
+   o cytosol
+   o nucleus
+   Biological process o female pregnancy
+   o cellular response to drug
+   o pyrimidine nucleotide biosynthetic process
+   o UMP biosynthetic process
+   o metabolism
+   o nucleoside metabolic process
+   o pyrimidine nucleoside biosynthetic process
+   o 'de novo' UMP biosynthetic process
+   o 'de novo' pyrimidine nucleobase biosynthetic process
+   o lactation
+   o pyrimidine nucleobase biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   7372
+   22247
+   Ensembl
+   ENSG00000114491
+   ENSMUSG00000022814
+   UniProt
+   P11172
+   P13439
+   RefSeq (mRNA)
+   NM_000373
+   NM_009471
+   NM_001348087
+   RefSeq (protein)
+   NP_000364
+   NP_033497
+   NP_001335016
+   Location (UCSC) Chr 3: 124.73 - 124.75 Mb Chr 16: 33.95 - 33.97 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Uridine monophosphate synthase (UMPS) (orotate phosphoribosyl
+   transferase and orotidine-5'-decarboxylase) is the enzyme that
+   catalyses the formation of uridine monophosphate (UMP), an
+   energy-carrying molecule in many important biosynthetic pathways.
+   In humans, the gene that codes for this enzyme is located on the long
+   arm of chromosome 3 (3q13).

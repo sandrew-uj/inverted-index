@@ -1,0 +1,11 @@
+   A halohydrin dehalogenase is an enzyme involved in the bacterial
+   degradation of vicinal halohydrins. In several species of bacteria, it
+   catalyses the dehalogenation of halohydrins to produce the
+   corresponding epoxides. Different isoforms of the enzyme fall into
+   one of three groups, A, B or C. Halogenases of the same class are
+   genetically similar, but differ greatly from halogenases from a
+   different group. Currently the most well-studied isoform is
+   HheC which is purified from the bacterial species Agrobacterium
+   radiobacter. The ability to dehalogenate organic compounds as well
+   as form enantiomeric selective epoxides have generated interest in the
+   potential of this enzyme in the biochemical field.

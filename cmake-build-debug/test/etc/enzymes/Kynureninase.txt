@@ -1,0 +1,83 @@
+   2HZP, 3E9K
+   Identifiers
+   Aliases KYNU, KYNUU, kynureninase, VCRL2
+   External IDs OMIM: 605197 MGI: 1918039 HomoloGene: 2925 GeneCards: KYNU
+          Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for KYNU
+   Genomic location for KYNU
+   Band 2q22.2 Start 142,877,657 bp
+                End  143,055,833 bp
+         Gene location (Mouse)
+   Chromosome 2 (mouse)
+   Chr. Chromosome 2 (mouse)
+   Chromosome 2 (mouse)
+   Genomic location for KYNU
+   Genomic location for KYNU
+   Band 2|2 B Start 43,555,329 bp
+               End  43,682,715 bp
+   Gene ontology
+   Molecular function o protein homodimerization activity
+   o kynureninase activity
+   o catalytic activity
+   o pyridoxal phosphate binding
+   o hydrolase activity
+   o 3-hydroxykynureninase activity
+   Cellular component o cytosol
+   o mitochondrion
+   o cytoplasm
+   o nucleoplasm
+   Biological process o pyridine nucleotide biosynthetic process
+   o response to vitamin B6
+   o response to interferon-gamma
+   o tryptophan catabolic process to acetyl-CoA
+   o L-kynurenine catabolic process
+   o tryptophan catabolic process
+   o tryptophan catabolic process to kynurenine
+   o quinolinate biosynthetic process
+   o anthranilate metabolic process
+   o NAD biosynthetic process
+   o 'de novo' NAD biosynthetic process from tryptophan
+   o aging
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   8942
+   70789
+   Ensembl
+   ENSG00000115919
+   ENSMUSG00000026866
+   UniProt
+   Q16719
+   Q9CXF0
+   RefSeq (mRNA)
+   NM_001032998
+   NM_001199241
+   NM_003937
+   NM_027552
+   NM_001289593
+   NM_001289594
+   RefSeq (protein)
+   NP_001028170
+   NP_001186170
+   NP_003928
+   NP_001276522
+   NP_001276523
+   NP_081828
+   Location (UCSC) Chr 2: 142.88 - 143.06 Mb Chr 2: 43.56 - 43.68 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Kynureninase or L-Kynurenine hydrolase (KYNU) (EC 3.7.1.3) is a PLP
+   dependent enzyme that catalyses the cleavage of kynurenine (Kyn) into
+   anthranilic acid (Ant). It can also act on 3hKyn (to produce 3hAnt) and
+   some other (3-arylcarbonyl)-alanines. Humans express one kynureninase
+   enzyme that is encoded by the KYNU gene located on chromosome
+   2.
+   KYNU is part of the pathway for the catabolism of Trp and the
+   biosynthesis of NAD cofactors from tryptophan (Trp).
+   Kynureninase catalyzes the following reaction:
+     * L-kynurenine + H[2]O = anthranilate + L-alanine

@@ -1,0 +1,19 @@
+   Ribonuclease H (abbreviated RNase H or RNH) is a family of
+   non-sequence-specific endonuclease enzymes that catalyze the cleavage
+   of RNA in an RNA/DNA substrate via a hydrolytic mechanism. Members of
+   the RNase H family can be found in nearly all organisms, from bacteria
+   to archaea to eukaryotes.
+   The family is divided into evolutionarily related groups with slightly
+   different substrate preferences, broadly designated ribonuclease H1 and
+   H2. The human genome encodes both H1 and H2. Human ribonuclease H2
+   is a heterotrimeric complex composed of three subunits, mutations in
+   any of which are among the genetic causes of a rare disease known as
+   Aicardi-Goutieres syndrome. A third type, closely related to H2, is
+   found only in a few prokaryotes, whereas H1 and H2 occur in all
+   domains of life. Additionally, RNase H1-like retroviral
+   ribonuclease H domains occur in multidomain reverse transcriptase
+   proteins, which are encoded by retroviruses such as HIV and are
+   required for viral replication.
+   In eukaryotes, ribonuclease H1 is involved in DNA replication of the
+   mitochondrial genome. Both H1 and H2 are involved in genome maintenance
+   tasks such as processing of R-loop structures.

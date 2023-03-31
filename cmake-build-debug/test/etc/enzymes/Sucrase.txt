@@ -1,0 +1,5 @@
+   Sucrase is a digestive enzyme that catalyzes the hydrolysis of sucrose
+   to its subunits fructose and glucose. One form, sucrase-isomaltase, is
+   secreted in the small intestine on the brush border. The sucrase
+   enzyme invertase, which occurs more commonly in plants, also hydrolyzes
+   sucrose but by a different mechanism.

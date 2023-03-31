@@ -1,0 +1,9 @@
+   Acetaldehyde dehydrogenases (EC 1.2.1.10) are dehydrogenase enzymes
+   which catalyze the conversion of acetaldehyde into acetic acid. The
+   oxidation of acetaldehyde to acetate can be summarized as follows:
+   Acetaldehyde + NAD^+ + Coenzyme A <-> Acetyl-CoA + NADH + H^+
+   In humans, there are three known genes which encode this enzymatic
+   activity, ALDH1A1, ALDH2, and the more recently discovered ALDH1B1
+   (also known as ALDH5). These enzymes are members of the larger class of
+   aldehyde dehydrogenases.
+   The CAS number for this type of the enzyme is [9028-91-5].

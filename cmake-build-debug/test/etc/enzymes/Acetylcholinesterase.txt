@@ -1,0 +1,124 @@
+   4EY7, 4PQE, 1F8U, 3LII, 4BDT, 4M0E, 4M0F, 1VZJ, 2X8B, 1B41, 4EY4, 4EY5,
+   4EY6, 4EY8, 5FOQ, 5HF9, 5HF6, 5FPQ, 5HF8, 5HFA
+   Identifiers
+   Aliases ACHE, AChE, acetylhydrolase, acetylcholinesterase (Yt blood
+   group), ACEE, ARN-YT, acetylcholinesterase (Cartwright blood group),
+   true cholinesterase (dated synonym)
+   External IDs OMIM: 100740 MGI: 87876 HomoloGene: 543 GeneCards: ACHE
+          Gene location (Human)
+   Chromosome 7 (human)
+   Chr. Chromosome 7 (human)
+   Chromosome 7 (human)
+   Genomic location for ACHE
+   Genomic location for ACHE
+   Band 7q22.1 Start 100,889,994 bp
+                End  100,896,974 bp
+              Gene location (Mouse)
+   Chromosome 5 (mouse)
+   Chr. Chromosome 5 (mouse)
+   Chromosome 5 (mouse)
+   Genomic location for ACHE
+   Genomic location for ACHE
+   Band 5 G2|5 76.32 cM Start 137,287,519 bp
+                         End  137,294,466 bp
+      RNA expression pattern
+   PBB GE ACHE 205377 s at fs.png
+   PBB GE ACHE 205378 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o protein homodimerization activity
+   o collagen binding
+   o acetylcholine binding
+   o serine hydrolase activity
+   o GO:0004091 carboxylic ester hydrolase activity
+   o amyloid-beta binding
+   o cholinesterase activity
+   o protein self-association
+   o GO:0001948 protein binding
+   o laminin binding
+   o hydrolase activity
+   o ACHE
+   o acetylcholinesterase activity
+   Cellular component o Golgi apparatus
+   o membrane
+   o cell membrane
+   o synapse
+   o extracellular region
+   o cell surface
+   o cell junction
+   o perinuclear region of cytoplasm
+   o anchored component of membrane
+   o nucleus
+   o synaptic cleft
+   o extracellular space
+   o neuromuscular junction
+   o basement membrane
+   Biological process o muscle organ development
+   o receptor internalization
+   o neurotransmitter biosynthetic process
+   o negative regulation of synaptic transmission, cholinergic
+   o amyloid precursor protein metabolic process
+   o protein tetramerization
+   o acetylcholine catabolic process
+   o nervous system development
+   o neurotransmitter catabolic process
+   o DNA replication
+   o cell adhesion
+   o retina development in camera-type eye
+   o response to wounding
+   o positive regulation of protein secretion
+   o osteoblast development
+   o synapse assembly
+   o phosphatidylcholine biosynthetic process
+   o regulation of receptor recycling
+   o cell population proliferation
+   o acetylcholine catabolic process in synaptic cleft
+   o positive regulation of cold-induced thermogenesis
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   43
+   11423
+   Ensembl
+   ENSG00000087085
+   ENSMUSG00000023328
+   UniProt
+   P22303
+   P21836
+   RefSeq (mRNA)
+   NM_000665
+   NM_001282449
+   NM_001302621
+   NM_001302622
+   NM_015831
+   NM_001367915
+   NM_001367917
+   NM_001367918
+   NM_001367919
+   NM_001290010
+   NM_009599
+   RefSeq (protein)
+   NP_000656
+   NP_001269378
+   NP_001289550
+   NP_001289551
+   NP_001354844
+   NP_001354846
+   NP_001354847
+   NP_001354848
+   NP_001276939
+   NP_033729
+   Location (UCSC) Chr 7: 100.89 - 100.9 Mb Chr 5: 137.29 - 137.29 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Acetylcholinesterase (HGNC symbol ACHE; EC 3.1.1.7), also known as AChE
+   or acetylhydrolase, is the primary cholinesterase in the body. It is an
+   enzyme that catalyzes the breakdown of acetylcholine and of some other
+   choline esters that function as neurotransmitters. AChE is found at
+   mainly neuromuscular junctions and in chemical synapses of the
+   cholinergic type, where its activity serves to terminate synaptic
+   transmission. It belongs to carboxylesterase family of enzymes. It is
+   the primary target of inhibition by organophosphorus compounds such as
+   nerve agents and pesticides.

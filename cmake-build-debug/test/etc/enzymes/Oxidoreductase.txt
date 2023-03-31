@@ -1,0 +1,9 @@
+   In biochemistry, an oxidoreductase is an enzyme that catalyzes the
+   transfer of electrons from one molecule, the reductant, also called the
+   electron donor, to another, the oxidant, also called the electron
+   acceptor. This group of enzymes usually utilizes NADP+ or NAD+ as
+   cofactors. Transmembrane oxidoreductases create electron
+   transport chains in bacteria, chloroplasts and mitochondria, including
+   respiratory complexes I, II and III. Some others can associate with
+   biological membranes as peripheral membrane proteins or be anchored to
+   the membranes through a single transmembrane helix.

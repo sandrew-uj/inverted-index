@@ -1,0 +1,22 @@
+   Histone methyltransferases (HMT) are histone-modifying enzymes (e.g.,
+   histone-lysine N-methyltransferases and histone-arginine
+   N-methyltransferases), that catalyze the transfer of one, two, or three
+   methyl groups to lysine and arginine residues of histone proteins. The
+   attachment of methyl groups occurs predominantly at specific lysine or
+   arginine residues on histones H3 and H4. Two major types of histone
+   methyltranferases exist, lysine-specific (which can be SET (Su(var)3-9,
+   Enhancer of Zeste, Trithorax) domain containing or non-SET domain
+   containing) and arginine-specific. In both types of histone
+   methyltransferases, S-Adenosyl methionine (SAM) serves as a cofactor
+   and methyl donor group.
+   The genomic DNA of eukaryotes associates with histones to form
+   chromatin. The level of chromatin compaction depends heavily on
+   histone methylation and other post-translational modifications of
+   histones. Histone methylation is a principal epigenetic
+   modification of chromatin that determines gene expression, genomic
+   stability, stem cell maturation, cell lineage development, genetic
+   imprinting, DNA methylation, and cell mitosis.
+   Front view of the human enzyme Histone Lysine N-Methyltransferase, H3
+   lysine-4 specific.
+   Back view of the human enzyme Histone Lysine N-Methyltransferase, H3
+   lysine-4 specific. Active sites clearly visible.

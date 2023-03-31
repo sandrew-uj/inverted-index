@@ -1,0 +1,21 @@
+   Iron-sulfur proteins (or iron-sulphur proteins in British spelling) are
+   proteins characterized by the presence of iron-sulfur clusters
+   containing sulfide-linked di-, tri-, and tetrairon centers in variable
+   oxidation states. Iron-sulfur clusters are found in a variety of
+   metalloproteins, such as the ferredoxins, as well as NADH
+   dehydrogenase, hydrogenases, coenzyme Q - cytochrome c reductase,
+   succinate - coenzyme Q reductase and nitrogenase. Iron-sulfur
+   clusters are best known for their role in the oxidation-reduction
+   reactions of electron transport in mitochondria and chloroplasts. Both
+   Complex I and Complex II of oxidative phosphorylation have multiple
+   Fe-S clusters. They have many other functions including catalysis as
+   illustrated by aconitase, generation of radicals as illustrated by
+   SAM-dependent enzymes, and as sulfur donors in the biosynthesis of
+   lipoic acid and biotin. Additionally, some Fe-S proteins regulate gene
+   expression. Fe-S proteins are vulnerable to attack by biogenic nitric
+   oxide, forming dinitrosyl iron complexes. In most Fe-S proteins, the
+   terminal ligands on Fe are thiolate, but exceptions exist.
+   The prevalence of these proteins on the metabolic pathways of most
+   organisms leads some scientists to theorize that iron-sulfur compounds
+   had a significant role in the origin of life in the iron-sulfur world
+   theory.

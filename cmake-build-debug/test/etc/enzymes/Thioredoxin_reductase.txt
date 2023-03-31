@@ -1,0 +1,8 @@
+   Thioredoxin reductases (TR, TrxR) (EC 1.8.1.9) are the only known
+   enzymes to reduce thioredoxin (Trx). Two classes of thioredoxin
+   reductase have been identified: one class in bacteria and some
+   eukaryotes and one in animals. In bacteria TrxR also catalyzes the
+   reduction of glutaredoxin like proteins known as NrdH. Both
+   classes are flavoproteins which function as homodimers. Each monomer
+   contains a FAD prosthetic group, a NADPH binding domain, and an active
+   site containing a redox-active disulfide bond.

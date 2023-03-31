@@ -1,0 +1,18 @@
+   Guanylate cyclase (EC 4.6.1.2, also known as guanyl cyclase, guanylyl
+   cyclase, or GC) is a lyase enzyme that converts guanosine triphosphate
+   (GTP) to cyclic guanosine monophosphate (cGMP) and pyrophosphate.
+   It is often part of the G protein signaling cascade that is activated
+   by low intracellular calcium levels and inhibited by high intracellular
+   calcium levels. In response to calcium levels, guanylate cyclase
+   synthesizes cGMP from GTP. cGMP keeps cGMP-gated channels open,
+   allowing for the entry of calcium into the cell.
+   Like cAMP, cGMP is an important second messenger that internalizes the
+   message carried by intercellular messengers such as peptide hormones
+   and nitric oxide and can also function as an autocrine signal.
+   Depending on cell type, it can drive adaptive/developmental changes
+   requiring protein synthesis. In smooth muscle, cGMP is the signal for
+   relaxation, and is coupled to many homeostatic mechanisms including
+   regulation of vasodilation, vocal tone, insulin secretion, and
+   peristalsis. Once formed, cGMP can be degraded by phosphodiesterases,
+   which themselves are under different forms of regulation, depending on
+   the tissue.

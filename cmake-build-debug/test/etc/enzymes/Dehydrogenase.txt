@@ -1,0 +1,8 @@
+   A dehydrogenase is an enzyme belonging to the group of oxidoreductases
+   that oxidizes a substrate by reducing an electron acceptor, usually
+   NAD^+/NADP^+ or a flavin coenzyme such as FAD or FMN. Like all
+   catalysts, they catalyze reverse as well as forward reactions, and in
+   some cases this has physiological significance: for example, alcohol
+   dehydrogenase catalyzes the oxididation of ethanol to acetaldehyde in
+   animals, but in yeast it catalyzes the production of ethanol from
+   acetaldehyde.

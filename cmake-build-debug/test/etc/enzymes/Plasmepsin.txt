@@ -1,0 +1,22 @@
+   Plasmepsins are a class of at least 10 enzymes (EC 3.4.23.38 and EC
+   3.4.23.39) produced by the Plasmodium falciparum parasite. There are
+   ten different isoforms of these proteins and ten genes coding them
+   respectively in Plasmodium (Plm I, II, III, IV, V, VI, VII, IX, X and
+   HAP). It has been suggested that the plasmepsin family is smaller in
+   other human Plasmodium species. Expression of Plm I, II, IV, V, IX, X
+   and HAP occurs in the erythrocytic cycle, and expression of Plm VI,
+   VII, VIII, occurs in the exoerythrocytic cycle. Through their
+   haemoglobin-degrading activity, they are an important cause of symptoms
+   in malaria sufferers. Consequently, this family of enzymes is a
+   potential target for antimalarial drugs.
+   Plasmepsins are aspartic acid proteases, meaning their active site
+   contains two aspartic acid residues. These two aspartic acid residue
+   act respectively as proton donor and proton acceptor, catalysing the
+   hydrolysis of peptide bond in proteins.
+   There are four types of plasmepsins, closely related but varying in the
+   specificity of cleavage site. Plasmepsins I and II cleave hemoglobin
+   between residues Phenylalanine 33 and Leucine 34 of a-globin subunit.
+   The name plasmepsin may come from Plasmodium (the organism) and pepsin
+   (a common aspartic acid protease with similar molecular structure).
+   The closest (non-pathogenic) enzymatic equivalent in humans is the
+   beta-secretase enzyme.

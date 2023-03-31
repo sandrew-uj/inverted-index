@@ -1,0 +1,61 @@
+   Chromosome 17 (human)
+   Genomic location for FKBP10
+   Genomic location for FKBP10
+   Band 17q21.2 Start 41,812,680 bp
+                 End  41,823,213 bp
+               Gene location (Mouse)
+   Chromosome 11 (mouse)
+   Chr. Chromosome 11 (mouse)
+   Chromosome 11 (mouse)
+   Genomic location for FKBP10
+   Genomic location for FKBP10
+   Band 11 D|11 63.47 cM Start 100,415,697 bp
+                          End  100,424,824 bp
+        RNA expression pattern
+   PBB GE FKBP10 219249 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   o metal ion binding
+   o FK506 binding
+   Cellular component o endoplasmic reticulum lumen
+   o endoplasmic reticulum
+   o cytoplasm
+   o nucleolus
+   Biological process o chaperone-mediated protein folding
+   o histone peptidyl-prolyl isomerization
+   o peptidyl-proline modification
+   o protein peptidyl-prolyl isomerization
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   60681
+   14230
+   Ensembl
+   ENSG00000141756
+   ENSMUSG00000001555
+   UniProt
+   Q96AY3
+   Q61576
+   RefSeq (mRNA)
+   NM_021939
+   NM_001163481
+   NM_010221
+   RefSeq (protein)
+   NP_068758
+   NP_001156953
+   NP_034351
+   Location (UCSC) Chr 17: 41.81 - 41.82 Mb Chr 11: 100.42 - 100.42 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 10 is a protein that in humans is encoded by the
+   FKBP10 gene.
+   The protein encoded by this gene belongs to the FKBP-type
+   peptidyl-prolyl cis/trans isomerase family. It is located in
+   endoplasmic reticulum and acts as molecular chaperones. Two
+   alternatively spliced variants, which encode different isoform, are
+   reported.

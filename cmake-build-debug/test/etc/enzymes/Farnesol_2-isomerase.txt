@@ -1,0 +1,10 @@
+   In enzymology, a farnesol 2-isomerase (EC 5.2.1.9) is an enzyme that
+   catalyzes the chemical reaction
+          2-trans,6-trans-farnesol
+           2-cis,6-trans-farnesol
+   Hence, this enzyme has one substrate, 2-trans,6-trans-farnesol, and one
+   product, 2-cis,6-trans-farnesol.
+   This enzyme belongs to the family of isomerases, specifically cis-trans
+   isomerases. The systematic name of this enzyme class is
+   2-trans,6-trans-farnesol 2-cis-trans-isomerase. This enzyme is also
+   called farnesol isomerase.

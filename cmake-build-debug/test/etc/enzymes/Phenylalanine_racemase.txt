@@ -1,0 +1,14 @@
+   The enzyme phenylalanine racemase (EC 5.1.1.11, phenylalanine racemase,
+   phenylalanine racemase (adenosine triphosphate-hydrolysing), gramicidin
+   S synthetase I) is the enzyme that acts on amino acids and derivatives.
+   It activates both the L & D stereo isomers of phenylalanine to form
+   L-phenylalanyl adenylate and D-phenylalanyl adenylate, which are bound
+   to the enzyme. These bound compounds are then transferred to the thiol
+   group of the enzyme followed by conversion of its configuration, the
+   D-isomer being the more favorable configuration of the two, with a 7 to
+   3 ratio between the two isomers. The racemisation reaction of
+   phenylalanine is coupled with the highly favorable hydrolysis of
+   adenosine triphosphate (ATP) to adenosine monophosphate (AMP) and
+   pyrophosphate (PP), thermodynamically allowing it to proceed. This
+   reaction is then drawn forward by further hydrolyzing PP to inorganic
+   phosphate (P[i]), via Le Chatelier's principle.

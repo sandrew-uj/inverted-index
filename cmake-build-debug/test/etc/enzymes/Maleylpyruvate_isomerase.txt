@@ -1,0 +1,10 @@
+   In enzymology, a maleylpyruvate isomerase (EC 5.2.1.4) is an enzyme
+   that catalyzes the chemical reaction
+          3-maleylpyruvate
+           3-fumarylpyruvate
+   Hence, this enzyme has one substrate, 3-maleylpyruvate, and one
+   product, 3-fumarylpyruvate.
+   This enzyme belongs to the family of isomerases, specifically cis-trans
+   isomerases. The systematic name of this enzyme class is
+   3-maleylpyruvate cis-trans-isomerase. This enzyme participates in
+   tyrosine metabolism.

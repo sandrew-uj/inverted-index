@@ -1,0 +1,17 @@
+   In enzymology, a retinol isomerase (EC 5.2.1.7) is an enzyme that
+   catalyzes the chemical reaction
+          all-trans-retinol
+           11-cis-retinol
+   Hence, this enzyme has one substrate, all-trans-retinol, and one
+   product, 11-cis-retinol. These enzymes are alternatively referred to as
+   retinoid isomerases.
+   This enzyme belongs to the family of isomerases, specifically cis-trans
+   isomerases. The systematic name of this enzyme class is
+   all-trans-retinol 11-cis-trans-isomerase. This enzyme is also called
+   all-trans-retinol isomerase. This enzyme participates in retinol
+   metabolism.
+   In vertebrates, RPE65 is the active retinol isomerase in the visual
+   cycle. A lack of RPE65 function results in congenital blindness in
+   children (specifically Leber congenital amaurosis). Emixustat, a
+   partial inhibitor of RPE65, is currently in FDA clinical trials for the
+   treatment of age-related macular degeneration.

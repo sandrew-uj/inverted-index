@@ -1,0 +1,117 @@
+   4YT7, 1BF9, 1CVW, 1DAN, 1DVA, 1F7E, 1F7M, 1FAK, 1FF7, 1FFM, 1J9C, 1JBU,
+   1KLI, 1KLJ, 1O5D, 1QFK, 1W0Y, 1W2K, 1W7X, 1W8B, 1WQV, 1WSS, 1WTG, 1WUN,
+   1WV7, 1YGC, 1Z6J, 2A2Q, 2AEI, 2AER, 2B7D, 2B8O, 2BZ6, 2C4F, 2EC9, 2F9B,
+   2FIR, 2FLB, 2FLR, 2PUQ, 2ZP0, 2ZWL, 2ZZU, 3ELA, 3TH2, 3TH3, 3TH4, 4IBL,
+   4ISH, 4ISI, 4JYU, 4JYV, 4JZD, 4JZE, 4JZF, 4NA9, 4NG9, 4NGA, 4X8S, 4X8T,
+   4X8U, 4X8V, 4YT6, 4ZXX, 4ZXY, 4Z6A, 4ZMA, 4YLQ, 5I46
+   Identifiers
+   Aliases F7, SPCA, coagulation factor VII
+   External IDs OMIM: 613878 MGI: 109325 HomoloGene: 7710 GeneCards: F7
+         Gene location (Human)
+   Chromosome 13 (human)
+   Chr. Chromosome 13 (human)
+   Chromosome 13 (human)
+   Genomic location for F7
+   Genomic location for F7
+   Band 13q34 Start 113,105,788 bp
+               End  113,120,685 bp
+              Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for F7
+   Genomic location for F7
+   Band 8 A1.1|8 5.73 cM Start 13,026,034 bp
+                          End  13,035,809 bp
+      RNA expression pattern
+   PBB GE F7 207300 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o endopeptidase activity
+   o peptidase activity
+   o GO:0001948 protein binding
+   o serine-type peptidase activity
+   o hydrolase activity
+   o serine-type endopeptidase activity
+   o signaling receptor binding
+   Cellular component o vesicle
+   o endoplasmic reticulum lumen
+   o cell membrane
+   o extracellular region
+   o Golgi lumen
+   o extracellular space
+   o serine-type peptidase complex
+   o collagen-containing extracellular matrix
+   Biological process o hemostasis
+   o positive regulation of protein kinase B signaling
+   o response to organic cyclic compound
+   o positive regulation of cell migration
+   o positive regulation of platelet-derived growth factor receptor
+   signaling pathway
+   o proteolysis
+   o response to estrogen
+   o positive regulation of leukocyte chemotaxis
+   o endoplasmic reticulum to Golgi vesicle-mediated transport
+   o response to vitamin K
+   o positive regulation of blood coagulation
+   o response to nutrient levels
+   o animal organ regeneration
+   o response to growth hormone
+   o response to hormone
+   o blood coagulation, extrinsic pathway
+   o positive regulation of positive chemotaxis
+   o response to thyroid hormone
+   o protein processing
+   o blood coagulation
+   o response to 2,3,7,8-tetrachlorodibenzodioxine
+   o response to estradiol
+   o response to carbon dioxide
+   o response to genistein
+   o response to cholesterol
+   o circadian rhythm
+   o response to thyroxine
+   o response to Thyroid stimulating hormone
+   o response to hypoxia
+   o response to anticoagulant
+   o response to astaxanthin
+   o response to thyrotropin-releasing hormone
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2155
+   14068
+   Ensembl
+   ENSG00000057593
+   ENSMUSG00000031443
+   UniProt
+   P08709
+   P70375
+   RefSeq (mRNA)
+   NM_000131
+   NM_001267554
+   NM_019616
+   NM_010172
+   RefSeq (protein)
+   NP_000122
+   NP_001254483
+   NP_062562
+   NP_034302
+   Location (UCSC) Chr 13: 113.11 - 113.12 Mb Chr 8: 13.03 - 13.04 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Factor VII (EC 3.4.21.21, formerly known as proconvertin) is one of the
+   proteins that causes blood to clot in the coagulation cascade. It is an
+   enzyme of the serine protease class. Once bound to tissue factor
+   released from damaged tissues, it is converted to factor VIIa (or
+   blood-coagulation factor VIIa, activated blood coagulation factor VII),
+   which in turn activates factor IX and factor X.
+   A recombinant form of human factor VIIa (eptacog alfa [activated],
+   NovoSeven) has U.S. Food and Drug Administration approval for
+   uncontrolled bleeding in hemophilia patients. It is sometimes used
+   unlicensed in severe uncontrollable bleeding, although there have been
+   safety concerns. A biosimilar form of recombinant activated factor VII
+   (AryoSeven) is also available, but does not play any considerable role
+   in the market.

@@ -1,0 +1,12 @@
+   Exonucleases are enzymes that work by cleaving nucleotides one at a
+   time from the end (exo) of a polynucleotide chain. A hydrolyzing
+   reaction that breaks phosphodiester bonds at either the 3' or the 5'
+   end occurs. Its close relative is the endonuclease, which cleaves
+   phosphodiester bonds in the middle (endo) of a polynucleotide chain.
+   Eukaryotes and prokaryotes have three types of exonucleases involved in
+   the normal turnover of mRNA: 5' to 3' exonuclease (Xrn1), which is a
+   dependent decapping protein; 3' to 5' exonuclease, an independent
+   protein; and poly(A)-specific 3' to 5' exonuclease.
+   In both archaea and eukaryotes, one of the main routes of RNA
+   degradation is performed by the multi-protein exosome complex, which
+   consists largely of 3' to 5' exoribonucleases.

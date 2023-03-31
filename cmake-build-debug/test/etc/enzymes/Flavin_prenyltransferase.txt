@@ -1,0 +1,22 @@
+   UbiX is a flavin prenyltransferase, catalysing the addition of
+   dimethylallyl-monophosphate (DMAP) (or dimethylallyl-pyrophosphate
+   (DMAPP) ) onto the N5 and C6 positions of FMN culminating in the
+   formation of the prenylated FMN (prFMN) cofactor. The enzyme is
+   involved in the ubiquinone biosynthesis pathway in E.coli from where it
+   gets its name. UbiX is associated with the UbiD enzymes as prFMN is
+   utilised by UbiD enzymes in their function as reversible
+   decarboxylases. Unusually for a prenyltransferase UbiX is not metal
+   dependent.
+   Following the elucidation of prFMN's structure in the active site of
+   Fdc1 from aspergillus niger (AnFdc1) the prenyltrasferase activity of
+   UbiX was investigated. Incubation of UbiX from P.aeruginosa with
+   oxidised FMN and DMAP followed by reduction with sodium dithionite lead
+   to the formation of prFMN^reduced. The same procedure followed by
+   re-oxidation under aerobic conditions lead to prFMN^radical. Anaerobic
+   incubation of apo-AnFdc1 with prFMN^reduced followed by exposure to
+   oxygen lead to decarboxylase activity, however incubation with
+   prFMN^radical did not afford activity to apo-AnFdc1. This suggests that
+   the prFMN^reduced form can be correctly oxidised by UbiD/Fdc1 to the
+   corresponding prFMN^iminium (Figure 2).
+   Figure.1 Proposed catalytic mechanism for PaUbiX. Figure adapted from
+   .

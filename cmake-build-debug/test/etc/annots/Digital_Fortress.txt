@@ -1,0 +1,90 @@
+
+   The story is set in the year of 1996. When the United States National
+   Security Agency's code-breaking supercomputer TRANSLTR encounters a
+   revolutionary new code, Digital Fortress, that it cannot break,
+   Commander Trevor Strathmore calls in head cryptographer Susan Fletcher
+   to crack it. She is informed by Strathmore that it was written by Ensei
+   Tankado, a former NSA employee who became displeased with the NSA's
+   intrusion into people's private lives. If the NSA doesn't reveal
+   TRANSLTR to the public, Tankado intends to auction the code's algorithm
+   on his website and have his partner, "North Dakota", release it for
+   free if he dies, essentially holding the NSA hostage. Strathmore tells
+   Fletcher that Tankado has in fact died in Seville at the age of 32, of
+   what appears to be a heart attack. Strathmore intends to keep Tankado's
+   death a secret because if Tankado's partner finds out, he will upload
+   the code. The agency is determined to stop Digital Fortress from
+   becoming a threat to national security.
+
+   Strathmore asks Fletcher's fiance David Becker to travel to Seville and
+   recover a ring that Tankado was wearing when he died. The ring is
+   suspected to have the passcode that unlocks Digital Fortress. However,
+   Becker soon discovers that Tankado gave the ring away just before his
+   death. Unbeknown to Becker, a mysterious figure, named Hulohot, follows
+   him, and murders each person he questions in the search for the ring.
+   Unsurprisingly, Hulohot's final attempt would be on Becker himself.
+
+   Meanwhile, telephone calls between North Dakota and Tokugen Numataka
+   (chairman of the Japanese computer company Numatech) reveal that North
+   Dakota hired Hulohot to kill Tankado in order to gain access to the
+   passcode on his ring and speed up the release of the algorithm. At the
+   NSA, Fletcher's investigation leads her to believe that Greg Hale, a
+   fellow NSA employee, is North Dakota. Phil Chartrukian, an NSA
+   technician who is unaware of the Digital Fortress code breaking failure
+   and believes Digital Fortress to be a virus, conducts his own
+   investigation into whether Strathmore allowed Digital Fortress to
+   bypass Gauntlet, the NSA's virus/worm filter. To save the TRANSLTR he
+   decides to shut it down but is murdered after being pushed off
+   sub-levels of TRANSLTR by an unknown assailant. Since Hale and
+   Strathmore were both in the sub-levels, Fletcher assumes that Hale is
+   the killer; however, Hale claims that he witnessed Strathmore killing
+   Chartrukian. Chartrukian's fall also damages TRANSLTR's cooling system.
+
+   Hale holds Fletcher and Strathmore hostage to prevent himself from
+   being arrested for the murder. It is then that Hale explains, the
+   e-mail he supposedly received from Tankado was also in Strathmore's
+   inbox as he was snooping on Tankado. Fletcher discovers through a
+   tracer that North Dakota and Ensei Tankado are the same person, as
+   "NDAKOTA" is an anagram of "Tankado." Based on Chartrukian's
+   investigation, and further detail from Hale, Fletcher realises that
+   Digital Fortress is a virus, and not an encryption algorithm.
+
+   Strathmore kills Hale and arranges it to appear as a suicide. Fletcher
+   later discovers through Strathmore's pager that he is the one who hired
+   Hulohot. Becker manages to track down the ring, but ends up pursued by
+   Hulohot in a long cat-and-mouse chase across Seville. The two
+   eventually face off in a cathedral, where Becker finally kills Hulohot
+   by tripping him down a spiral staircase, causing him to break his neck.
+   He is then intercepted by NSA field agents sent by Leland Fontaine, the
+   director of the NSA.
+
+   Chapters told from Strathmore's perspective reveal master plan. By
+   hiring Hulohot to kill Tankado, having Becker recover his ring and at
+   the same time arranging for Hulohot to kill him, he would facilitate a
+   romantic relationship with Fletcher, regaining his lost honor. He has
+   also been working incessantly for many months to unlock Digital
+   Fortress, installing a backdoor inside the program. By making phone
+   calls to Numataka posing as North Dakota, he thought he could partner
+   with Numatech to make a Digital Fortress chip equipped with his own
+   backdoor Trojan. Finally, he would reveal to the world the existence of
+   TRANSLTR, boasting it would be able to crack all the encryption schemes
+   except Digital Fortress, making everyone rushing to use the computer
+   chip equipped with Digital Fortress so that the NSA could spy on every
+   computer equipped with these chips. However, Strathmore was unaware
+   that Digital Fortress is actually a computer worm that, once unlocked
+   would "eat away" at the NSA databank's security and allow "any
+   third-grader with a modem" to look at government secrets. When TRANSLTR
+   overheats, Strathmore commits suicide by standing next to the machine
+   as it explodes. The worm eventually gets into the database, but Becker
+   eventually figures out the password just seconds before the last
+   defense fall (3, the difference between the Hiroshima nuclear bomb,
+   Isotope 235, and the Nagasaki nuclear bomb, isotope 238, a reference to
+   the nuclear bombs that killed Tankado's mother and left him crippled),
+   and Fletcher is able to terminate the worm before hackers can get any
+   significant data. The NSA allows Becker to return to the United States,
+   reuniting him with Fletcher.
+
+   In the epilogue, it is revealed that Numataka was Ensei Tankado's
+   father; Numataka left Tankado the day he was born due to Tankado's
+   deformity. As Tankado's last living relative, Numataka inherits the
+   rest of Tankado's possessions.
+

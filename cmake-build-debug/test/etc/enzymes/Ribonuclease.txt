@@ -1,0 +1,35 @@
+   1i70A:11-92 2sarA:11-92 1ucjB:11-92 1lniB:11-92 1ay7A:11-92 1t2hB:11-92
+   1boxA:11-92 1uclA:11-92 1rgeB:11-92 1t2iA:11-92 1c54A:11-92 1rsnB:11-92
+   1gmqA:11-92 1uciA:11-92 1sarB:11-92 1gmpA:11-92 1rgfA:11-92 1rggB:11-92
+   1rghB:11-92 1i8vB:11-92 1gmrB:11-92 1ynvX:11-92 1py3B:79-159
+   1pylA:79-159 2rbiB:72-161 1goyA:72-161 1gouB:72-161 1govA:72-161
+   1bujA:72-161 1baoB:67-156 1bsdA:67-156 1banB:67-156 1brhA:67-156
+   1brgC:67-156 1brkC:67-156 1bnsA:67-156 1bnfB:67-156 1bgsB:67-156
+   1bnjB:67-156 1bsaB:67-156 1bsbC:67-156 1b3sB:67-156 1x1wB:67-156
+   1bniB:67-156 1b2xB:67-156 1b2zA:67-156 1bscC:67-156 1bseB:67-156
+   1x1yB:67-156 1briC:67-156 1b2uC:67-156 1b27C:67-156 1b20B:67-156 1bnr
+   :67-156 1b2sC:67-156 1yvs :67-156 1brsC:67-156 1brjC:67-156
+   1bneA:67-156 1bngC:67-156 1a2pA:67-156 1x1uB:67-156 1fw7A:67-156
+   1rnbA:67-156 1b21C:67-156 1x1xB:67-156 1brnM:67-156 1b2mA:46-129
+   1i0vA:46-129 1rls :46-129 1fysA:46-129 1bviB:46-129 1i2eA:46-129
+   2hohD:46-129 3rnt :46-129 6gsp :46-129 4gsp :46-129 1lowA:46-129
+   1i0xA:46-129 1birB:46-129 1trqA:46-129 1det :46-129 1i2gA:46-129
+   3bu4A:46-129 1rn1A:46-129 1rnt :46-129 4hohD:46-129 1rga :46-129
+   4bu4A:46-129 1rhlA:46-129 5bu4A:46-129 1hz1A:46-129 1trpA:46-129
+   5hohA:46-129 7gspA:46-129 1ygw :46-129 1gsp :46-129 1bu4 :46-129 6rnt
+   :46-129 1ch0B:46-129 1rgcB:46-129 4bir :46-129 2rnt :46-129
+   3hohD:46-129 1rgl :46-129 1rn4 :46-129 1fzuA:46-129 1lovA:46-129 5gsp
+   :46-129 9rnt :46-129 3bir :46-129 1q9eC:46-129 1i3fA:46-129
+   5birA:46-129 1g02A:46-129 1loyA:46-129 2birA:46-129 1ttoA:46-129
+   2aadB:46-129 1lra :46-129 1i3iA:46-129 2bu4A:46-129 2gsp :46-129
+   1hyfA:46-129 3gsp :46-129 1iyyA:46-129 7rnt :46-129 2aae :46-129 8rnt
+   :46-129 5rnt :46-129 1i2fA:46-129 4rnt :46-129 1rgk :46-129 1rms
+   :21-102 1rds :21-102 1fut :45-127 1rcl :45-127 1fus :45-127 1rck
+   :45-127 1rtu :23-113 1aqzA:82-174 1jbrB:82-174 1jbtA:82-174
+   1jbsA:82-174
+   1de3A:83-175 1r4yA:83-175
+   Ribonuclease (commonly abbreviated RNase) is a type of nuclease that
+   catalyzes the degradation of RNA into smaller components. Ribonucleases
+   can be divided into endoribonucleases and exoribonucleases, and
+   comprise several sub-classes within the EC 2.7 (for the phosphorolytic
+   enzymes) and 3.1 (for the hydrolytic enzymes) classes of enzymes.

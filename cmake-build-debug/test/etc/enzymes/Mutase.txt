@@ -1,0 +1,9 @@
+   A mutase is an enzyme of the isomerase class that catalyzes the
+   movement of a functional group from one position to another within the
+   same molecule. In other words, mutases catalyze intramolecular
+   group transfers. Examples of mutases include bisphosphoglycerate
+   mutase, which appears in red blood cells and phosphoglycerate mutase,
+   which is an enzyme integral to glycolysis. In glycolysis, it changes
+   3-phosphoglycerate to 2-phosphoglycerate. In particular it moves
+   phosphate groups within a single molecule, for instance:
+   phosphoglycerate mutase.

@@ -1,0 +1,118 @@
+   3EQM, 3S79, 3S7S, 4GL5, 4GL7, 4KQ8
+   Identifiers
+   Aliases CYP19A1, ARO, ARO1, CPV1, CYAR, CYP19, CYPXIX, P-450AROM,
+   cytochrome P450 family 19 subfamily A member 1
+   External IDs OMIM: 107910 MGI: 88587 HomoloGene: 30955 GeneCards:
+   CYP19A1
+          Gene location (Human)
+   Chromosome 15 (human)
+   Chr. Chromosome 15 (human)
+   Chromosome 15 (human)
+   Genomic location for CYP19A1
+   Genomic location for CYP19A1
+   Band 15q21.2 Start 51,208,057 bp
+                 End  51,338,601 bp
+               Gene location (Mouse)
+   Chromosome 9 (mouse)
+   Chr. Chromosome 9 (mouse)
+   Chromosome 9 (mouse)
+   Genomic location for CYP19A1
+   Genomic location for CYP19A1
+   Band 9 A5.3|9 29.49 cM Start 54,165,937 bp
+                           End  54,268,110 bp
+      RNA expression pattern
+   PBB GE PGR 208305 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o iron ion binding
+   o oxygen binding
+   o metal ion binding
+   o monooxygenase activity
+   o heme binding
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen
+   o electron transfer activity
+   o oxidoreductase activity
+   o aromatase activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, reduced flavin or flavoprotein as one
+   donor, and incorporation of one atom of oxygen
+   o steroid hydroxylase activity
+   Cellular component o endoplasmic reticulum membrane
+   o endoplasmic reticulum
+   o membrane
+   o integral component of membrane
+   Biological process o estrogen biosynthetic process
+   o androgen metabolic process
+   o negative regulation of chronic inflammatory response
+   o prostate gland growth
+   o sterol metabolic process
+   o negative regulation of macrophage chemotaxis
+   o steroid biosynthetic process
+   o female gonad development
+   o female genitalia development
+   o mammary gland development
+   o uterus development
+   o testosterone biosynthetic process
+   o androgen catabolic process
+   o positive regulation of estradiol secretion
+   o electron transport chain
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1588
+   13075
+   Ensembl
+   ENSG00000137869
+   ENSMUSG00000032274
+   UniProt
+   P11511
+   P28649
+   RefSeq (mRNA)
+   NM_000103
+   NM_001347248
+   NM_001347249
+   NM_001347250
+   NM_001347251
+   NM_001347252
+   NM_001347253
+   NM_001347254
+   NM_001347255
+   NM_001347256
+   NM_031226
+   NM_007810
+   NM_001348171
+   NM_001348172
+   NM_001348173
+   RefSeq (protein)
+   NP_000094
+   NP_001334177
+   NP_001334178
+   NP_001334179
+   NP_001334180
+   NP_001334181
+   NP_001334182
+   NP_001334183
+   NP_001334184
+   NP_001334185
+   NP_112503
+   NP_001335100
+   NP_001335101
+   NP_001335102
+   NP_031836
+   Location (UCSC) Chr 15: 51.21 - 51.34 Mb Chr 9: 54.17 - 54.27 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Aromatase, also called estrogen synthetase or estrogen synthase, is an
+   enzyme responsible for a key step in the biosynthesis of estrogens. It
+   is CYP19A1, a member of the cytochrome P450 superfamily (EC 1.14.14.1),
+   which are monooxygenases that catalyze many reactions involved in
+   steroidogenesis. In particular, aromatase is responsible for the
+   aromatization of androgens into estrogens. The enzyme aromatase can be
+   found in many tissues including gonads (granulosa cells), brain,
+   adipose tissue, placenta, blood vessels, skin, and bone, as well as in
+   tissue of endometriosis, uterine fibroids, breast cancer, and
+   endometrial cancer.^[citation needed] It is an important factor in
+   sexual development.

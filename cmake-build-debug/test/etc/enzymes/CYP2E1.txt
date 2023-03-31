@@ -1,0 +1,110 @@
+   3E4E, 3E6I, 3GPH, 3KOH, 3LC4, 3T3Z
+   Identifiers
+   Aliases CYP2E1, CPE1, CYP2E, P450-J, P450C2E, cytochrome P450 family 2
+   subfamily E member 1
+   External IDs OMIM: 124040 MGI: 88607 HomoloGene: 68089 GeneCards:
+   CYP2E1
+   EC number 1.14.13.n7
+          Gene location (Human)
+   Chromosome 10 (human)
+   Chr. Chromosome 10 (human)
+   Chromosome 10 (human)
+   Genomic location for CYP2E1
+   Genomic location for CYP2E1
+   Band 10q26.3 Start 133,520,406 bp
+                 End  133,561,220 bp
+              Gene location (Mouse)
+   Chromosome 7 (mouse)
+   Chr. Chromosome 7 (mouse)
+   Chromosome 7 (mouse)
+   Genomic location for CYP2E1
+   Genomic location for CYP2E1
+   Band 7 F4|7 85.94 cM Start 140,763,739 bp
+                         End  140,774,987 bp
+      RNA expression pattern
+   PBB GE CYP2E1 1431 at fs.png
+   PBB GE CYP2E1 209976 s at fs.png
+   PBB GE CYP2E1 209975 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o iron ion binding
+   o oxygen binding
+   o arachidonic acid epoxygenase activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, reduced flavin or flavoprotein as one
+   donor, and incorporation of one atom of oxygen
+   o metal ion binding
+   o monooxygenase activity
+   o heme binding
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen
+   o enzyme binding
+   o oxidoreductase activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, NAD(P)H as one donor, and
+   incorporation of one atom of oxygen
+   o steroid hydroxylase activity
+   o Hsp70 protein binding
+   o Hsp90 protein binding
+   Cellular component o organelle membrane
+   o endoplasmic reticulum membrane
+   o intracellular membrane-bounded organelle
+   o membrane
+   o intrinsic component of endoplasmic reticulum membrane
+   o Golgi membrane
+   o endoplasmic reticulum
+   o mitochondrion
+   o cytoplasm
+   o mitochondrial inner membrane
+   Biological process o steroid metabolic process
+   o epoxygenase P450 pathway
+   o response to ozone
+   o heterocycle metabolic process
+   o response to organonitrogen compound
+   o monoterpenoid metabolic process
+   o xenobiotic metabolic process
+   o response to ethanol
+   o triglyceride metabolic process
+   o response to drug
+   o carbon tetrachloride metabolic process
+   o drug metabolic process
+   o halogenated hydrocarbon metabolic process
+   o benzene metabolic process
+   o long-chain fatty acid biosynthetic process
+   o response to bacterium
+   o organic acid metabolic process
+   o exogenous drug catabolic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1571
+   13106
+   Ensembl
+   ENSG00000130649
+   ENSMUSG00000025479
+   UniProt
+   P05181
+   Q05421
+   RefSeq (mRNA)
+   NM_000773
+   NM_021282
+   RefSeq (protein)
+   NP_000764
+   NP_067257
+   Location (UCSC) Chr 10: 133.52 - 133.56 Mb Chr 7: 140.76 - 140.77 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Cytochrome P450 2E1 (abbreviated CYP2E1, EC 1.14.13.n7) is a member of
+   the cytochrome P450 mixed-function oxidase system, which is involved in
+   the metabolism of xenobiotics in the body. This class of enzymes is
+   divided up into a number of subcategories, including CYP1, CYP2, and
+   CYP3, which as a group are largely responsible for the breakdown of
+   foreign compounds in mammals.
+   While CYP2E1 itself carries out a relatively low number of these
+   reactions (~4% of known P450-mediated drug oxidations), it and related
+   enzymes CYP1A2 and CYP3A4 are responsible for the breakdown of many
+   toxic environmental chemicals and carcinogens that enter the body, in
+   addition to basic metabolic reactions such as fatty acid
+   oxidations.

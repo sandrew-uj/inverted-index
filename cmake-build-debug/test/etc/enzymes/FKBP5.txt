@@ -1,0 +1,73 @@
+   1KT0, 3O5D, 3O5E, 3O5F, 3O5G, 3O5I, 3O5J, 3O5K, 3O5L, 3O5M, 3O5O, 3O5P,
+   3O5Q, 3O5R, 4DRH, 4DRI, 4DRK, 4DRM, 4DRN, 4DRO, 4DRP, 4DRQ, 4JFI, 4JFJ,
+   4JFK, 4JFL, 4JFM, 4R0X, 4TW6, 4TW7, 4TX0, 4W9O, 4W9P, 4W9Q, 5DIT, 5DIU,
+   5BXJ, 5DIV
+   Identifiers
+   Aliases FKBP5, AIG6, FKBP51, FKBP54, P54, PPIase, Ptg-10, FK506 binding
+   protein 5, FKBP prolyl isomerase 5
+   External IDs OMIM: 602623 MGI: 104670 HomoloGene: 3038 GeneCards: FKBP5
+          Gene location (Human)
+   Chromosome 6 (human)
+   Chr. Chromosome 6 (human)
+   Chromosome 6 (human)
+   Genomic location for FKBP5
+   Genomic location for FKBP5
+   Band 6p21.31 Start 35,573,585 bp
+                 End  35,728,583 bp
+                Gene location (Mouse)
+   Chromosome 17 (mouse)
+   Chr. Chromosome 17 (mouse)
+   Chromosome 17 (mouse)
+   Genomic location for FKBP5
+   Genomic location for FKBP5
+   Band 17 A3.3|17 14.66 cM Start 28,399,094 bp
+                             End  28,517,527 bp
+      RNA expression pattern
+   PBB GE FKBP5 204560 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o isomerase activity
+   o GO:0001948 protein binding
+   o heat shock protein binding
+   o peptidyl-prolyl cis-trans isomerase activity
+   o FK506 binding
+   Cellular component o extracellular exosome
+   o membrane
+   o nucleus
+   o nucleoplasm
+   o cytoplasm
+   o cytosol
+   Biological process o protein peptidyl-prolyl isomerization
+   o chaperone-mediated protein folding
+   o protein folding
+   o response to bacterium
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2289
+   14229
+   Ensembl
+   ENSG00000096060
+   ENSMUSG00000024222
+   UniProt
+   Q13451
+   Q64378
+   RefSeq (mRNA)
+   NM_004117
+   NM_001145775
+   NM_001145776
+   NM_001145777
+   NM_010220
+   RefSeq (protein)
+   NP_001139247
+   NP_001139248
+   NP_001139249
+   NP_004108
+   NP_034350
+   Location (UCSC) Chr 6: 35.57 - 35.73 Mb Chr 17: 28.4 - 28.52 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506 binding protein 5, also known as FKBP5, is a protein which in
+   humans is encoded by the FKBP5 gene.

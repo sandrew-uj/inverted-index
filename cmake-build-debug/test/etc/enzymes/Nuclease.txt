@@ -1,0 +1,13 @@
+   A nuclease (also archaically known as nucleodepolymerase or
+   polynucleotidase) is an enzyme capable of cleaving the phosphodiester
+   bonds between nucleotides of nucleic acids. Nucleases variously affect
+   single and double stranded breaks in their target molecules. In living
+   organisms, they are essential machinery for many aspects of DNA repair.
+   Defects in certain nucleases can cause genetic instability or
+   immunodeficiency. Nucleases are also extensively used in molecular
+   cloning.
+   There are two primary classifications based on the locus of activity.
+   Exonucleases digest nucleic acids from the ends. Endonucleases act on
+   regions in the middle of target molecules. They are further
+   subcategorized as deoxyribonucleases and ribonucleases. The former acts
+   on DNA, the latter on RNA.

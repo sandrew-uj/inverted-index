@@ -1,0 +1,41 @@
+
+   Eidolon takes place in approximately the year 2400, according to the
+   game's website. The setting is a compressed and simplified
+   representation of Western Washington, including the Puget Sound region
+   and the Olympic Peninsula; the Kitsap Peninsula was added by a patch
+   after release. Victoria, British Columbia is also accessible via a
+   road bridge from Port Angeles. The player begins in a forest between
+   Bellevue and Olympia. Gradual exploration reveals that the region
+   is deserted and has largely reverted to wilderness, with its former
+   cities reduced to overgrown ruins. Much of Seattle is underwater, while
+   the other major cities are ringed by massive walls and littered with
+   human skeletons.
+
+   The background to this desolation is revealed through documents and
+   images that the player may collect in any order. It becomes clear that
+   events were set in motion by the development of technology that
+   increased human longevity. When an earthquake in 2031 flooded Seattle,
+   it exposed deposits of a new mineral that was used to construct
+   towering "Beacons" in cities around the world. Humans were nearly
+   immortal while within range of a Beacon, but their biological
+   dependence on the technology left them at risk of fatal withdrawal
+   symptoms outside the cities. Responding to the massive movements of
+   population and tension between supporters and opponents of the Beacons,
+   many cities constructed walls, isolating themselves from each other and
+   the rural population that continued to experience natural lifespans.
+   This period also saw the rise to prominence of the Sennin, people with
+   heritable mutations that granted innate immortality and superhuman
+   abilities.
+
+   Growing conflicts and social breakdown culminated in "the Fall", a
+   period around 2110 in which the destruction of Beacons by extremists
+   left city-dwellers to die or flee to surviving cities, themselves
+   diminishing in number and hostile towards refugees. Bellevue and
+   Olympia fell at this time, while Victoria survived as a secluded police
+   state for several decades longer. By the period in which the game is
+   set, the rural communities in Western Washington that survived the Fall
+   have disintegrated. In one series of letters, a Sennin named Triya
+   reveals that she came to Washington long after the Fall in search of a
+   cure for Beacon dependence for the world's few remaining cities; she
+   eventually found this in Victoria, but its effectiveness is unknown.
+

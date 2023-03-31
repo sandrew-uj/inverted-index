@@ -1,0 +1,99 @@
+   3L6B, 3L6R
+   Identifiers
+   Aliases SRR, ILV1, ISO1, serine racemase
+   External IDs OMIM: 606477 MGI: 1351636 HomoloGene: 22775 GeneCards: SRR
+         Gene location (Human)
+   Chromosome 17 (human)
+   Chr. Chromosome 17 (human)
+   Chromosome 17 (human)
+   Genomic location for SRR
+   Genomic location for SRR
+   Band 17p13.3 Start 2,303,383 bp
+                 End  2,325,260 bp
+          Gene location (Mouse)
+   Chromosome 11 (mouse)
+   Chr. Chromosome 11 (mouse)
+   Chromosome 11 (mouse)
+   Genomic location for SRR
+   Genomic location for SRR
+   Band 11|11 B5 Start 74,906,359 bp
+                  End  74,925,948 bp
+   Gene ontology
+   Molecular function o threonine racemase activity
+   o nucleotide binding
+   o calcium ion binding
+   o PDZ domain binding
+   o protein homodimerization activity
+   o L-serine ammonia-lyase activity
+   o isomerase activity
+   o glycine binding
+   o metal ion binding
+   o catalytic activity
+   o lyase activity
+   o pyridoxal phosphate binding
+   o ATP binding
+   o magnesium ion binding
+   o D-serine ammonia-lyase activity
+   o serine racemase activity
+   Cellular component o cytoplasm
+   o cell membrane
+   o apical part of cell
+   o neuronal cell body
+   o cytosol
+   Biological process o response to organic cyclic compound
+   o serine family amino acid metabolic process
+   o L-serine metabolic process
+   o cellular amino acid metabolic process
+   o D-serine metabolic process
+   o aging
+   o pyruvate biosynthetic process
+   o response to morphine
+   o response to lipopolysaccharide
+   o D-serine biosynthetic process
+   o metabolism
+   o protein homotetramerization
+   o response to drug
+   o brain development
+   o L-serine biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   63826
+   27364
+   Ensembl
+   ENSG00000167720
+   ENSMUSG00000001323
+   UniProt
+   Q9GZT4
+   Q9QZX7
+   RefSeq (mRNA)
+   NM_001304803
+   NM_021947
+   NM_001163311
+   NM_013761
+   NM_001362742
+   NM_001362743
+   NM_001362744
+   RefSeq (protein)
+   NP_001291732
+   NP_068766
+   NP_001156783
+   NP_038789
+   NP_001349671
+   NP_001349672
+   NP_001349673
+   Location (UCSC) Chr 17: 2.3 - 2.33 Mb Chr 11: 74.91 - 74.93 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Serine racemase is an enzyme which generates D-serine from L-serine.
+   D-serine acts as a neuronal signaling molecule by activating NMDA
+   receptors in the brain. In humans, the serine racemase protein is
+   encoded by the SRR gene.
+   Mammalian serine racemase is a pyridoxal 5'-phosphate dependent enzyme
+   that catalyzes both the racemization of L-serine to D-serine and also
+   the elimination of water from L-serine, generating pyruvate and
+   ammonia. The enzyme is physiologically stimulated by divalent
+   cations (e.g., magnesium) and is allosterically activated by the
+   magnesium/ATP complex.

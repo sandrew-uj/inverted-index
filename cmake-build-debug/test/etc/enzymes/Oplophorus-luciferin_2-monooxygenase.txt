@@ -1,0 +1,10 @@
+   In enzymology, an Oplophorus-luciferin 2-monooxygenase (EC 1.13.12.13),
+   also known as Oplophorus luciferase (referred in this article as OpLuc)
+   is a luciferase, an enzyme, from the deep-sea shrimp Oplophorus
+   gracilirostris [2], belonging to a group of coelenterazine luciferases.
+   Unlike other luciferases, it has a broader substrate specificity
+   [3,4,6] and can also bind to bisdeoxycoelenterazine efficiently [3,4].
+   It is the third example of a luciferase (Other than Aequorea and
+   Renilla) to be purified in lab [2]. The systematic name of this enzyme
+   class is Oplophorus-luciferin:oxygen 2-oxidoreductase
+   (decarboxylating). This enzyme is also called Oplophorus luciferase.

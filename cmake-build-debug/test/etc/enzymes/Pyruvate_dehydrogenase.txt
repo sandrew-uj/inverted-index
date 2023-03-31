@@ -1,0 +1,13 @@
+   Pyruvate dehydrogenase is an enzyme that catalyzes the reaction of
+   pyruvate and a lipoamide to give the acetylated dihydrolipoamide and
+   carbon dioxide. The conversion requires the coenzyme thiamine
+   pyrophosphate.
+   PyruvateDehyRxn.png
+   Pyruvate dehydrogenase is usually encountered as a component, referred
+   to as E1, of the pyruvate dehydrogenase complex (PDC). PDC consists of
+   other enzymes, referred to as E2 and E3. Collectively E1-E3 transform
+   pyruvate, NAD^+, coenzyme A into acetyl-CoA, CO[2], and NADH. The
+   conversion is crucial because acetyl-CoA may then be used in the citric
+   acid cycle to carry out cellular respiration. To distinguish
+   between this enzyme and the PDC, it is systematically called pyruvate
+   dehydrogenase (acetyl-transferring).

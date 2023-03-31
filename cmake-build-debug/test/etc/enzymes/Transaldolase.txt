@@ -1,0 +1,6 @@
+   Transaldolase is an enzyme (EC 2.2.1.2) of the non-oxidative phase of
+   the pentose phosphate pathway. In humans, transaldolase is encoded by
+   the TALDO1 gene.
+   The following chemical reaction is catalyzed by transaldolase:
+          sedoheptulose 7-phosphate + glyceraldehyde 3-phosphate
+           erythrose 4-phosphate + fructose 6-phosphate

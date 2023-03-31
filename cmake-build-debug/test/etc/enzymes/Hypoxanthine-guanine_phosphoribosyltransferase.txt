@@ -1,0 +1,26 @@
+   n/a
+   n/a
+   Ensembl
+   n/a
+   n/a
+   UniProt
+   n
+   a
+   n/a
+   RefSeq (mRNA)
+   n/a
+   n/a
+   RefSeq (protein)
+   n/a
+   n/a
+   Location (UCSC) n/a n/a
+   PubMed search n/a n/a
+   Wikidata
+                    View/Edit Human
+   Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) is an enzyme
+   encoded in humans by the HPRT1 gene.
+   HGPRT is a transferase that catalyzes conversion of hypoxanthine to
+   inosine monophosphate and guanine to guanosine monophosphate. This
+   reaction transfers the 5-phosphoribosyl group from 5-phosphoribosyl
+   1-pyrophosphate (PRPP) to the purine. HGPRT plays a central role in the
+   generation of purine nucleotides through the purine salvage pathway.

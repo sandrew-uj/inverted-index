@@ -1,0 +1,14 @@
+   DMSO reductase is a molybdenum-containing enzyme that catalyzes
+   reduction of dimethyl sulfoxide (DMSO) to dimethyl sulfide (DMS). This
+   enzyme serves as the terminal reductase under anaerobic conditions in
+   some bacteria, with DMSO being the terminal electron acceptor. During
+   the course of the reaction, the oxygen atom in DMSO is transferred to
+   molybdenum, and then reduced to water.
+   The reaction catalyzed by DMSO reductase.
+   DMSO reductase (DMSOR) and other members of the DMSO reductase family
+   are unique to bacteria and archaea. Enzymes of this family in anaerobic
+   oxidative phosphorylation and inorganic-donor-based lithotrophic
+   respiration. These enzymes have been engineered to degrade
+   oxoanions. DMSOR catalyzes the transfer of two electrons
+   and one oxygen atom in the reaction: The active site of DMSOR contains
+   molybdenum, which is otherwise rare in biology.

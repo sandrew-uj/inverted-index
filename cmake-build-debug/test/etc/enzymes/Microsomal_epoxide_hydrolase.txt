@@ -1,0 +1,13 @@
+   In enzymology, a microsomal epoxide hydrolase (mEH) (EC 3.3.2.9) is an
+   enzyme that catalyzes the hydrolysis reaction between an epoxide and
+   water to form a diol.
+   Hydrolysis of an epoxide ring
+   This enzyme plays a role in the uptake of bile salts within the large
+   intestine. It functions as a Na+ dependent transporter. This enzyme
+   participates in metabolism of xenobiotics by cytochrome p450. mEH has
+   been identified as playing a large role in the detoxification and
+   bioactivation of a wide variety of substrates, such as polycyclic
+   aromatic hydrocarbons (PAHs), which are known for their carcinogenic
+   properties.
+   The human homolog of microsomal epoxide hydrolase is EPHX1 and is
+   located on chromosome 1.

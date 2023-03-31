@@ -1,0 +1,12 @@
+   In enzymology, a 4-hydroxy-tetrahydrodipicolinate reductase (EC
+   1.17.1.8) is an enzyme that catalyzes the chemical reaction
+          (S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate + NAD(P)^+ +
+          H[2]O
+          
+          (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + NAD(P)H + H^+
+   The 3 substrates of this enzyme are
+   (S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate, NAD^+ or NADP^+, and
+   H[2]O, whereas its 3 products are
+   (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate, NADH or NADPH, and
+   H^+.
+   This enzyme participates in lysine biosynthesis.

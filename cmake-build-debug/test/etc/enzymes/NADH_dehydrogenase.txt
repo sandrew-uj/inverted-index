@@ -1,0 +1,10 @@
+   NADH dehydrogenase is an enzyme that converts nicotinamide adenine
+   dinucleotide (NAD) from its reduced form (NADH) to its oxidized form
+   (NAD^+). Members of the NADH dehydrogenase family and analogues are
+   commonly systematically named using the format NADH:acceptor
+   oxidoreductase. The chemical reaction these enzymes
+   catalyze are generally represented with the follow equation;
+          NADH + H^+ + acceptor <=> NAD^+ + reduced acceptor
+   NADH dehydrogenase is a flavoprotein that contains iron-sulfur centers.
+   NADH dehydrogenase is used in the electron transport chain for
+   generation of ATP.

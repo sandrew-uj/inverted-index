@@ -1,0 +1,23 @@
+   A transferase is any one of a class of enzymes that enact the transfer
+   of specific functional groups (e.g. a methyl or glycosyl group) from
+   one molecule (called the donor) to another (called the acceptor).
+   They are involved in hundreds of different biochemical pathways
+   throughout biology, and are integral to some of life's most important
+   processes.
+   Transferases are involved in myriad reactions in the cell. Three
+   examples of these reactions are the activity of coenzyme A (CoA)
+   transferase, which transfers thiol esters, the action of
+   N-acetyltransferase, which is part of the pathway that metabolizes
+   tryptophan, and the regulation of pyruvate dehydrogenase (PDH),
+   which converts pyruvate to acetyl CoA. Transferases are also
+   utilized during translation. In this case, an amino acid chain is the
+   functional group transferred by a peptidyl transferase. The transfer
+   involves the removal of the growing amino acid chain from the tRNA
+   molecule in the A-site of the ribosome and its subsequent addition to
+   the amino acid attached to the tRNA in the P-site.
+   Mechanistically, an enzyme that catalyzed the following reaction would
+   be a transferase:
+   Xgroup+Y{[ {transferase}]{}}X+Ygroup
+   In the above reaction, X would be the donor, and Y would be the
+   acceptor. "Group" would be the functional group transferred as a
+   result of transferase activity. The donor is often a coenzyme.

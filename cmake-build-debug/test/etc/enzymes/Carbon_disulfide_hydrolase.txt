@@ -1,0 +1,21 @@
+   Carbon disulfide hydrolase is an enzyme with a molecular mass of 23,576
+   Da. The enzyme is hexadecameric. It catalyzes the hydrolysis of carbon
+   disulfide.
+   Carbon disulfide occurs naturally in the mudpots of volcanic
+   solfataras. It is a precursor to hydrogen sulfide, which is an electron
+   donor. The hyperthermophilic Acidianus strain was found to convert
+   CS[2]into H[2]S and CO[2].
+   The enzyme is similar to that of carbonic anhydrases. The enzyme
+   monomer of CS[2] hydrolase displays a typical b-carbonic anhydrase fold
+   and active site. Two of these monomers form a closely intertwined dimer
+   with a central b-sheet capped by ana-helical domain. Four dimers form a
+   square octameric ring through interactions of the long arms at the N
+   and C termini. Similar ring structures have been seen in strains of
+   carbonic anhydrases, however, in CS[2] hydrolase is an enzyme
+   consisting of two octameric rings form a hexadecamer by interlocking at
+   right angles to each other. This results in the blocking of the
+   entrance to the active site and the formation of a single 15-AA-long,
+   highly hydrophobic tunnel that functions as a specificity filter. This
+   provides a key difference between carbonic anhydrase and CS[2]
+   hydrolase. This tunnel determines the enzyme's substrate specificity
+   for CS[2], which is hydrophobic as well.

@@ -1,0 +1,105 @@
+   1TQN, 1W0E, 1W0F, 1W0G, 2J0D, 2V0M, 3NXU, 3TJS, 3UA1, 4I3Q, 4I4G, 4I4H,
+   4K9T, 4K9U, 4K9V, 4K9W, 4K9X, 4NY4, 5A1P, 5A1R, 4D6Z, 4D75, 4D78, 4D7D
+   Identifiers
+   Aliases CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP,
+   NF-25, P450C3, P450PCN1, cytochrome P450 family 3 subfamily A member 4,
+   VDDR3
+   External IDs OMIM: 124010 HomoloGene: 111391 GeneCards: CYP3A4
+   EC number 1.14.13.32
+         Gene location (Human)
+   Chromosome 7 (human)
+   Chr. Chromosome 7 (human)
+   Chromosome 7 (human)
+   Genomic location for CYP3A4
+   Genomic location for CYP3A4
+   Band 7q22.1 Start 99,756,960 bp
+                End  99,784,248 bp
+        RNA expression pattern
+   PBB GE TNFRSF11B 204932 at fs.png
+   PBB GE TNFRSF11B 204933 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o metal ion binding
+   o heme binding
+   o caffeine oxidase activity
+   o testosterone 6-beta-hydroxylase activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen
+   o steroid binding
+   o vitamin D3 25-hydroxylase activity
+   o steroid hydroxylase activity
+   o vitamin D 24-hydroxylase activity
+   o oxygen binding
+   o enzyme binding
+   o iron ion binding
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, reduced flavin or flavoprotein as one
+   donor, and incorporation of one atom of oxygen
+   o monooxygenase activity
+   o oxidoreductase activity
+   o estrogen 16-alpha-hydroxylase activity
+   Cellular component o cytoplasm
+   o integral component of membrane
+   o membrane
+   o endoplasmic reticulum
+   o organelle membrane
+   o endoplasmic reticulum membrane
+   o intracellular membrane-bounded organelle
+   Biological process o drug metabolic process
+   o xenobiotic metabolic process
+   o heterocycle metabolic process
+   o drug catabolic process
+   o oxidative demethylation
+   o monoterpenoid metabolic process
+   o exogenous drug catabolic process
+   o steroid catabolic process
+   o androgen metabolic process
+   o alkaloid catabolic process
+   o vitamin D metabolic process
+   o lipid metabolism
+   o calcitriol biosynthetic process from calciol
+   o lipid hydroxylation
+   o steroid metabolic process
+   o long-chain fatty acid biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1576
+   n/a
+   Ensembl
+   ENSG00000160868
+   n/a
+   UniProt
+   P08684
+   n/a
+   RefSeq (mRNA)
+   NM_001202855
+   NM_001202856
+   NM_001202857
+   NM_017460
+   n/a
+   RefSeq (protein)
+   NP_001189784
+   NP_059488
+   n/a
+   Location (UCSC) Chr 7: 99.76 - 99.78 Mb n/a
+   PubMed search  n/a
+   Wikidata
+                    View/Edit Human
+   Cytochrome P450 3A4 (abbreviated CYP3A4) (EC 1.14.13.97) is an
+   important enzyme in the body, mainly found in the liver and in the
+   intestine. It oxidizes small foreign organic molecules (xenobiotics),
+   such as toxins or drugs, so that they can be removed from the body.
+   While many drugs are deactivated by CYP3A4, there are also some drugs
+   which are activated by the enzyme. Some substances, such as some drugs
+   and furanocoumarins present in grapefruit juice, interfere with the
+   action of CYP3A4. These substances will therefore either amplify or
+   weaken the action of those drugs that are modified by CYP3A4.
+   CYP3A4 is a member of the cytochrome P450 family of oxidizing enzymes.
+   Several other members of this family are also involved in drug
+   metabolism, but CYP3A4 is the most common and the most versatile one.
+   Like all members of this family, it is a hemoprotein, i.e. a protein
+   containing a heme group with an iron atom. In humans, the CYP3A4
+   protein is encoded by the CYP3A4 gene. This gene is part of a
+   cluster of cytochrome P[450] genes on chromosome 7q22.1.

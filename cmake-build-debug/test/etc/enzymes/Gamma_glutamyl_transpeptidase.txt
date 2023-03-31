@@ -1,0 +1,12 @@
+   Gamma-glutamyltransferase (also g-glutamyltransferase, GGT, gamma-GT,
+   gamma-glutamyl transpeptidase; EC 2.3.2.2) is a transferase (a type
+   of enzyme) that catalyzes the transfer of gamma-glutamyl functional
+   groups from molecules such as glutathione to an acceptor that may be an
+   amino acid, a peptide or water (forming glutamate).^:268 GGT
+   plays a key role in the gamma-glutamyl cycle, a pathway for the
+   synthesis and degradation of glutathione as well as drug and xenobiotic
+   detoxification. Other lines of evidence indicate that GGT can also
+   exert a pro-oxidant role, with regulatory effects at various levels in
+   cellular signal transduction and cellular pathophysiology. This
+   transferase is found in many tissues, the most notable one being the
+   liver, and has significance in medicine as a diagnostic marker.

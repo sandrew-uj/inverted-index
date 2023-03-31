@@ -1,0 +1,27 @@
+   391051
+   n/a
+   Ensembl
+   ENSG00000240520
+   n/a
+   UniProt
+   n
+   a
+   n/a
+   RefSeq (mRNA)
+   n/a
+   n/a
+   RefSeq (protein)
+   n/a
+   n/a
+   Location (UCSC) n/a n/a
+   PubMed search  n/a
+   Wikidata
+                    View/Edit Human
+   The enzyme urate oxidase (UO), uricase or factor-independent urate
+   hydroxylase, absent in humans, catalyzes the oxidation of uric acid to
+   5-hydroxyisourate:
+          Uric acid + O[2] + H[2]O -> 5-hydroxyisourate + H[2]O[2]
+          5-hydroxyisourate + H[2]O[2] -> allantoin + CO[2]
+   Uric acid
+   5-hydroxyisourate
+   Allantoin

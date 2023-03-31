@@ -1,0 +1,6 @@
+   Carbonyl sulfide hydrolase (EC 3.13.1.7; abbreviated as COSase) is an
+   enzyme that degrades carbonyl sulfide (COS) to hydrogen sulfide (H[2]S)
+   and carbon dioxide (CO[2]). Isolated from Thiobacillus thioparus
+   bacterium, the potential of COSase would reduce the high global warming
+   effect of COS and change the ozone chemistry, because COS is the source
+   of sulfur in the troposphere.

@@ -1,0 +1,10 @@
+   Prosolanapyrone-III cycloisomerase (EC 5.5.1.20, Sol5, SPS,
+   solanapyrone synthase (bifunctional enzyme: prosolanapyrone II
+   oxidase/prosolanapyrone III cyclosiomerase)) is an enzyme with
+   systematic name prosolanapyrone-III:(-)-solanapyrone A
+   isomerase. This enzyme catalyses the following chemical
+   reaction
+          prosolanapyrone III
+           (-)-solanapyrone A
+   The enzyme is involved in the biosynthesis of the phytotoxin
+   solanapyrone in some fungi.

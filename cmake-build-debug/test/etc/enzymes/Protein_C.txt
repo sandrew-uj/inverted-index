@@ -1,0 +1,123 @@
+   1AUT, 1LQV, 3F6U, 3JTC, 4DT7
+   Identifiers
+   Aliases PROC, APC, PC, PROC1, THPH3, THPH4, protein C, inactivator of
+   coagulation factors Va and VIIIa
+   External IDs OMIM: 612283 MGI: 97771 HomoloGene: 37288 GeneCards: PROC
+          Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for PROC
+   Genomic location for PROC
+   Band 2q14.3 Start 127,418,427 bp
+                End  127,429,246 bp
+          Gene location (Mouse)
+   Chromosome 18 (mouse)
+   Chr. Chromosome 18 (mouse)
+   Chromosome 18 (mouse)
+   Genomic location for PROC
+   Genomic location for PROC
+   Band 18|18 B1 Start 32,123,126 bp
+                  End  32,139,570 bp
+      RNA expression pattern
+   PBB GE PROC 206259 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o peptidase activity
+   o GO:0001948 protein binding
+   o serine-type peptidase activity
+   o serine-type endopeptidase activity
+   o hydrolase activity
+   Cellular component o Golgi apparatus
+   o endoplasmic reticulum lumen
+   o extracellular region
+   o endoplasmic reticulum
+   o Golgi lumen
+   o extracellular space
+   Biological process o hemostasis
+   o negative regulation of coagulation
+   o negative regulation of blood coagulation
+   o blood coagulation
+   o negative regulation of apoptotic process
+   o positive regulation of establishment of endothelial barrier
+   o proteolysis
+   o endoplasmic reticulum to Golgi vesicle-mediated transport
+   o negative regulation of inflammatory response
+   o liver development
+   o regulation of circulating fibrinogen levels
+   o post-translational protein modification
+   o cellular protein metabolic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5624
+   19123
+   Ensembl
+   ENSG00000115718
+   ENSMUSG00000024386
+   UniProt
+   P04070
+   P33587
+   RefSeq (mRNA)
+   NM_000312
+   NM_001042767
+   NM_001042768
+   NM_008934
+   NM_001313938
+   RefSeq (protein)
+   NP_000303
+   NP_001362531
+   NP_001362532
+   NP_001362533
+   NP_001362534
+   NP_001362535
+   NP_001362536
+   NP_001362537
+   NP_001362538
+   NP_001362539
+   NP_001362540
+   NP_001362542
+   NP_001036232
+   NP_001036233
+   NP_001300867
+   NP_032960
+   Location (UCSC) Chr 2: 127.42 - 127.43 Mb Chr 18: 32.12 - 32.14 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Protein C, also known as autoprothrombin IIA and blood coagulation
+   factor XIX,^:6822 is a zymogen, the activated form of which
+   plays an important role in regulating anticoagulation, inflammation,
+   and cell death and maintaining the permeability of blood vessel walls
+   in humans and other animals. Activated protein C (APC) performs these
+   operations primarily by proteolytically inactivating proteins Factor
+   V[a] and Factor VIII[a]. APC is classified as a serine protease since
+   it contains a residue of serine in its active site.^:35 In humans,
+   protein C is encoded by the PROC gene, which is found on chromosome
+   2.
+   The zymogenic form of protein C is a vitamin K-dependent glycoprotein
+   that circulates in blood plasma. Its structure is that of a two-chain
+   polypeptide consisting of a light chain and a heavy chain connected by
+   a disulfide bond.^:4673 The protein C zymogen is activated when it
+   binds to thrombin, another protein heavily involved in coagulation, and
+   protein C's activation is greatly promoted by the presence of
+   thrombomodulin and endothelial protein C receptors (EPCRs). Because of
+   EPCR's role, activated protein C is found primarily near endothelial
+   cells (i.e., those that make up the walls of blood vessels), and it is
+   these cells and leukocytes (white blood cells) that APC
+   affects.^:34^:3162 Because of the crucial role that protein C
+   plays as an anticoagulant, those with deficiencies in protein C, or
+   some kind of resistance to APC, suffer from a significantly increased
+   risk of forming dangerous blood clots (thrombosis).
+   Research into the clinical use of a recombinant form of human Activated
+   Protein C (rhAPC) known as Drotrecogin alfa-activated, branded Xigris
+   by Eli Lilly and Company, has been surrounded by controversy. Eli Lilly
+   ran an aggressive marketing campaign to promote its use for people with
+   severe sepsis and septic shock and sponsored the 2004 Surviving Sepsis
+   Campaign Guidelines. However, a 2012 Cochrane review found that
+   its use cannot be recommended since it does not improve survival and
+   increases bleeding risk. In October 2011, Xigris was withdrawn
+   from the market by Eli Lilly due to a higher mortality in a trial among
+   adults.

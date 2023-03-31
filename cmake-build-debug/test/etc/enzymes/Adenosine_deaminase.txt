@@ -1,0 +1,167 @@
+   3IAR
+   Identifiers
+   Aliases ADA, entrez:100, Adenosine deaminase, ADA1
+   External IDs OMIM: 608958 MGI: 87916 HomoloGene: 37249 GeneCards: ADA
+          Gene location (Human)
+   Chromosome 20 (human)
+   Chr. Chromosome 20 (human)
+   Chromosome 20 (human)
+   Genomic location for ADA
+   Genomic location for ADA
+   Band 20q13.12 Start 44,619,522 bp
+                  End  44,652,233 bp
+              Gene location (Mouse)
+   Chromosome 2 (mouse)
+   Chr. Chromosome 2 (mouse)
+   Chromosome 2 (mouse)
+   Genomic location for ADA
+   Genomic location for ADA
+   Band 2 84.44 cM|2 H3 Start 163,726,584 bp
+                         End  163,750,239 bp
+      RNA expression pattern
+   PBB GE ADA 216705 s at fs.png
+   PBB GE ADA 204639 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o deaminase activity
+   o zinc ion binding
+   o metal ion binding
+   o hydrolase activity
+   o purine nucleoside binding
+   o GO:0001948 protein binding
+   o adenosine deaminase activity
+   Cellular component o membrane
+   o cytoplasmic vesicle lumen
+   o cell surface
+   o cell junction
+   o neuronal cell body
+   o dendrite cytoplasm
+   o GO:0016023 cytoplasmic vesicle
+   o external side of plasma membrane
+   o extracellular space
+   o cytoplasm
+   o lysosome
+   o cytosol
+   o cell membrane
+   Biological process o positive regulation of T cell differentiation
+   o histamine secretion
+   o negative regulation of circadian sleep/wake cycle, non-REM sleep
+   o purine nucleotide salvage
+   o positive regulation of T cell differentiation in thymus
+   o positive regulation of calcium-mediated signaling
+   o xanthine biosynthetic process
+   o response to hypoxia
+   o lung development
+   o placenta development
+   o deoxyadenosine catabolic process
+   o positive regulation of T cell receptor signaling pathway
+   o adenosine metabolic process
+   o purine-containing compound salvage
+   o dATP catabolic process
+   o aging
+   o negative regulation of thymocyte apoptotic process
+   o negative regulation of apoptotic process
+   o in utero embryonic development
+   o negative regulation of mature B cell apoptotic process
+   o nucleotide metabolic process
+   o response to vitamin E
+   o positive regulation of heart rate
+   o negative regulation of adenosine receptor signaling pathway
+   o response to morphine
+   o regulation of cell-cell adhesion mediated by integrin
+   o T cell activation
+   o cell adhesion
+   o positive regulation of T cell activation
+   o positive regulation of B cell proliferation
+   o trophectodermal cell differentiation
+   o regulation of circadian sleep/wake cycle, sleep
+   o hypoxanthine biosynthetic process
+   o purine ribonucleoside monophosphate biosynthetic process
+   o germinal center B cell differentiation
+   o liver development
+   o lung alveolus development
+   o Peyer's patch development
+   o negative regulation of mucus secretion
+   o inosine biosynthetic process
+   o positive regulation of smooth muscle contraction
+   o negative regulation of inflammatory response
+   o negative regulation of leukocyte migration
+   o positive regulation of germinal center formation
+   o positive regulation of alpha-beta T cell differentiation
+   o embryonic digestive tract development
+   o negative regulation of penile erection
+   o response to drug
+   o regulation of T cell differentiation
+   o response to hydrogen peroxide
+   o adenosine catabolic process
+   o hypoxanthine salvage
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   100
+   11486
+   Ensembl
+   ENSG00000196839
+   ENSMUSG00000017697
+   UniProt
+   P00813
+   P03958
+   RefSeq (mRNA)
+   NM_000022
+   NM_001322050
+   NM_001322051
+   NM_001272052
+   NM_007398
+   RefSeq (protein)
+   NP_000013
+   NP_001308979
+   NP_001308980
+   NP_001258981
+   NP_031424
+   Location (UCSC) Chr 20: 44.62 - 44.65 Mb Chr 2: 163.73 - 163.75 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Adenosine/AMP deaminase
+   PDB 2amx EBI.jpg
+   crystal structure of plasmodium yoelii adenosine deaminase (py02076)
+   Identifiers
+   Symbol A_deaminase
+   Pfam PF00962
+   Pfam clan CL0034
+   InterPro IPR001365
+   PROSITE PDOC00419
+   SCOP2 1add / SCOPe / SUPFAM
+   CDD cd01320
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   Adenosine deaminase (editase) domain
+   Identifiers
+   Symbol A_deamin
+   Pfam PF02137
+   InterPro IPR002466
+   PROSITE PDOC00419
+   SCOP2 1add / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   Adenosine/AMP deaminase N-terminal
+   Identifiers
+   Symbol A_deaminase_N
+   Pfam PF08451
+   InterPro IPR013659
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   Adenosine deaminase (also known as adenosine aminohydrolase, or ADA) is
+   an enzyme (EC 3.5.4.4) involved in purine metabolism. It is needed for
+   the breakdown of adenosine from food and for the turnover of nucleic
+   acids in tissues.
+   Its primary function in humans is the development and maintenance of
+   the immune system. However, the full physiological role of ADA is
+   not yet completely understood.

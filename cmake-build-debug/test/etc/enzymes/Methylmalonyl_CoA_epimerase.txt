@@ -1,0 +1,7 @@
+   Methylmalonyl CoA epimerase (EC 5.1.99.1, methylmalonyl-CoA racemase,
+   methylmalonyl coenzyme A racemase, DL-methylmalonyl-CoA racemase,
+   2-methyl-3-oxopropanoyl-CoA 2-epimerase [incorrect]) is an enzyme
+   involved in fatty acid catabolism that is encoded in human by the
+   "MCEE" gene located on chromosome 2. It is routinely and incorrectly
+   labeled as "methylmalonyl-CoA racemase". It is not a racemase because
+   the CoA moiety has 5 other stereocenters.

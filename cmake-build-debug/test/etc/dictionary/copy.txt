@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: to produce an object identical to a given
+Sense: to produce an object identical to a given object

@@ -1,0 +1,18 @@
+   covering of certain seeds, see aril.
+   A phenyl group is the simplest aryl group, here bonded to an "R" group.
+   In the context of organic molecules, aryl is any functional group or
+   substituent derived from an aromatic ring, usually an aromatic
+   hydrocarbon, such as phenyl and naphthyl. "Aryl" is used for the
+   sake of abbreviation or generalization, and "Ar" is used as a
+   placeholder for the aryl group in chemical structure diagrams,
+   analogous to "R" used for any organic substituent. "Ar" is not to be
+   confused with the elemental symbol for argon.
+   A simple aryl group is phenyl (with the chemical formula C[6]H[5]), a
+   group derived from benzene. Examples of other aryl groups consist of:
+     * The tolyl group, CH[3]C[6]H[4], which is derived from toluene
+       (methylbenzene)
+     * The xylyl group, (CH[3])[2]C[6]H[3], which is derived from xylene
+       (dimethylbenzene)
+     * The naphthyl group, C[10]H[8], which is derived from naphthalene
+   Arylation is the process in which an aryl group is attached to a
+   substituent. It is typically achieved by cross-coupling reactions.

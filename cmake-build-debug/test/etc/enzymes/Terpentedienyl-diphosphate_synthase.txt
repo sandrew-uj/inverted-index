@@ -1,0 +1,8 @@
+   Terpentedienyl-diphosphate synthase (EC 5.5.1.15, terpentedienol
+   diphosphate synthase, Cyc1, clerodadienyl diphosphate synthase) is an
+   enzyme with systematic name terpentedienyl-diphosphate lyase
+   (decyclizing). This enzyme catalyses the following chemical
+   reaction
+          geranylgeranyl diphosphate
+           terpentedienyl diphosphate
+   This enzyme requires Mg^2+.

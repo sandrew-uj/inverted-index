@@ -1,0 +1,85 @@
+   2VUX, 3HF1, 4DJN
+   Identifiers
+   Aliases RRM2B, MTDPS8A, MTDPS8B, P53R2, ribonucleotide reductase
+   regulatory TP53 inducible subunit M2B
+   External IDs OMIM: 604712 MGI: 2155865 HomoloGene: 56723 GeneCards:
+   RRM2B
+          Gene location (Human)
+   Chromosome 8 (human)
+   Chr. Chromosome 8 (human)
+   Chromosome 8 (human)
+   Genomic location for RRM2B
+   Genomic location for RRM2B
+   Band 8q22.3 Start 102,204,502 bp
+                End  102,238,961 bp
+           Gene location (Mouse)
+   Chromosome 15 (mouse)
+   Chr. Chromosome 15 (mouse)
+   Chromosome 15 (mouse)
+   Genomic location for RRM2B
+   Genomic location for RRM2B
+   Band 15|15 B3.1 Start 37,923,952 bp
+                    End  37,961,318 bp
+        RNA expression pattern
+   PBB GE RRM2B gnf1h06036 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o metal ion binding
+   o GO:0001948 protein binding
+   o oxidoreductase activity
+   o ribonucleoside-diphosphate reductase activity, thioredoxin disulfide
+   as acceptor
+   Cellular component o mitochondrion
+   o nucleus
+   o nucleoplasm
+   o cytoplasm
+   o cytosol
+   o ribonucleoside-diphosphate reductase complex
+   Biological process o deoxyribonucleoside triphosphate metabolic process
+   o renal system process
+   o kidney development
+   o response to oxidative stress
+   o mitochondrial DNA replication
+   o cellular response to DNA damage stimulus
+   o deoxyribonucleotide biosynthetic process
+   o DNA replication
+   o negative regulation of intrinsic apoptotic signaling pathway by p53
+   class mediator
+   o response to amine
+   o DNA repair
+   o nucleobase-containing small molecule interconversion
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   50484
+   382985
+   Ensembl
+   ENSG00000048392
+   ENSMUSG00000022292
+   UniProt
+   Q7LG56
+   Q6PEE3
+   RefSeq (mRNA)
+   NM_015713
+   NM_001172477
+   NM_001172478
+   NM_199476
+   NM_001357022
+   NM_001357023
+   RefSeq (protein)
+   NP_001165948
+   NP_001165949
+   NP_056528
+   NP_955770
+   NP_001343951
+   NP_001343952
+   Location (UCSC) Chr 8: 102.2 - 102.24 Mb Chr 15: 37.92 - 37.96 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Ribonucleotide-diphosphate reductase subunit M2 B is an enzyme that in
+   humans is encoded by the RRM2B gene. The gene encoding
+   the RRM2B protein is located on chromosome 8, at position 8q23.1. The
+   gene and its products are also known by designations MTDPS8A, MTDPS8B,
+   and p53R2.

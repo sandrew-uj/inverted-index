@@ -1,0 +1,83 @@
+   2FY2, 2FY3, 2FY4, 2FY5
+   Identifiers
+   Aliases CHAT, CHOACTASE, CMS1A, CMS1A2, CMS6, choline
+   O-acetyltransferase
+   External IDs OMIM: 118490 MGI: 88392 HomoloGene: 40693 GeneCards: CHAT
+          Gene location (Human)
+   Chromosome 10 (human)
+   Chr. Chromosome 10 (human)
+   Chromosome 10 (human)
+   Genomic location for CHAT
+   Genomic location for CHAT
+   Band 10q11.23 Start 49,609,095 bp
+                  End  49,667,942 bp
+              Gene location (Mouse)
+   Chromosome 14 (mouse)
+   Chr. Chromosome 14 (mouse)
+   Chromosome 14 (mouse)
+   Genomic location for CHAT
+   Genomic location for CHAT
+   Band 14 B|14 19.4 cM Start 32,408,203 bp
+                         End  32,465,989 bp
+       RNA expression pattern
+   PBB GE CHAT 221197 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o transferase activity
+   o transferase activity, transferring acyl groups
+   o choline O-acetyltransferase activity
+   Cellular component o cytoplasm
+   o cytosol
+   o nucleus
+   o presynapse
+   o neuron projection
+   Biological process o neurotransmitter biosynthetic process
+   o phosphatidylcholine biosynthetic process
+   o GO:0010554 neurotransmitter secretion
+   o neuromuscular synaptic transmission
+   o acetylcholine biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1103
+   12647
+   Ensembl
+   ENSG00000070748
+   ENSMUSG00000021919
+   UniProt
+   P28329
+   Q8BQV2
+   RefSeq (mRNA)
+   NM_020986
+   NM_001142929
+   NM_001142933
+   NM_001142934
+   NM_020549
+   NM_020984
+   NM_020985
+   NM_009891
+   RefSeq (protein)
+   NP_001136401
+   NP_001136405
+   NP_001136406
+   NP_065574
+   NP_066264
+   NP_066265
+   NP_066266
+   NP_034021
+   Location (UCSC) Chr 10: 49.61 - 49.67 Mb Chr 14: 32.41 - 32.47 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Choline acetyltransferase (commonly abbreviated as ChAT, but sometimes
+   CAT) is a transferase enzyme responsible for the synthesis of the
+   neurotransmitter acetylcholine. ChAT catalyzes the transfer of an
+   acetyl group from the coenzyme acetyl-CoA to choline, yielding
+   acetylcholine (ACh). ChAT is found in high concentration in cholinergic
+   neurons, both in the central nervous system (CNS) and peripheral
+   nervous system (PNS). As with most nerve terminal proteins, ChAT is
+   produced in the body of the neuron and is transported to the nerve
+   terminal, where its concentration is highest. Presence of ChAT in a
+   nerve cell classifies this cell as a "cholinergic" neuron. In humans,
+   the choline acetyltransferase enzyme is encoded by the CHAT gene.

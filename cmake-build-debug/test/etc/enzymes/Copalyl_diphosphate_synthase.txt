@@ -1,0 +1,10 @@
+   In enzymology, a copalyl diphosphate synthase (EC 5.5.1.12) is an
+   enzyme that catalyzes the chemical reaction
+          geranylgeranyl diphosphate
+           (+)-copalyl diphosphate
+   Hence, this enzyme has one substrate, geranylgeranyl diphosphate, and
+   one product, (+)-copalyl diphosphate.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   (+)-copalyl-diphosphate lyase (decyclizing). This enzyme participates
+   in diterpenoid biosynthesis.

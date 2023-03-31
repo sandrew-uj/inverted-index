@@ -1,0 +1,7 @@
+   Beta-carotene isomerase (EC 5.2.1.14, DWARF27 (gene)) is an enzyme with
+   systematic name beta-carotene 9-cis-all-trans isomerase. This
+   enzyme catalyses the following chemical reaction
+          all-trans-beta-carotene
+           9-cis-beta-carotene
+   The enzyme participates in a pathway leading to biosynthesis of
+   strigolactones.

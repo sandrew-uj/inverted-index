@@ -1,0 +1,27 @@
+   Maltase (EC 3.2.1.20, alpha-glucosidase, glucoinvertase,
+   glucosidosucrase, maltase-glucoamylase, alpha-glucopyranosidase,
+   glucosidoinvertase, alpha-D-glucosidase, alpha-glucoside hydrolase,
+   alpha-1,4-glucosidase, alpha-D-glucoside glucohydrolase) is one type of
+   alpha-glucosidase enzymes located in the brush border of the small
+   intestine. This enzyme catalyzes the hydrolysis of disaccharide
+   maltose into two simple sugars of glucose. Maltase is found in plants,
+   bacteria, yeast, humans, and other vertebrates. It is thought to be
+   synthesized by cells of the mucous membrane lining the intestinal
+   wall.
+   Digestion of starch requires six intestinal enzymes. Two of these
+   enzymes are luminal endo-glucosidases named alpha-amylases. The other
+   four enzymes have been identified as different maltases,
+   exo-glucosidases bound to the luminal surface of enterocytes. Two of
+   these maltase activities were associated with sucrase-isomaltase
+   (maltase Ib, maltase Ia). The other two maltases with no distinguishing
+   characteristics were named maltase-glucoamylase (maltases II and III).
+   The activities of these four maltases are also described as
+   alpha-glucosidase because they all digest linear starch
+   oligosaccharides to glucose.
+   In most cases, it is equivalent to alpha-glucosidase, but the term
+   "maltase" emphasizes the disaccharide nature of the substrate from
+   which glucose is cleaved, and "alpha-glucosidase" emphasizes the bond,
+   whether the substrate is a disaccharide or polysaccharide.^[citation
+   needed]
+   Vampire bats are the only vertebrates known to not exhibit intestinal
+   maltase activity.

@@ -1,0 +1,103 @@
+   1C5M, 1EZQ, 1F0R, 1F0S, 1FAX, 1FJS, 1G2L, 1G2M, 1HCG, 1IOE, 1IQE, 1IQF,
+   1IQG, 1IQH, 1IQI, 1IQJ, 1IQK, 1IQL, 1IQM, 1IQN, 1KSN, 1LPG, 1LPK, 1LPZ,
+   1LQD, 1MQ5, 1MQ6, 1NFU, 1NFW, 1NFX, 1NFY, 1P0S, 1V3X, 1WU1, 1XKA, 1XKB,
+   1Z6E, 2BMG, 2BOH, 2BOK, 2BQ6, 2BQ7, 2BQW, 2CJI, 2D1J, 2EI6, 2EI7, 2EI8,
+   2FZZ, 2G00, 2GD4, 2H9E, 2J2U, 2J34, 2J38, 2J4I, 2J94, 2J95, 2JKH, 2P16,
+   2P3F, 2P3T, 2P3U, 2P93, 2P94, 2P95, 2PHB, 2PR3, 2Q1J, 2RA0, 2UWL, 2UWO,
+   2UWP, 2VH0, 2VH6, 2VVC, 2VVU, 2VVV, 2VWL, 2VWM, 2VWN, 2VWO, 2W26, 2W3I,
+   2W3K, 2WYG, 2WYJ, 2XBV, 2XBW, 2XBX, 2XBY, 2XC0, 2XC4, 2XC5, 2Y5F, 2Y5G,
+   2Y5H, 2Y7X, 2Y7Z, 2Y80, 2Y81, 2Y82, 3CEN, 3CS7, 3ENS, 3FFG, 3HPT, 3IIT,
+   3K9X, 3KL6, 3Q3K, 3SW2, 3TK5, 3TK6, 4A7I, 3KQB, 3KQC, 3KQD, 3KQE, 3LIW,
+   3M36, 3M37, 4BTI, 4BTT, 4BTU, 4Y6D, 4Y71, 4Y76, 4Y79, 4Y7A, 4Y7B, 4ZHA,
+   4ZH8, 5K0H
+   Identifiers
+   Aliases F10, FX, FXA, coagulation factor X
+   External IDs OMIM: 613872 MGI: 103107 HomoloGene: 30976 GeneCards: F10
+         Gene location (Human)
+   Chromosome 13 (human)
+   Chr. Chromosome 13 (human)
+   Chromosome 13 (human)
+   Genomic location for F10
+   Genomic location for F10
+   Band 13q34 Start 113,122,799 bp
+               End  113,149,529 bp
+              Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for F10
+   Genomic location for F10
+   Band 8 A1.1|8 5.73 cM Start 13,037,308 bp
+                          End  13,056,676 bp
+      RNA expression pattern
+   PBB GE F10 205620 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o peptidase activity
+   o GO:0001948 protein binding
+   o serine-type peptidase activity
+   o serine-type endopeptidase activity
+   o phospholipid binding
+   o hydrolase activity
+   Cellular component o endoplasmic reticulum lumen
+   o intrinsic component of external side of plasma membrane
+   o cell membrane
+   o extracellular region
+   o Golgi lumen
+   o extracellular space
+   Biological process o hemostasis
+   o positive regulation of protein kinase B signaling
+   o positive regulation of cell migration
+   o blood coagulation
+   o proteolysis
+   o endoplasmic reticulum to Golgi vesicle-mediated transport
+   o blood coagulation, extrinsic pathway
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2159
+   14058
+   Ensembl
+   ENSG00000126218
+   ENSMUSG00000031444
+   UniProt
+   P00742
+   O88947
+   RefSeq (mRNA)
+   NM_000504
+   NM_001312674
+   NM_001312675
+   NM_001242368
+   NM_007972
+   RefSeq (protein)
+   NP_000495
+   NP_001299603
+   NP_001299604
+   NP_001229297
+   NP_031998
+   Location (UCSC) Chr 13: 113.12 - 113.15 Mb Chr 8: 13.04 - 13.06 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Factor X, also known by the eponym Stuart-Prower factor, is an enzyme
+   (EC 3.4.21.6) of the coagulation cascade. It is a serine endopeptidase
+   (protease group S1, PA clan). Factor X is synthesized in the liver and
+   requires vitamin K for its synthesis.
+   Factor X is activated, by hydrolysis, into factor Xa by both factor IX
+   (with its cofactor, factor VIII in a complex known as intrinsic Tenase)
+   and factor VII with its cofactor, tissue factor (a complex known as
+   extrinsic Tenase ). It is therefore the first member of the final
+   common pathway or thrombin pathway.
+   It acts by cleaving prothrombin in two places (an arg-thr and then an
+   arg-ile bond), which yields the active thrombin. This process is
+   optimized when factor Xa is complexed with activated co-factor V in the
+   prothrombinase complex.
+   Factor Xa is inactivated by protein Z-dependent protease inhibitor
+   (ZPI), a serine protease inhibitor (serpin). The affinity of this
+   protein for factor Xa is increased 1000-fold by the presence of protein
+   Z, while it does not require protein Z for inactivation of factor XI.
+   Defects in protein Z lead to increased factor Xa activity and a
+   propensity for thrombosis.
+   The half life of factor X is 40-45 hours.

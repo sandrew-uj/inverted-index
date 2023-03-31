@@ -1,0 +1,13 @@
+   Xanthine oxidase (XO, sometimes 'XAO') is a form of xanthine
+   oxidoreductase, a type of enzyme that generates reactive oxygen
+   species. These enzymes catalyze the oxidation of hypoxanthine to
+   xanthine and can further catalyze the oxidation of xanthine to uric
+   acid. These enzymes play an important role in the catabolism of purines
+   in some species, including humans.
+   Xanthine oxidase is defined as an enzyme activity (EC 1.17.3.2).
+   The same protein, which in humans has the HGNC approved gene symbol
+   XDH, can also have xanthine dehydrogenase activity (EC 1.17.1.4).
+   Most of the protein in the liver exists in a form with xanthine
+   dehydrogenase activity, but it can be converted to xanthine oxidase by
+   reversible sulfhydryl oxidation or by irreversible proteolytic
+   modification.

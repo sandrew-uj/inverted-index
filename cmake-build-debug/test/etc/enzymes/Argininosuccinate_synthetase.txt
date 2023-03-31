@@ -1,0 +1,6 @@
+   Argininosuccinate synthase or synthetase (ASS; EC 6.3.4.5) is an enzyme
+   that catalyzes the synthesis of argininosuccinate from citrulline and
+   aspartate. In humans, argininosuccinate synthase is encoded by the ASS
+   gene located on chromosome 9.
+   ASS is responsible for the third step of the urea cycle and one of the
+   reactions of the citrulline-NO cycle.

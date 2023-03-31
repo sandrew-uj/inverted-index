@@ -1,0 +1,18 @@
+   Glutamine synthetase (GS) (EC 6.3.1.2) is an enzyme that plays an
+   essential role in the metabolism of nitrogen by catalyzing the
+   condensation of glutamate and ammonia to form glutamine:
+   Glutamate + ATP + NH[3] -> Glutamine + ADP + phosphate
+   Glutamine synthetase reaction.
+   Glutamine synthetase uses ammonia produced by nitrate reduction, amino
+   acid degradation, and photorespiration. The amide group of
+   glutamate is a nitrogen source for the synthesis of glutamine pathway
+   metabolites.
+   Other reactions may take place via GS. Competition between ammonium ion
+   and water, their binding affinities, and the concentration of ammonium
+   ion, influences glutamine synthesis and glutamine hydrolysis. Glutamine
+   is formed if an ammonium ion attacks the acyl-phosphate intermediate,
+   while glutamate is remade if water attacks the intermediate.
+   Ammonium ion binds more strongly than water to GS due to electrostatic
+   forces between a cation and a negatively charged pocket. Another
+   possible reaction is upon NH[2]OH binding to GS, rather than NH[4]+,
+   yields g-glutamylhydroxamate.

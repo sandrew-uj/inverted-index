@@ -1,0 +1,78 @@
+   4TR3, 4TR4
+   Identifiers
+   Aliases DIO3, 5DIII, D3, DIOIII, TXDI3, deiodinase, iodothyronine, type
+   III, iodothyronine deiodinase 3, Dio3 Gene
+   External IDs OMIM: 601038 MGI: 1306782 HomoloGene: 1044 GeneCards: DIO3
+           Gene location (Human)
+   Chromosome 14 (human)
+   Chr. Chromosome 14 (human)
+   Chromosome 14 (human)
+   Genomic location for DIO3
+   Genomic location for DIO3
+   Band 14q32.31 Start 101,561,351 bp
+                  End  101,563,452 bp
+           Gene location (Mouse)
+   Chromosome 12 (mouse)
+   Chr. Chromosome 12 (mouse)
+   Chromosome 12 (mouse)
+   Genomic location for DIO3
+   Genomic location for DIO3
+   Band 12|12 F1 Start 110,279,068 bp
+                  End  110,281,097 bp
+   Gene ontology
+   Molecular function o oxidoreductase activity
+   o thyroxine 5-deiodinase activity
+   o thyroxine 5'-deiodinase activity
+   Cellular component o integral component of membrane
+   o endosome
+   o cell membrane
+   o endosome membrane
+   o membrane
+   Biological process o thyroid hormone generation
+   o thyroid hormone catabolic process
+   o hormone biosynthetic process
+   o positive regulation of multicellular organism growth
+   o apoptotic process
+   o retinal cone cell development
+   o biological process
+   o negative regulation of eye photoreceptor cell development
+   o retinal cone cell apoptotic process
+   o thyroid hormone metabolic process
+   o macromolecule metabolic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1735
+   107585
+   Ensembl
+   ENSG00000197406
+   ENSMUSG00000075707
+   UniProt
+   P55073
+   Q91ZI8
+   RefSeq (mRNA)
+   NM_001362
+   NM_172119
+   RefSeq (protein)
+   NP_001353
+   NP_742117
+   Location (UCSC) Chr 14: 101.56 - 101.56 Mb Chr 12: 110.28 - 110.28 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Thyroxine 5-deiodinase also known as type III iodothyronine deiodinase
+   (EC number 1.21.99.3) is an enzyme that in humans is encoded by the
+   DIO3 gene. This enzyme catalyses the following chemical
+   reaction
+          3,3',5'-triiodo-L-thyronine + iodide + A + H^+
+           L-thyroxine + AH[2]
+   The protein encoded by this intronless gene belongs to the
+   iodothyronine deiodinase family. It catalyzes the inactivation of
+   thyroid hormone by inner ring deiodination of the prohormone thyroxine
+   (T[4]) and the bioactive hormone 3,3',5-triiodothyronine (T[3]) to
+   inactive metabolites, 3,3',5'-triiodothyronine (RT[3]) and
+   3,3'-diiodothyronine (T[2]), respectively. This enzyme is highly
+   expressed in the pregnant uterus, placenta, fetal and neonatal tissues,
+   suggesting that it plays an essential role in the regulation of thyroid
+   hormone inactivation during embryological development.

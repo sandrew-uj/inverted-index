@@ -1,0 +1,12 @@
+   Biotin synthase (BioB) (EC 2.8.1.6) is an enzyme that catalyzes the
+   conversion of dethiobiotin (DTB) to biotin; this is the final step in
+   the biotin biosynthetic pathway. Biotin, also known as vitamin B7, is a
+   cofactor used in carboxylation, decarboxylation, and transcarboxylation
+   reactions in many organisms including humans. Biotin synthase is an
+   S-Adenosylmethionine (SAM) dependent enzyme that employs a radical
+   mechanism to thiolate dethiobiotin, thus converting it to biotin.
+   This radical SAM enzyme belongs to the family of transferases,
+   specifically the sulfurtransferases, which transfer sulfur-containing
+   groups. The systematic name of this enzyme class is dethiobiotin:sulfur
+   sulfurtransferase. This enzyme participates in biotin metabolism. It
+   employs one cofactor, iron-sulfur.

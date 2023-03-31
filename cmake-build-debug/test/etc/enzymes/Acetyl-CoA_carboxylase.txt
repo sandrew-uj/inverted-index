@@ -1,0 +1,12 @@
+   Acetyl-CoA carboxylase (ACC) is a biotin-dependent enzyme that
+   catalyzes the irreversible carboxylation of acetyl-CoA to produce
+   malonyl-CoA through its two catalytic activities, biotin carboxylase
+   (BC) and carboxyltransferase (CT). ACC is a multi-subunit enzyme in
+   most prokaryotes and in the chloroplasts of most plants and algae,
+   whereas it is a large, multi-domain enzyme in the cytoplasm of most
+   eukaryotes. The most important function of ACC is to provide the
+   malonyl-CoA substrate for the biosynthesis of fatty acids. The
+   activity of ACC can be controlled at the transcriptional level as well
+   as by small molecule modulators and covalent modification. The human
+   genome contains the genes for two different ACCs--ACACA and
+   ACACB.

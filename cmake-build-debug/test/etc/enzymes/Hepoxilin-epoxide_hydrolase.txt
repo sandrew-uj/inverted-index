@@ -1,0 +1,5 @@
+   In enzymology, a hepoxilin-epoxide hydrolase (EC 3.3.2.7) is an enzyme
+   that catalyzes the conversion of the epoxyalcohol metabolites
+   arachidonic acid, hepoxilin A3 and hepoxilin B3 to their tri-hydroxyl
+   products, trioxolin A3 and trioxilin B3, respectively. These reactions
+   in general inactivate the two biologically active hepoxilins.

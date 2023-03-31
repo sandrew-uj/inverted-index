@@ -1,0 +1,30 @@
+   Alcohol dehydrogenase
+   Protein ADH5 PDB 1m6h.png
+   Crystallographic structure of the
+   homodimer of human ADH5.
+   Identifiers
+   EC no. 1.1.1.1
+   CAS no. 9031-72-5
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Alcohol dehydrogenases (ADH) (EC 1.1.1.1) are a group of dehydrogenase
+   enzymes that occur in many organisms and facilitate the interconversion
+   between alcohols and aldehydes or ketones with the reduction of
+   nicotinamide adenine dinucleotide (NAD^+) to NADH. In humans and many
+   other animals, they serve to break down alcohols that otherwise are
+   toxic, and they also participate in generation of useful aldehyde,
+   ketone, or alcohol groups during biosynthesis of various metabolites.
+   In yeast, plants, and many bacteria, some alcohol dehydrogenases
+   catalyze the opposite reaction as part of fermentation to ensure a
+   constant supply of NAD^+.

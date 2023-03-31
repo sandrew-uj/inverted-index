@@ -1,0 +1,16 @@
+   In enzymology, maleylacetoacetate isomerase (EC 5.2.1.2) is an enzyme
+   that catalyzes the chemical reaction
+          4-maleylacetoacetate
+           4-fumarylacetoacetate
+   This enzyme belongs to the family of isomerases, specifically cis-trans
+   isomerases. The systematic name of this enzyme class is
+   4-maleylacetoacetate cis-trans-isomerase.
+   4-Maleylacetoacetate isomerase is an enzyme involved in the degradation
+   of L-phenylalanine. It is encoded by the gene glutathione S-transferase
+   zeta 1, or GSTZ1. This enzyme catalyzes the conversion of
+   4-maleylacetoacetate to 4-fumarylacetoacetate. 4-Maleylacetoacetate
+   isomerase belongs to the zeta class of the glutathione S-transferase
+   (GST) superfamily.
+   This image shows the structure of the peptide backbone of
+   4-maleylacetoacetate isomerase, highlighting the glutathione binding
+   site.

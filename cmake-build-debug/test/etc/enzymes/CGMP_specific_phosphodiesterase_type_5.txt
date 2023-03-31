@@ -1,0 +1,91 @@
+   4OEX, 1RKP, 1T9R, 1T9S, 1TBF, 1UDT, 1UDU, 1UHO, 1XOZ, 1XP0, 2CHM, 2H40,
+   2H42, 2H44, 2XSS, 3B2R, 3BJC, 3HC8, 3HDZ, 3JWQ, 3JWR, 3LFV, 3MF0, 3SHY,
+   3SHZ, 3SIE, 3TGE, 3TGG, 4G2W, 4G2Y, 4I9Z, 4IA0, 4MD6, 4OEW
+   Identifiers
+   Aliases PDE5A, CGB-PDE, CN5A, PDE5, phosphodiesterase 5A
+   External IDs OMIM: 603310 MGI: 2651499 HomoloGene: 842 GeneCards: PDE5A
+   EC number 3.1.4.35
+         Gene location (Human)
+   Chromosome 4 (human)
+   Chr. Chromosome 4 (human)
+   Chromosome 4 (human)
+   Genomic location for PDE5A
+   Genomic location for PDE5A
+   Band 4q26 Start 119,494,397 bp
+              End  119,628,804 bp
+          Gene location (Mouse)
+   Chromosome 3 (mouse)
+   Chr. Chromosome 3 (mouse)
+   Chromosome 3 (mouse)
+   Genomic location for PDE5A
+   Genomic location for PDE5A
+   Band 3|3 G1 Start 122,728,947 bp
+                End  122,859,374 bp
+      RNA expression pattern
+   PBB GE PDE5A 206757 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o nucleotide binding
+   o 3',5'-cyclic-nucleotide phosphodiesterase activity
+   o cGMP binding
+   o metal ion binding
+   o cyclic-nucleotide phosphodiesterase activity
+   o catalytic activity
+   o phosphoric diester hydrolase activity
+   o hydrolase activity
+   o 3',5'-cyclic-GMP phosphodiesterase activity
+   o GO:0001948 protein binding
+   Cellular component o cytosol
+   o cellular component
+   Biological process o positive regulation of MAP kinase activity
+   o cGMP metabolic process
+   o positive regulation of cardiac muscle hypertrophy
+   o cGMP catabolic process
+   o negative regulation of T cell proliferation
+   o positive regulation of oocyte development
+   o metabolism
+   o relaxation of cardiac muscle
+   o signal transduction
+   o negative regulation of cardiac muscle contraction
+   o regulation of nitric oxide mediated signal transduction
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   8654
+   242202
+   Ensembl
+   ENSG00000138735
+   ENSMUSG00000053965
+   UniProt
+   O76074
+   Q8CG03
+   RefSeq (mRNA)
+   NM_033437
+   NM_001083
+   NM_033430
+   NM_153422
+   RefSeq (protein)
+   NP_001074
+   NP_236914
+   NP_246273
+   NP_700471
+   Location (UCSC) Chr 4: 119.49 - 119.63 Mb Chr 3: 122.73 - 122.86 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   cGMP-specific phosphodiesterase type 5 is an enzyme (EC 3.1.4.17) from
+   the phosphodiesterase class. It is found in various tissues, most
+   prominently the corpus cavernosum and the retina. It has also been
+   recently discovered to play a vital role in the cardiovascular system.
+   The phosphodiesterase (PDE) isozymes, found in several tissues
+   including the rod and cone photoreceptor cells of the retina, belong to
+   a large family of cyclic nucleotide PDEs that catalyze cAMP and cGMP
+   hydrolysis.
+   The interest in PDEs as molecular targets of drug action has grown with
+   the development of isozyme-selective PDE inhibitors that offer potent
+   inhibition of selected isozymes without the side-effects attributed to
+   nonselective inhibitors such as theophylline.
+   Sildenafil, vardenafil, tadalafil, and avanafil are PDE5 inhibitors
+   that are significantly more potent and selective than zaprinast and
+   other early PDE5 inhibitors.

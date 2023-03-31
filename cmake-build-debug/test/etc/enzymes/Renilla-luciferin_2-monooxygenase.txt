@@ -1,0 +1,17 @@
+   Renilla-luciferin 2-monooxygenase, Renilla luciferase, or RLuc, is a
+   bioluminescent enzyme found in Renilla reniformis, belonging to a group
+   of coelenterazine luciferases. Of this group of enzymes, the luciferase
+   from Renilla reniformis has been the most extensively studied, and due
+   to its bioluminescence requiring only molecular oxygen, has a wide
+   range of applications, with uses as a reporter gene probe in cell
+   culture, in vivo imaging, and various other areas of biological
+   research. Recently, chimeras of RLuc have been developed and
+   demonstrated to be the brightest luminescent proteins to date, and have
+   proved effective in both noninvasive single-cell and whole body
+   imaging.
+   Note that the EC record also includes other unrelated enzymes that
+   catalyze the same reaction. An example is the calcium-dependent
+   photoprotein aequorin: while Rluc is in the AB hydrolase superfamily,
+   aequorin is an EF hand protein. The name does not specifically
+   refer to Renilla, but instead refers to Renilla-luciferin, a chemical
+   also known as coelenterazine.

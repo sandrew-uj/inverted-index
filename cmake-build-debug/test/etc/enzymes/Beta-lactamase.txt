@@ -1,0 +1,57 @@
+   Beta-lactamase
+   PDB 1bsg EBI.jpg
+   Structure of Streptomyces albus beta-lactamase
+   Identifiers
+   Symbol b-lactamase domain
+   Pfam PF00144
+   Pfam clan CL0013
+   InterPro IPR001466
+   PROSITE PS00146
+   SCOP2 56601 / SCOPe / SUPFAM
+   Available protein structures:
+   Pfam   structures / ECOD
+   PDB RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   PDB 1axb&#8203;, 1blp&#8203;, 1bsg&#8203;, 1bue&#8203;, 1e25&#8203;,
+   1ghi&#8203;, 1i2s&#8203;, 1n9b&#8203;, 1ong&#8203;, 2cc1&#8203;,
+   2gdn&#8203;, 3dwz&#8203;
+   b-lactamase
+   Lactamase Application V.1.svg
+   Action of b-lactamase and decarboxylation of the intermediate
+   Identifiers
+   EC no. 3.5.2.6
+   CAS no. 9073-60-3
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Core structure of penicillins (top) and cephalosporins (bottom).
+   b-lactam ring in red.
+   Escherichia coli bacteria on the right are sensitive to two beta-lactam
+   antibiotics, and do not grow in the semi-circular regions surrounding
+   antibiotics. E. coli bacteria on the left are resistant to beta-lactam
+   antibiotics, and grow next to one antibiotic (bottom) and are less
+   inhibited by another antibiotic (top).
+   Beta-lactamases are enzymes (EC 3.5.2.6) produced by bacteria that
+   provide multi- resistance to b-lactam antibiotics such as penicillins,
+   cephalosporins, cephamycins, and carbapenems (ertapenem), although
+   carbapenems are relatively resistant to beta-lactamase. Beta-lactamase
+   provides antibiotic resistance by breaking the antibiotics' structure.
+   These antibiotics all have a common element in their molecular
+   structure: a four-atom ring known as a b-lactam. Through hydrolysis,
+   the enzyme lactamase breaks the b-lactam ring open, deactivating the
+   molecule's antibacterial properties.
+   Beta-lactam antibiotics are typically used to treat a broad spectrum of
+   Gram-positive and Gram-negative bacteria.
+   Beta-lactamases produced by Gram-negative organisms are usually
+   secreted, especially when antibiotics are present in the
+   environment.

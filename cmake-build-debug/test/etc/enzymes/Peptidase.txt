@@ -1,0 +1,14 @@
+   A protease (also called a peptidase or proteinase) is an enzyme that
+   catalyzes (increases the rate of) proteolysis, the breakdown of
+   proteins into smaller polypeptides or single amino acids. They do this
+   by cleaving the peptide bonds within proteins by hydrolysis, a reaction
+   where water breaks bonds. Proteases are involved in many biological
+   functions, including digestion of ingested proteins, protein catabolism
+   (breakdown of old proteins), and cell signaling.
+   Without additional helping mechanisms, (such as an enzyme or other
+   catalyst, to catalyze [i.e., "speed up"] a reaction), proteolysis would
+   be very slow, taking hundreds of years. Proteases can be found in
+   all forms of life and viruses. They have independently evolved multiple
+   times, and different classes of protease can perform (or "enable") (or
+   "speed up") the same reaction by completely different catalytic
+   mechanisms.

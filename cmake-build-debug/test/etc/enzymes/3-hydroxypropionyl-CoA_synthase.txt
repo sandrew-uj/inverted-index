@@ -1,0 +1,9 @@
+   3-hydroxypropionyl-CoA synthase (EC 6.2.1.36, 3-hydroxypropionyl-CoA
+   synthetase (AMP-forming), 3-hydroxypropionate-CoA ligase) is an enzyme
+   with systematic name hydroxypropionate:CoA ligase
+   (AMP-forming). This enzyme catalyses the following chemical
+   reaction
+          3-hydroxypropionate + ATP + CoA
+           3-hydroxypropionyl-CoA + AMP + diphosphate
+   This enzyme catalyses a step in the
+   3-hydroxypropionate/4-hydroxybutyrate cycle.

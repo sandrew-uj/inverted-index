@@ -1,0 +1,6 @@
+   Serine proteases (or serine endopeptidases) are enzymes that cleave
+   peptide bonds in proteins, in which serine serves as the nucleophilic
+   amino acid at the (enzyme's) active site. They are found
+   ubiquitously in both eukaryotes and prokaryotes. Serine proteases fall
+   into two broad categories based on their structure: chymotrypsin-like
+   (trypsin-like) or subtilisin-like.

@@ -1,0 +1,84 @@
+   4TTB, 4TTC
+   Identifiers
+   Aliases IYD, iodotyrosine deiodinase, C6orf71, DEHAL1, TDH4,
+   dJ422F24.1, IYD-1
+   External IDs OMIM: 612025 MGI: 1917587 HomoloGene: 12352 GeneCards: IYD
+          Gene location (Human)
+   Chromosome 6 (human)
+   Chr. Chromosome 6 (human)
+   Chromosome 6 (human)
+   Genomic location for IYD
+   Genomic location for IYD
+   Band 6q25.1 Start 150,368,892 bp
+                End  150,405,969 bp
+   Gene ontology
+   Molecular function o iodide peroxidase activity
+   o GO:0001948 protein binding
+   o FMN binding
+   o oxidoreductase activity
+   Cellular component o membrane
+   o integral component of membrane
+   o nucleoplasm
+   o cell membrane
+   o integral component of plasma membrane
+   o cytoplasmic vesicle membrane
+   o GO:0016023 cytoplasmic vesicle
+   Biological process o thyroid hormone generation
+   o cellular oxidant detoxification
+   o tyrosine metabolic process
+   o thyroid hormone metabolic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   389434
+   70337
+   Ensembl
+   ENSG00000009765
+   ENSMUSG00000019762
+   UniProt
+   Q6PHW0
+   Q9DCX8
+   RefSeq (mRNA)
+   NM_001164694
+   NM_001164695
+   NM_203395
+   NM_001318495
+   NM_027391
+   RefSeq (protein)
+   NP_001158166
+   NP_001158167
+   NP_001305424
+   NP_981932
+   NP_081667
+   Location (UCSC) Chr 6: 150.37 - 150.41 Mb n/a
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Iodotyrosine deiodinase, also known as iodotyrosine dehalogenase 1, is
+   a type of deiodinase enzyme that scavenges iodide by removing it from
+   iodinated tyrosine residues in the thyroid gland. These iodinated
+   tyrosines are produced during thyroid hormone biosynthesis. The
+   iodide that is scavenged by iodotyrosine deiodinase is necessary to
+   again synthesize the thyroid hormones. After synthesis, the thyroid
+   hormones circulate through the body to regulate metabolic rate, protein
+   expression, and body temperature. Iodotyrosine deiodinase is thus
+   necessary to keep levels of both iodide and thyroid hormones in
+   balance.
+   Dehalogenation in aerobic organisms is usually done through oxidation
+   and hydrolysis; however, iodotyrosine deiodinase uses reductive
+   dehalogenation. Iodotyrosine deiodinase and iodothyronine deiodinase
+   have been determined as the only two known enzymes to catalyze
+   reductive dehalogenation in mammals. Although these two enzymes
+   perform similar functions, they are structurally and mechanistically
+   different. Iodothyronine deiodinase (not the enzyme that is the topic
+   of this article) uses a selenocysteine active site for catalysis, is a
+   member of the thioredoxin superfamily, and removes iodide only when the
+   substrate is in a double-tyrosine form. By contrast, iodotyrosine
+   deiodinase (the topic enzyme) does not require selenocysteine or
+   cysteine for catalysis, is part of the NADH oxidase/flavin
+   reductase superfamily, and removes iodide when the substrate
+   is a single amino acid. Research on iodotyrosine deiodinase has
+   historically been variable and slow due to its lack of stability and
+   arduous purification. Only recently has this enzyme been studied
+   more deeply.

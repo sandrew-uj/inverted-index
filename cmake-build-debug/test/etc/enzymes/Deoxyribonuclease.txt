@@ -1,0 +1,7 @@
+   A deoxyribonuclease (DNase, for short) is an enzyme that catalyzes the
+   hydrolytic cleavage of phosphodiester linkages in the DNA backbone,
+   thus degrading DNA. Deoxyribonucleases are one type of nuclease, a
+   generic term for enzymes capable of hydrolyzing phosphodiester bonds
+   that link nucleotides. A wide variety of deoxyribonucleases are known,
+   which differ in their substrate specificities, chemical mechanisms, and
+   biological functions.

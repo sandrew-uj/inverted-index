@@ -1,0 +1,60 @@
+   1PBK, 2KFV, 2MPH, 5D75
+   Identifiers
+   Aliases FKBP3, FKBP-25, FKBP-3, FKBP25, PPIase, FK506 binding protein
+   3, FKBP prolyl isomerase 3
+   External IDs OMIM: 186947 MGI: 1353460 HomoloGene: 1525 GeneCards:
+   FKBP3
+          Gene location (Human)
+   Chromosome 14 (human)
+   Chr. Chromosome 14 (human)
+   Chromosome 14 (human)
+   Genomic location for FKBP3
+   Genomic location for FKBP3
+   Band 14q21.2 Start 45,115,599 bp
+                 End  45,135,319 bp
+          Gene location (Mouse)
+   Chromosome 12 (mouse)
+   Chr. Chromosome 12 (mouse)
+   Chromosome 12 (mouse)
+   Genomic location for FKBP3
+   Genomic location for FKBP3
+   Band 12|12 C1 Start 65,062,424 bp
+                  End  65,074,007 bp
+       RNA expression pattern
+   PBB GE FKBP3 218003 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o isomerase activity
+   o FK506 binding
+   o peptidyl-prolyl cis-trans isomerase activity
+   o GO:0001948 protein binding
+   o RNA binding
+   o signaling receptor activity
+   Cellular component o nucleus
+   o cytoplasm
+   Biological process o chaperone-mediated protein folding
+   o protein peptidyl-prolyl isomerization
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2287
+   30795
+   Ensembl
+   ENSG00000100442
+   ENSMUSG00000020949
+   UniProt
+   Q00688
+   Q62446
+   RefSeq (mRNA)
+   NM_002013
+   NM_013902
+   RefSeq (protein)
+   NP_002004
+   NP_038930
+   Location (UCSC) Chr 14: 45.12 - 45.14 Mb Chr 12: 65.06 - 65.07 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 3 is a protein that in humans is encoded by the
+   FKBP3 gene.

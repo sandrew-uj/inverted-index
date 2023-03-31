@@ -1,0 +1,84 @@
+   PAH
+   Phenylalanine hydroxylase.jpg
+   Available structures
+   PDB Ortholog search: PDBe RCSB
+   List of PDB id codes
+   1DMW, 1J8T, 1J8U, 1KW0, 1LRM, 1MMK, 1MMT, 1TDW, 1TG2, 2PAH, 3PAH, 4ANP,
+   5PAH, 6PAH, 5FII
+   Identifiers
+   Aliases PAH, PH, PKU, PKU1, phenylalanine hydroxylase
+   External IDs OMIM: 612349 MGI: 97473 HomoloGene: 234 GeneCards: PAH
+          Gene location (Human)
+   Chromosome 12 (human)
+   Chr. Chromosome 12 (human)
+   Chromosome 12 (human)
+   Genomic location for PAH
+   Genomic location for PAH
+   Band 12q23.2 Start 102,836,889 bp
+                 End  102,958,410 bp
+               Gene location (Mouse)
+   Chromosome 10 (mouse)
+   Chr. Chromosome 10 (mouse)
+   Chromosome 10 (mouse)
+   Genomic location for PAH
+   Genomic location for PAH
+   Band 10 C1|10 43.64 cM Start 87,521,795 bp
+                           End  87,584,136 bp
+      RNA expression pattern
+   PBB GE PAH 205719 s at fs.png
+   PBB GE PAH 217583 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o iron ion binding
+   o phenylalanine 4-monooxygenase activity
+   o metal ion binding
+   o monooxygenase activity
+   o catalytic activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, reduced pteridine as one donor, and
+   incorporation of one atom of oxygen
+   o oxidoreductase activity
+   Cellular component o cytosol
+   Biological process o catecholamine biosynthetic process
+   o neurotransmitter biosynthetic process
+   o L-phenylalanine catabolic process
+   o cellular amino acid biosynthetic process
+   o aromatic amino acid family metabolic process
+   o metabolism
+   o tyrosine biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5053
+   18478
+   Ensembl
+   ENSG00000171759
+   ENSMUSG00000020051
+   UniProt
+   P00439
+   P16331
+   RefSeq (mRNA)
+   NM_000277
+   NM_001354304
+   NM_008777
+   RefSeq (protein)
+   NP_000268
+   NP_001341233
+   NP_032803
+   Location (UCSC) Chr 12: 102.84 - 102.96 Mb Chr 10: 87.52 - 87.58 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Phenylalanine hydroxylase (PAH) (EC 1.14.16.1) is an enzyme that
+   catalyzes the hydroxylation of the aromatic side-chain of phenylalanine
+   to generate tyrosine. PAH is one of three members of the
+   biopterin-dependent aromatic amino acid hydroxylases, a class of
+   monooxygenase that uses tetrahydrobiopterin (BH[4], a pteridine
+   cofactor) and a non-heme iron for catalysis. During the reaction,
+   molecular oxygen is heterolytically cleaved with sequential
+   incorporation of one oxygen atom into BH[4] and phenylalanine
+   substrate.  In humans, mutations in its encoding gene, PAH, can
+   lead to the metabolic disorder phenylketonuria.
+   Reaction catalyzed by PAH.
+   Reaction catalyzed by PAH

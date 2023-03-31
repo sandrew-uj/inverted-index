@@ -1,0 +1,8 @@
+   Thiaminase is an enzyme that metabolizes or breaks down thiamine into
+   two molecular parts. It is an antinutrient when consumed.
+   The old name was "aneurinase".
+   There are two types:
+     * Thiamine pyridinylase, Thiaminase I (EC 2.5.1.2,
+       InterPro: IPR030901)
+     * Aminopyrimidine aminohydrolase, Thinaminase II (EC 3.5.99.2,
+       InterPro: IPR027574, IPR004305)

@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: set-theoretic network of nodes and edges
+Sense: set-theoretic network of nodes and edges

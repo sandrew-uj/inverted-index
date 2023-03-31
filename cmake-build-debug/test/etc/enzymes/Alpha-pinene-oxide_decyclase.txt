@@ -1,0 +1,11 @@
+   In enzymology, an alpha-pinene-oxide decyclase (EC 5.5.1.10) is an
+   enzyme that catalyzes the chemical reaction
+          alpha-pinene oxide
+           (Z)-2-methyl-5-isopropylhexa-2,5-dienal
+   Hence, this enzyme has one substrate, alpha-pinene oxide, and one
+   product, (Z)-2-methyl-5-isopropylhexa-2,5-dienal.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   alpha-pinene-oxide lyase (decyclizing). This enzyme is also called
+   alpha-pinene oxide lyase. This enzyme participates in limonene and
+   pinene degradation.

@@ -1,0 +1,7 @@
+   A peptide bond is an amide type of covalent chemical bond linking two
+   consecutive alpha-amino acids from C1 (carbon number one) of one
+   alpha-amino acid and N2 (nitrogen number two) of another, along a
+   peptide or protein chain.
+   It can also be called an eupeptide bond to separate it from an
+   isopeptide bond, a different type of amide bond between two amino
+   acids.

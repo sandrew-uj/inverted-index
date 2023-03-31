@@ -1,0 +1,13 @@
+   In enzymology, an adenosylmethionine hydrolase (EC 3.3.1.2) is an
+   enzyme that catalyzes the chemical reaction
+          S-adenosyl-L-methionine + H[2]O
+           L-homoserine + methylthioadenosine
+   Thus, the two substrates of this enzyme are S-adenosyl-L-methionine and
+   H[2]O, whereas its two products are L-homoserine and
+   methylthioadenosine.
+   This enzyme belongs to the family of hydrolases, specifically those
+   acting on ether bonds involving sulfur (thioether and trialkylsulfonium
+   hydrolases). The systematic name of this enzyme class is
+   S-adenosyl-L-methionine hydrolase. Other names in common use include
+   S-adenosylmethionine cleaving enzyme, methylmethionine-sulfonium-salt
+   hydrolase, and adenosylmethionine lyase.

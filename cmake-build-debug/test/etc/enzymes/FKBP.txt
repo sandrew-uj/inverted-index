@@ -1,0 +1,17 @@
+   FKBP, or FK506 binding protein, is a family of proteins that have
+   prolyl isomerase activity and are related to the cyclophilins in
+   function, though not in amino acid sequence. FKBPs have been
+   identified in many eukaryotes, ranging from yeast to humans, and
+   function as protein folding chaperones for proteins containing proline
+   residues. Along with cyclophilin, FKBPs belong to the immunophilin
+   family.
+   FKBP12 is notable in humans for binding the immunosuppressant molecule
+   tacrolimus (originally designated FK506), which is used in treating
+   patients after organ transplant and patients suffering from autoimmune
+   disorders. Tacrolimus has been found to reduce episodes of organ
+   rejection over a related treatment, the drug ciclosporin, which binds
+   cyclophilin. Both the FKBP-tacrolimus complex and the
+   cyclosporin-cyclophilin complex inhibit a phosphatase called
+   calcineurin, thus blocking signal transduction in the T-lymphocyte
+   transduction pathway. This therapeutic role is not related to
+   prolyl isomerase activity.

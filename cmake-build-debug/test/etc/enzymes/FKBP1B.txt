@@ -1,0 +1,121 @@
+   1C9H, 3J8E, 4C02, 4IQ2, 4IQC
+   Identifiers
+   Aliases FKBP1B, FKBP12.6, FKBP1L, OTK4, PKBP1L, PPIase, FK506 binding
+   protein 1B, FKBP prolyl isomerase 1B
+   External IDs OMIM: 600620 MGI: 1336205 HomoloGene: 68380 GeneCards:
+   FKBP1B
+         Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for FKBP1B
+   Genomic location for FKBP1B
+   Band 2p23.3 Start 24,049,701 bp
+                End  24,063,681 bp
+           Gene location (Mouse)
+   Chromosome 12 (mouse)
+   Chr. Chromosome 12 (mouse)
+   Chromosome 12 (mouse)
+   Genomic location for FKBP1B
+   Genomic location for FKBP1B
+   Band 12|12 A1.1 Start 4,833,174 bp
+                    End  4,841,591 bp
+       RNA expression pattern
+   PBB GE FKBP1B 206857 s at fs.png
+   PBB GE FKBP1B 209931 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o ryanodine-sensitive calcium-release channel
+   activity
+   o calcium channel inhibitor activity
+   o ion channel binding
+   o FK506 binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   o GO:0001948 protein binding
+   o signaling receptor binding
+   o cyclic nucleotide binding
+   Cellular component o cytoplasm
+   o calcium channel complex
+   o intracellular membrane-bounded organelle
+   o membrane
+   o sarcoplasmic reticulum
+   o Z disc
+   o sarcoplasmic reticulum membrane
+   o cytosol
+   Biological process o smooth muscle contraction
+   o regulation of ryanodine-sensitive calcium-release channel activity
+   o release of sequestered calcium ion into cytosol
+   o regulation of cardiac conduction
+   o release of sequestered calcium ion into cytosol by sarcoplasmic
+   reticulum
+   o regulation of cytosolic calcium ion concentration
+   o regulation of cardiac muscle contraction by regulation of the release
+   of sequestered calcium ion
+   o positive regulation of cytosolic calcium ion concentration
+   o cell communication by electrical coupling involved in cardiac
+   conduction
+   o negative regulation of insulin secretion involved in cellular
+   response to glucose stimulus
+   o insulin secretion
+   o response to glucose
+   o positive regulation of axon regeneration
+   o protein maturation by protein folding
+   o response to organic substance
+   o negative regulation of heart rate
+   o response to vitamin E
+   o regulation of heart rate
+   o negative regulation of ryanodine-sensitive calcium-release channel
+   activity
+   o response to redox state
+   o T cell proliferation
+   o ion transmembrane transport
+   o positive regulation of sequestering of calcium ion
+   o neuronal action potential propagation
+   o protein refolding
+   o negative regulation of release of sequestered calcium ion into
+   cytosol
+   o regulation of release of sequestered calcium ion into cytosol by
+   sarcoplasmic reticulum
+   o 'de novo' protein folding
+   o calcium-mediated signaling using intracellular calcium source
+   o response to hydrogen peroxide
+   o chaperone-mediated protein folding
+   o protein peptidyl-prolyl isomerization
+   o negative regulation of phosphoprotein phosphatase activity
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2281
+   14226
+   Ensembl
+   ENSG00000119782
+   ENSMUSG00000020635
+   UniProt
+   P68106
+   Q9Z2I2
+   RefSeq (mRNA)
+   NM_004116
+   NM_054033
+   NM_001322963
+   NM_001322964
+   NM_016863
+   NM_001378816
+   NM_001378817
+   NM_001378818
+   RefSeq (protein)
+   NP_001309892
+   NP_001309893
+   NP_004107
+   NP_473374
+   NP_058559
+   NP_001365745
+   NP_001365746
+   NP_001365747
+   Location (UCSC) Chr 2: 24.05 - 24.06 Mb Chr 12: 4.83 - 4.84 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Peptidyl-prolyl cis-trans isomerase FKBP1B is an enzyme that in humans
+   is encoded by the FKBP1B gene.

@@ -1,0 +1,11 @@
+   An acid hydrolase is an enzyme that works best at acidic pHs. It is
+   commonly located in lysosomes, which are acidic on the inside. Acid
+   hydrolases may be nucleases, proteases, glycosidases, lipases,
+   phosphatases, sulfatases and phospholipases and make up the
+   approximately 50 degradative enzymes of the lysosome that break apart
+   biological matter.
+   types of Acid Hydrolase:
+   -Nucleases
+   -Lipase: for example lysosomal acid lipase.
+   -Proteases
+   -Glycosidases

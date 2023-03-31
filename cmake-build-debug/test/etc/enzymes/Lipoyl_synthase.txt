@@ -1,0 +1,13 @@
+   Lipoyl synthase is an enzyme that belongs to the radical SAM
+   (S-adenosylmethionine) family. Within the radical SAM superfamily,
+   lipoyl synthase is in a sub-family of enzymes that catalyze sulfur
+   insertion reactions. Enzymes in this family contain two 4Fe-4S
+   clusters, from which they obtain the sulfur groups that will be
+   transferred onto the corresponding substrates. This particular
+   enzyme participates in lipoic acid metabolism, so it transfers two
+   sulfurs from its 4Fe-4S cluster onto the protein N[6]-(octanoyl)lysine
+   through radical generation. This enzyme is usually localized to the
+   mitochondria. Two organisms that have been extensively studied with
+   regards to this enzyme are Escherichia coli and Mycobacterium
+   tuberculosis. It is also found in other organisms, such as yeast and
+   plants.

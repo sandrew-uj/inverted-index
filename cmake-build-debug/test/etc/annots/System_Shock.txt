@@ -1,0 +1,59 @@
+
+   Set in the year 2072, the protagonist--a nameless hacker--is caught
+   while attempting to access files concerning Citadel Station, a space
+   station owned by the TriOptimum Corporation. The hacker is taken to
+   Citadel Station and brought before Edward Diego, a TriOptimum
+   executive. Diego offers to drop all charges against the hacker in
+   exchange for a confidential hacking of SHODAN, the artificial
+   intelligence that controls the station. Diego secretly plans to steal
+   an experimental mutagenic virus being tested on Citadel Station, and to
+   sell it on the black market as a biological weapon. To entice
+   cooperation, Diego promises the hacker a valuable military grade neural
+   implant. After hacking SHODAN, removing the AI's ethical
+   constraints, and handing control over to Diego, the protagonist
+   undergoes surgery to implant the promised neural interface.
+   Following the operation, the hacker is put into a six-month healing
+   coma. The game begins as the protagonist awakens from his coma, and
+   finds that SHODAN has commandeered the station. All robots aboard have
+   been reprogrammed for hostility, and the crew have been either mutated,
+   transformed into cyborgs, or killed.
+
+   Rebecca Lansing, a TriOptimum counter-terrorism consultant, contacts
+   the player and claims that Citadel Station's mining laser is being
+   powered up to attack Earth. SHODAN's plan is to destroy all major
+   cities on the planet, in a bid to establish itself as a god.
+   Rebecca says that a certain crew member knows how to deactivate the
+   laser, and promises to destroy the records of the hacker's
+   incriminating exchange with Diego if the strike is stopped. With
+   information gleaned from log discs, the hacker destroys the laser by
+   firing it into Citadel Station's own shields. Foiled by the hacker's
+   work, SHODAN prepares to seed Earth with the virus Diego planned to
+   steal--the same one responsible for turning the station's crew into
+   mutants. The hacker, while attempting to jettison the chambers
+   used to cultivate the virus, confronts and defeats Diego, who has been
+   transformed into a powerful cyborg by SHODAN. Next, SHODAN begins an
+   attempt to upload itself into Earth's computer networks. Following
+   Rebecca's advice, the hacker prevents the download's completion by
+   destroying the four antennas that SHODAN is using to send data.
+
+   Soon after, Rebecca contacts the hacker, and says that she has
+   convinced TriOptimum to authorize the station's destruction; she
+   provides him with details on how to do this. After obtaining the
+   necessary codes, the hacker initiates the station's self-destruct
+   sequence and flees to the escape pod bay. There, the hacker defeats
+   Diego a second time, then attempts to disembark. However, SHODAN
+   prevents the pod from launching; it seeks to keep the player aboard the
+   station, while the bridge--which contains SHODAN--is jettisoned to a
+   safe distance. Rebecca tells the hacker that he can still escape
+   if he reaches the bridge; SHODAN then intercepts and jams the
+   transmission. After defeating Diego for the third time and killing
+   him for good, the hacker makes it to the bridge as it is released from
+   the main station, which soon detonates. He is then contacted by a
+   technician who managed to circumvent SHODAN's jamming signal. The
+   technician informs him that SHODAN can only be defeated in cyberspace,
+   due to the powerful shields that protect its mainframe computers.
+   Using a terminal near the mainframe, the hacker enters cyberspace and
+   destroys SHODAN. After his rescue, the hacker is offered a job at
+   TriOptimum, but he declines in favor of continuing his life as a
+   hacker.
+

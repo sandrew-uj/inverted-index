@@ -1,0 +1,9 @@
+   Nicotinate dehydrogenase (cytochrome) (EC 1.17.2.1, nicotinic acid
+   hydroxylase, nicotinate hydroxylase) is an enzyme with systematic name
+   nicotinate:cytochrome 6-oxidoreductase (hydroxylating). This
+   enzyme catalyses the following chemical reaction
+   Nicotinate dehydrogenase (cytochrome).svg
+                   nicotinate + a ferricytochrome + H[2]O
+      6-hydroxynicotinate + a ferrocytochrome + 2 H^+
+   This smelly two-component enzyme from Pseudomonas belongs to the family
+   of xanthine dehydrogenases.

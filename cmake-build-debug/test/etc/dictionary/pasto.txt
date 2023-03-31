@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: pasture (land on which cattle can be kept
+Sense: pasture (land on which cattle can be kept for feeding)

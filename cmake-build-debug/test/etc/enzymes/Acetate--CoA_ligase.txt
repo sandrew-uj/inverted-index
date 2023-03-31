@@ -1,0 +1,4 @@
+   Acetyl-CoA synthetase (ACS) or Acetate-CoA ligase is an enzyme (EC
+   6.2.1.1) involved in metabolism of acetate. It is in the ligase class
+   of enzymes, meaning that it catalyzes the formation of a new chemical
+   bond between two large molecules.

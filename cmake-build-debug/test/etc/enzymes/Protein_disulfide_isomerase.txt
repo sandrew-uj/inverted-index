@@ -1,0 +1,7 @@
+   Protein disulfide isomerase, or PDI, is an enzyme in the endoplasmic
+   reticulum (ER) in eukaryotes and the periplasm of bacteria that
+   catalyzes the formation and breakage of disulfide bonds between
+   cysteine residues within proteins as they fold. This allows
+   proteins to quickly find the correct arrangement of disulfide bonds in
+   their fully folded state, and therefore the enzyme acts to catalyze
+   protein folding.

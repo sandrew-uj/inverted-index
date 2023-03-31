@@ -1,0 +1,11 @@
+   Catechol oxidase is a copper oxidase that contains a type 3 di-copper
+   cofactor and catalyzes the oxidation of ortho-diphenols into
+   ortho-quinones coupled with the reduction of molecular oxygen to water.
+   It is present in a variety of species of plants and fungi including
+   Ipomoea batatas (sweet potato) and Camellia sinensis (Indian tea
+   leaf). Metalloenzymes with type 3 copper centers are characterized
+   by their ability to reversibly bind dioxygen at ambient conditions.
+   In plants, catechol oxidase plays a key role in enzymatic browning by
+   catalyzing the oxidation of catechol to o-quinone in the presence of
+   oxygen, which can rapidly polymerize to form the melanin that grants
+   damaged fruits their dark brown coloration.

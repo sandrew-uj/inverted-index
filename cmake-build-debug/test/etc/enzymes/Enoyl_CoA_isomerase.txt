@@ -1,0 +1,10 @@
+   Enoyl-CoA-(Delta) isomerase, also known as dodecenoyl-CoA-(Delta)
+   isomerase, 3,2-trans-enoyl-CoA isomerase,
+   Delta3(cis),Delta2(trans)-enoyl-CoA isomerase, or acetylene-allene
+   isomerase, is an enzyme that catalyzes the conversion of cis- or
+   trans-double bonds of coenzyme A (CoA) bound fatty acids at
+   gamma-carbon (position 3) to trans double bonds at beta-carbon
+   (position 2) as below:
+   Enoyl-CoA isomerase reaction cis-trans.svg
+   This enzyme has an important role in the metabolism of unsaturated
+   fatty acids in beta oxidation.

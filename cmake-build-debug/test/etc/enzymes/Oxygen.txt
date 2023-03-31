@@ -1,0 +1,136 @@
+   Chemical element, symbol O and atomic number 8
+   CAPTION: Oxygen, [8]O
+   A transparent beaker containing a light blue fluid with gas bubbles
+   Liquid oxygen boiling
+   Oxygen
+   Allotropes O[2], O[3] (ozone)
+   Appearance gas: colorless
+   liquid and solid: pale blue
+   Standard atomic weight
+   A[r, std](O)
+   [15.99903, 15.99977] conventional: 15.999
+   Oxygen in the periodic table
+   Hydrogen Helium
+   Lithium Beryllium Boron Carbon Nitrogen Oxygen Fluorine Neon
+   Sodium Magnesium Aluminium Silicon Phosphorus Sulfur Chlorine Argon
+   Potassium Calcium Scandium Titanium Vanadium Chromium Manganese Iron
+   Cobalt Nickel Copper Zinc Gallium Germanium Arsenic Selenium Bromine
+   Krypton
+   Rubidium Strontium Yttrium Zirconium Niobium Molybdenum Technetium
+   Ruthenium Rhodium Palladium Silver Cadmium Indium Tin Antimony
+   Tellurium Iodine Xenon
+   Caesium Barium Lanthanum Cerium Praseodymium Neodymium Promethium
+   Samarium Europium Gadolinium Terbium Dysprosium Holmium Erbium Thulium
+   Ytterbium Lutetium Hafnium Tantalum Tungsten Rhenium Osmium Iridium
+   Platinum Gold Mercury (element) Thallium Lead Bismuth Polonium Astatine
+   Radon
+   Francium Radium Actinium Thorium Protactinium Uranium Neptunium
+   Plutonium Americium Curium Berkelium Californium Einsteinium Fermium
+   Mendelevium Nobelium Lawrencium Rutherfordium Dubnium Seaborgium
+   Bohrium Hassium Meitnerium Darmstadtium Roentgenium Copernicium
+   Nihonium Flerovium Moscovium Livermorium Tennessine Oganesson
+   -
+   ^|
+   O
+   |v
+   S
+   nitrogen <- oxygen -> fluorine
+   Atomic number (Z) 8
+   Group group 16 (chalcogens)
+   Period period 2
+   Block   p-block
+   Electron configuration [He] 2s^2 2p^4
+   Electrons per shell 2, 6
+   Physical properties
+   Phase
+   at STP gas
+   Melting point (O[2]) 54.36 K &#x200b;(-218.79 DEGC,
+   &#x200b;-361.82 DEGF)
+   Boiling point (O[2]) 90.188 K &#x200b;(-182.962 DEGC,
+   &#x200b;-297.332 DEGF)
+   Density (at STP) 1.429 g/L
+   when liquid (at b.p.) 1.141 g/cm^3
+   Triple point 54.361 K, &#x200b;0.1463 kPa
+   Critical point 154.581 K, 5.043 MPa
+   Heat of fusion (O[2]) 0.444 kJ/mol
+   Heat of vaporization (O[2]) 6.82 kJ/mol
+   Molar heat capacity (O[2]) 29.378 J/(mol.K)
+   Vapor pressure
+    P (Pa)  1 10 100 1 k 10 k 100 k
+   at T (K)          61  73   90
+   Atomic properties
+   Oxidation states -2, -1, 0, +1, +2
+   Electronegativity Pauling scale: 3.44
+   Ionization energies
+     * 1st: 1313.9 kJ/mol
+     * 2nd: 3388.3 kJ/mol
+     * 3rd: 5300.5 kJ/mol
+     * (more)
+   Covalent radius 66+-2 pm
+   Van der Waals radius 152 pm
+   Color lines in a spectral range
+   Spectral lines of oxygen
+   Other properties
+   Natural occurrence primordial
+   Crystal structure &#x200b;cubic
+   Cubic crystal structure for oxygen
+   Speed of sound 330 m/s (gas, at 27 DEGC)
+   Thermal conductivity 26.58 *10^-3  W/(m DOT K)
+   Magnetic ordering paramagnetic
+   Molar magnetic susceptibility +3449.0 *10^-6 cm^3/mol (293 K)
+   CAS Number 7782-44-7
+   History
+   Discovery Carl Wilhelm Scheele (1771)
+   Named by Antoine Lavoisier (1777)
+   Main isotopes of oxygen
+   Isotope Abundance Half-life
+   (t[1/2]) Decay mode Product
+   ^16O 99.76% stable
+   ^17O 0.04% stable
+   ^18O 0.20% stable
+   Category  Category: Oxygen
+     * view
+     * talk
+     * edit
+   | references
+   Oxygen is the chemical element with the symbol O and atomic number 8.
+   It is a member of the chalcogen group in the periodic table, a highly
+   reactive nonmetal, and an oxidizing agent that readily forms oxides
+   with most elements as well as with other compounds. After hydrogen and
+   helium, oxygen is the third-most abundant element in the universe by
+   mass. At standard temperature and pressure, two atoms of the element
+   bind to form dioxygen, a colorless and odorless diatomic gas with the
+   formula O^
+   [2]. Diatomic oxygen gas currently constitutes 20.95% of the Earth's
+   atmosphere, though this has changed considerably over long periods of
+   time. Oxygen makes up almost half of the Earth's crust in the form of
+   oxides.
+   Dioxygen provides the energy released in combustion and aerobic
+   cellular respiration, and many major classes of organic molecules
+   in living organisms contain oxygen atoms, such as proteins, nucleic
+   acids, carbohydrates, and fats, as do the major constituent inorganic
+   compounds of animal shells, teeth, and bone. Most of the mass of living
+   organisms is oxygen as a component of water, the major constituent of
+   lifeforms. Oxygen is continuously replenished in Earth's atmosphere by
+   photosynthesis, which uses the energy of sunlight to produce oxygen
+   from water and carbon dioxide. Oxygen is too chemically reactive to
+   remain a free element in air without being continuously replenished by
+   the photosynthetic action of living organisms. Another form (allotrope)
+   of oxygen, ozone (O^
+   [3]), strongly absorbs ultraviolet UVB radiation and the high-altitude
+   ozone layer helps protect the biosphere from ultraviolet radiation.
+   However, ozone present at the surface is a byproduct of smog and thus a
+   pollutant.
+   Oxygen was isolated by Michael Sendivogius before 1604, but it is
+   commonly believed that the element was discovered independently by Carl
+   Wilhelm Scheele, in Uppsala, in 1773 or earlier, and Joseph Priestley
+   in Wiltshire, in 1774. Priority is often given for Priestley because
+   his work was published first. Priestley, however, called oxygen
+   "dephlogisticated air", and did not recognize it as a chemical element.
+   The name oxygen was coined in 1777 by Antoine Lavoisier, who first
+   recognized oxygen as a chemical element and correctly characterized the
+   role it plays in combustion.
+   Common uses of oxygen include production of steel, plastics and
+   textiles, brazing, welding and cutting of steels and other metals,
+   rocket propellant, oxygen therapy, and life support systems in
+   aircraft, submarines, spaceflight and diving.

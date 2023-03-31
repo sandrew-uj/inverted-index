@@ -1,0 +1,57 @@
+   CAPTION: Peroxide
+   Names
+   Systematic IUPAC name
+   Dioxidanediide
+   Other names
+   # peroxide
+   Identifiers
+   CAS Number
+     * ion: 14915-07-2^  X N[ChemSpider]
+   3D model (JSmol)
+     * ion: Interactive image
+   ChEBI
+     * ion: CHEBI:44785
+     * inorganic: CHEBI:24837
+     * organic: CHEBI:25702
+     * group: CHEBI:25940
+     * hydroperoxy group: CHEBI:29792
+   ChemSpider
+     * ion: 14091
+   Gmelin Reference
+   486
+   InChI
+     * InChI=1S/O2/c1-2/q-2
+       Key: ANAIPYUSIMHBEL-UHFFFAOYSA-N
+   SMILES
+     * ion: [O-][O-]
+   Properties
+   Chemical formula
+   R-O-O-R
+   Molar mass 31.998 g.mol^-1
+   Except where otherwise noted, data are given for materials in their
+   standard state (at 25 DEGC [77 DEGF], 100 kPa).
+   Infobox references
+   Chemical compound
+   Types of peroxides, from top to bottom: peroxide ion, organic peroxide,
+   organic hydroperoxide, peracid. The peroxide group is marked in blue.
+   R, R^1 and R^2 mark hydrocarbon moieties.
+   Peroxides are a group of compounds with the structure R-O-O-R, where R
+   = any element. The O-O group in a peroxide is called the
+   peroxide group or peroxo group. The nomenclature is somewhat
+   variable.
+   The most common peroxide is hydrogen peroxide (H[2]O[2]), colloquially
+   known simply as "peroxide". It is marketed as solutions in water at
+   various concentrations. Many organic peroxides are known as well.
+   O-O bond length = 147.4 pm O-H bond length = 95.0 pm
+   Structure and dimensions of H[2]O[2].
+   Aside from hydrogen peroxide, some other major classes of peroxides
+   are:
+     * Peroxy acids, the peroxy derivatives of many familiar acids,
+       examples being peroxymonosulfuric acid and peracetic acid, and
+       their salts, one example of which is potassium peroxydisulfate.
+     * Main group peroxides, compounds with the linkage E-O-O-E (E = main
+       group element).
+     * Metal peroxides, examples being barium peroxide (BaO[2]), sodium
+       peroxide (Na[2]O[2]) and zinc peroxide (ZnO[2]).
+     * Organic peroxides, compounds with the linkage C-O-O-C or C-O-O-H.
+       One example is tert-butylhydroperoxide.

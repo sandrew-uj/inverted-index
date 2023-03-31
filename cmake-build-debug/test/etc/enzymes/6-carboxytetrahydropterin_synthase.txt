@@ -1,0 +1,12 @@
+   6-carboxytetrahydropterin synthase (EC 4.1.2.50, CPH4 synthase, queD
+   (gene), ToyB , ykvK (gene)) is an enzyme with systematic name
+   7,8-dihydroneopterin 3'-triphosphate acetaldehyde-lyase
+   (6-carboxy-5,6,7,8-tetrahydropterin and triphosphate-forming).
+   This enzyme catalyses the following reversible chemical reaction.
+          7,8-dihydroneopterin 3'-triphosphate + H[2]O <=>
+          6-carboxy-5,6,7,8-tetrahydropterin + acetaldehyde + triphosphate
+   This enzyme binds Zn^2+. It is isolated from the bacteria Bacillus
+   subtilis and Escherichia coli. The stimulation is part of the
+   biosynthesis pathway of queuosine. The enzyme from Escherichia coli can
+   also convert 6-pyruvoyl-5,6,7,8-tetrahydropterin and sepiapterin to
+   6-carboxy-5,6,7,8-tetrahydropterin.

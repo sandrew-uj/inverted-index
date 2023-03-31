@@ -1,0 +1,135 @@
+   1A7X, 1B6C, 1BKF, 1BL4, 1D6O, 1D7H, 1D7I, 1D7J, 1EYM, 1F40, 1FAP, 1FKB,
+   1FKD, 1FKF, 1FKG, 1FKH, 1FKI, 1FKJ, 1FKR, 1FKS, 1FKT, 1J4H, 1J4I, 1J4R,
+   1NSG, 1QPF, 1QPL, 2DG3, 2DG4, 2DG9, 2FAP, 2FKE, 2PPN, 2PPO, 2PPP, 2RSE,
+   3FAP, 3H9R, 3MDY, 4DH0, 4FAP, 4IPX, 4N19, 4ODP, 4ODQ, 4ODR
+   Identifiers
+   Aliases FKBP1A, FKBP-12, FKBP-1A, FKBP1, FKBP12, PKC12, PKCI2, PPIASE,
+   FK506 binding protein 1A, FKBP prolyl isomerase 1A
+   External IDs OMIM: 186945 MGI: 95541 HomoloGene: 105139 GeneCards:
+   FKBP1A
+        Gene location (Human)
+   Chromosome 20 (human)
+   Chr. Chromosome 20 (human)
+   Chromosome 20 (human)
+   Genomic location for FKBP1A
+   Genomic location for FKBP1A
+   Band 20p13 Start 1,368,977 bp
+               End  1,393,164 bp
+          Gene location (Mouse)
+   Chromosome 2 (mouse)
+   Chr. Chromosome 2 (mouse)
+   Chromosome 2 (mouse)
+   Genomic location for FKBP1A
+   Genomic location for FKBP1A
+   Band 2|2 G3 Start 151,542,483 bp
+                End  151,561,692 bp
+       RNA expression pattern
+   PBB GE FKBP1A 210186 s at fs.png
+   PBB GE FKBP1A 210187 at fs.png
+   PBB GE FKBP1A 214119 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium channel inhibitor activity
+   o activin binding
+   o isomerase activity
+   o macrolide binding
+   o peptidyl-prolyl cis-trans isomerase activity
+   o signal transducer activity
+   o GO:0001948 protein binding
+   o SMAD binding
+   o transforming growth factor beta receptor binding
+   o FK506 binding
+   o drug binding
+   o enzyme binding
+   o Hsp70 protein binding
+   o type I transforming growth factor beta receptor binding
+   o protein homodimerization activity
+   o ion channel binding
+   Cellular component o cytoplasm
+   o terminal cisterna
+   o Z disc
+   o extracellular exosome
+   o extrinsic component of organelle membrane
+   o cytoplasmic side of membrane
+   o ryanodine receptor complex
+   o cytosol
+   o membrane
+   o sarcoplasmic reticulum
+   o sarcoplasmic reticulum membrane
+   o intracellular membrane-bounded organelle
+   o axon terminus
+   Biological process o SMAD protein complex assembly
+   o amyloid fibril formation
+   o regulation of activin receptor signaling pathway
+   o protein maturation by protein folding
+   o regulation of amyloid precursor protein catabolic process
+   o protein peptidyl-prolyl isomerization
+   o negative regulation of ryanodine-sensitive calcium-release channel
+   activity
+   o regulation of protein localization
+   o calcium ion transmembrane transport
+   o protein refolding
+   o regulation of immune response
+   o positive regulation of I-kappaB kinase/NF-kappaB signaling
+   o negative regulation of release of sequestered calcium ion into
+   cytosol
+   o positive regulation of protein binding
+   o positive regulation of protein ubiquitination
+   o 'de novo' protein folding
+   o transforming growth factor beta receptor signaling pathway
+   o T cell activation
+   o chaperone-mediated protein folding
+   o supramolecular fiber organization
+   o negative regulation of phosphoprotein phosphatase activity
+   o protein folding
+   o negative regulation of protein phosphorylation
+   o heart morphogenesis
+   o muscle contraction
+   o response to iron ion
+   o cytokine-mediated signaling pathway
+   o response to caffeine
+   o T cell proliferation
+   o release of sequestered calcium ion into cytosol
+   o ventricular cardiac muscle tissue morphogenesis
+   o regulation of ryanodine-sensitive calcium-release channel activity
+   o heart trabecula formation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2280
+   14225
+   Ensembl
+   ENSG00000088832
+   ENSMUSG00000032966
+   UniProt
+   P62942
+   P26883
+   RefSeq (mRNA)
+   NM_054014
+   NM_000801
+   NM_001199786
+   NM_001302077
+   NM_001302078
+   NM_001302079
+   NM_001302080
+   NM_008019
+   NM_001355077
+   NM_001355078
+   RefSeq (protein)
+   NP_000792
+   NP_001186715
+   NP_463460
+   NP_001289006
+   NP_001289007
+   NP_001289008
+   NP_001289009
+   NP_032045
+   NP_001342006
+   NP_001342007
+   Location (UCSC) Chr 20: 1.37 - 1.39 Mb Chr 2: 151.54 - 151.56 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Peptidyl-prolyl cis-trans isomerase FKBP1A is an enzyme that in humans
+   is encoded by the FKBP1A gene.

@@ -1,0 +1,8 @@
+   Lycopene beta-cyclase (EC 5.5.1.19, CrtL, CrtL-b, CrtY) is an enzyme
+   with systematic name carotenoid beta-end group lyase
+   (decyclizing). This enzyme catalyses the
+   following chemical reaction
+          carotenoid psi-end group
+           carotenoid beta-end group
+   This enzyme requires NAD(P)H. It converts Lycopene (2 psi ends) into
+   Beta-Carotene (2 beta ends).

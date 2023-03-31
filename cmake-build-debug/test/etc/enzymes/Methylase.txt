@@ -1,0 +1,29 @@
+   Group of methylating enzymes
+   SET7/9, a representative histone methyltransferase with SAM (red) and
+   peptide undergoing methylation (orange. Rendered from PDB file 4J83.)
+   The SN2-like methyl transfer reaction. Only the SAM cofactor and
+   cytosine base are shown for simplicity.
+   Methyltransferases are a large group of enzymes that all methylate
+   their substrates but can be split into several subclasses based on
+   their structural features. The most common class of methyltransferases
+   is class I, all of which contain a Rossmann fold for binding S-Adenosyl
+   methionine (SAM). Class II methyltransferases contain a SET domain,
+   which are exemplified by SET domain histone methyltransferases, and
+   class III methyltransferases, which are membrane associated.
+   Methyltransferases can also be grouped as different types utilizing
+   different substrates in methyl transfer reactions. These types include
+   protein methyltransferases, DNA/RNA methyltransferases, natural product
+   methyltransferases, and non-SAM dependent methyltransferases. SAM is
+   the classical methyl donor for methyltrasferases, however, examples of
+   other methyl donors are seen in nature. The general mechanism for
+   methyl transfer is a S[N]2-like nucleophilic attack where the
+   methionine sulfur serves as the leaving group and the methyl group
+   attached to it acts as the electrophile that transfers the methyl group
+   to the enzyme substrate. SAM is converted to S-Adenosyl homocysteine
+   (SAH) during this process. The breaking of the SAM-methyl bond and the
+   formation of the substrate-methyl bond happen nearly simultaneously.
+   These enzymatic reactions are found in many pathways and are implicated
+   in genetic diseases, cancer, and metabolic diseases. Another type of
+   methyl transfer is the radical S-Adenosyl methionine (SAM) which is the
+   methylation of unactivated carbon atoms in primary metabolites,
+   proteins, lipids, and RNA.

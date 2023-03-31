@@ -1,0 +1,11 @@
+   The enzyme UDP-glucose 4-epimerase (EC 5.1.3.2), also known as
+   UDP-galactose 4-epimerase or GALE, is a homodimeric epimerase found in
+   bacterial, fungal, plant, and mammalian cells. This enzyme performs the
+   final step in the Leloir pathway of galactose metabolism, catalyzing
+   the reversible conversion of UDP-galactose to UDP-glucose. GALE
+   tightly binds nicotinamide adenine dinucleotide (NAD+), a co-factor
+   required for catalytic activity.
+   Additionally, human and some bacterial GALE isoforms reversibly
+   catalyze the formation of UDP-N-acetylgalactosamine (UDP-GalNAc) from
+   UDP-N-acetylglucosamine (UDP-GlcNAc) in the presence of NAD+, an
+   initial step in glycoprotein or glycolipid synthesis.

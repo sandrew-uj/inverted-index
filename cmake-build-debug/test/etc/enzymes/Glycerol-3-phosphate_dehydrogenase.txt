@@ -1,0 +1,23 @@
+   In enzymology, a glycerol-3-phosphate dehydrogenase (NAD^+) (EC
+   1.1.1.8) is an enzyme that catalyzes the chemical reaction
+          sn-glycerol 3-phosphate + NAD^+
+           glycerone phosphate + NADH + H^+
+   The two substrates of this enzyme are sn-glycerol 3-phosphate and
+   NAD^+, whereas its 3 products are glycerone phosphate, NADH, and H^+.
+   This enzyme belongs to the family of oxidoreductases, specifically
+   those acting on the CH-OH group of donor with NAD^+ or NADP^+ as
+   acceptor. The systematic name of this enzyme class is
+   sn-glycerol-3-phosphate:NAD^+ 2-oxidoreductase. Other names in common
+   use include alpha-glycerol phosphate dehydrogenase (NAD^+),
+   alpha-glycerophosphate dehydrogenase (NAD^+), glycerol 1-phosphate
+   dehydrogenase, glycerol phosphate dehydrogenase (NAD^+),
+   glycerophosphate dehydrogenase (NAD^+), hydroglycerophosphate
+   dehydrogenase, L-alpha-glycerol phosphate dehydrogenase,
+   L-alpha-glycerophosphate dehydrogenase, L-glycerol phosphate
+   dehydrogenase, L-glycerophosphate dehydrogenase,
+   NAD^+-alpha-glycerophosphate dehydrogenase, NAD^+-dependent glycerol
+   phosphate dehydrogenase, NAD^+-dependent glycerol-3-phosphate
+   dehydrogenase, NAD^+-L-glycerol-3-phosphate dehydrogenase, NAD^+-linked
+   glycerol 3-phosphate dehydrogenase, NADH-dihydroxyacetone phosphate
+   reductase, and glycerol-3-phosphate dehydrogenase (NAD^+). This enzyme
+   participates in glycerophospholipid metabolism.

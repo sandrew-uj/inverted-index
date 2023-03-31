@@ -1,0 +1,69 @@
+   Chromosome 12 (human)
+   Genomic location for ESPL1
+   Genomic location for ESPL1
+   Band 12q13.13 Start 53,268,299 bp
+                  End  53,293,638 bp
+           Gene location (Mouse)
+   Chromosome 15 (mouse)
+   Chr. Chromosome 15 (mouse)
+   Chromosome 15 (mouse)
+   Genomic location for ESPL1
+   Genomic location for ESPL1
+   Band 15|15 F3 Start 102,296,266 bp
+                  End  102,324,357 bp
+      RNA expression pattern
+   PBB GE EPAS1 200878 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o cysteine-type peptidase activity
+   o peptidase activity
+   o catalytic activity
+   o GO:0001948 protein binding
+   o cysteine-type endopeptidase activity
+   o hydrolase activity
+   Cellular component o cytoplasm
+   o cytosol
+   o centrosome
+   o mitotic spindle
+   o nucleus
+   Biological process o negative regulation of sister chromatid cohesion
+   o chromosome segregation
+   o homologous chromosome segregation
+   o proteolysis
+   o positive regulation of mitotic metaphase/anaphase transition
+   o meiotic chromosome separation
+   o GO:0043147 meiotic spindle organization
+   o meiosis I
+   o mitotic sister chromatid segregation
+   o establishment of mitotic spindle localization
+   o apoptotic process
+   o GO:0007067 mitotic cell cycle
+   o mitotic cytokinesis
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   9700
+   105988
+   Ensembl
+   ENSG00000135476
+   ENSMUSG00000058290
+   UniProt
+   Q14674
+   P60330
+   RefSeq (mRNA)
+   NM_012291
+   NM_001014976
+   NM_001356312
+   RefSeq (protein)
+   NP_036423
+   NP_001014976
+   NP_001343241
+   Location (UCSC) Chr 12: 53.27 - 53.29 Mb Chr 15: 102.3 - 102.32 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Separase, also known as separin, is a cysteine protease responsible for
+   triggering anaphase by hydrolysing cohesin, which is the protein
+   responsible for binding sister chromatids during the early stage of
+   anaphase. In humans, separin is encoded by the ESPL1 gene.

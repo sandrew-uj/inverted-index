@@ -1,0 +1,76 @@
+   3L4G
+   Identifiers
+   Aliases FARSB, FARSLB, FRSB, PheHB, PheRS, HSPC173, phenylalanyl-tRNA
+   synthetase beta subunit, phenylalanyl-tRNA synthetase subunit beta,
+   NEDBLLA, RILDBC, RILDBC1
+   External IDs OMIM: 609690 MGI: 1346035 HomoloGene: 4160 GeneCards:
+   FARSB
+          Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for FARSB
+   Genomic location for FARSB
+   Band 2q36.1 Start 222,566,899 bp
+                End  222,656,092 bp
+         Gene location (Mouse)
+   Chromosome 1 (mouse)
+   Chr. Chromosome 1 (mouse)
+   Chromosome 1 (mouse)
+   Genomic location for FARSB
+   Genomic location for FARSB
+   Band 1|1 C4 Start 78,417,975 bp
+                End  78,488,897 bp
+        RNA expression pattern
+   PBB GE FARSB gnf1h00075 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o ligase activity
+   o nucleotide binding
+   o aminoacyl-tRNA ligase activity
+   o magnesium ion binding
+   o ATP binding
+   o RNA binding
+   o phenylalanine-tRNA ligase activity
+   o GO:0001948 protein binding
+   Cellular component o membrane
+   o cytosol
+   o cytoplasm
+   o phenylalanine-tRNA ligase complex
+   Biological process o tRNA aminoacylation for protein translation
+   o protein biosynthesis
+   o protein heterotetramerization
+   o phenylalanyl-tRNA aminoacylation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   10056
+   23874
+   Ensembl
+   ENSG00000116120
+   ENSMUSG00000026245
+   UniProt
+   Q9NSD9
+   Q9WUA2
+   RefSeq (mRNA)
+   NM_005687
+   NM_001278075
+   NM_011811
+   RefSeq (protein)
+   NP_005678
+   NP_001265004
+   NP_035941
+   Location (UCSC) Chr 2: 222.57 - 222.66 Mb Chr 1: 78.42 - 78.49 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Phenylalanyl-tRNA synthetase beta chain is an enzyme that in humans is
+   encoded by the FARSB gene.
+   This gene encodes a highly conserved enzyme that belongs to the
+   aminoacyl-tRNA synthetase class IIc subfamily. This enzyme comprises
+   the regulatory beta subunits that form a tetramer with two catalytic
+   alpha subunits. In the presence of ATP, this tetramer is responsible
+   for attaching L-phenylalanine to the terminal adenosine of the
+   appropriate tRNA. A pseudogene located on chromosome 10 has been
+   identified.

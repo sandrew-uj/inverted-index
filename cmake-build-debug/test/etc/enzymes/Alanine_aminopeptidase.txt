@@ -1,0 +1,87 @@
+   4FYQ, 4FYR, 4FYS, 4FYT
+   Identifiers
+   Aliases ANPEP, APN, CD13, GP150, LAP1, P150, PEPN, alanyl
+   aminopeptidase, membrane
+   External IDs OMIM: 151530 MGI: 5000466 HomoloGene: 68163 GeneCards:
+   ANPEP
+          Gene location (Human)
+   Chromosome 15 (human)
+   Chr. Chromosome 15 (human)
+   Chromosome 15 (human)
+   Genomic location for ANPEP
+   Genomic location for ANPEP
+   Band 15q26.1 Start 89,784,895 bp
+                 End  89,815,401 bp
+         Gene location (Mouse)
+   Chromosome 7 (mouse)
+   Chr. Chromosome 7 (mouse)
+   Chromosome 7 (mouse)
+   Genomic location for ANPEP
+   Genomic location for ANPEP
+   Band 7|7 D2 Start 79,821,803 bp
+                End  79,861,059 bp
+       RNA expression pattern
+   PBB GE ANPEP 202888 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o virus receptor activity
+   o zinc ion binding
+   o metalloaminopeptidase activity
+   o hydrolase activity
+   o metal ion binding
+   o peptidase activity
+   o aminopeptidase activity
+   o metallopeptidase activity
+   o peptide binding
+   o signaling receptor activity
+   Cellular component o lysosomal membrane
+   o integral component of membrane
+   o membrane
+   o endoplasmic reticulum-Golgi intermediate compartment
+   o external side of plasma membrane
+   o extracellular exosome
+   o extracellular space
+   o nucleus
+   o cell membrane
+   o secretory granule membrane
+   o cytoplasm
+   Biological process o GO:0022415 viral process
+   o peptide catabolic process
+   o proteolysis
+   o viral entry into host cell
+   o multicellular organism development
+   o cell differentiation
+   o angiogenesis
+   o neutrophil degranulation
+   o signal transduction
+   o cell-cell signaling
+   o regulation of blood pressure
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   290
+   16790
+   Ensembl
+   ENSG00000166825
+   ENSMUSG00000039062
+   UniProt
+   P15144
+   P97449
+   RefSeq (mRNA)
+   NM_001150
+   NM_001381923
+   NM_001381924
+   NM_008486
+   RefSeq (protein)
+   NP_001141
+   NP_001368852
+   NP_001368853
+   NP_032512
+   Location (UCSC) Chr 15: 89.78 - 89.82 Mb Chr 7: 79.82 - 79.86 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Membrane alanyl aminopeptidase (EC 3.4.11.2) also known as alanyl
+   aminopeptidase (AAP) or aminopeptidase N (AP-N) is an enzyme that in
+   humans is encoded by the ANPEP gene.

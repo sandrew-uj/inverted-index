@@ -1,0 +1,15 @@
+   Fructose bisphosphatase (EC 3.1.3.11) is an enzyme that converts
+   fructose-1,6-bisphosphate to fructose 6-phosphate in gluconeogenesis
+   and the Calvin cycle which are both anabolic pathways. Fructose
+   bisphosphatase catalyses the conversion of fructose-1,6-bisphosphate to
+   fructose-6-phosphate, which is the reverse of the reaction which is
+   catalysed by phosphofructokinase in glycolysis. These enzymes
+   only catalyse the reaction in one direction each, and are regulated by
+   metabolites such as fructose 2,6-bisphosphate so that high activity of
+   one of the two enzymes is accompanied by low activity of the other.
+   More specifically, fructose 2,6-bisphosphate allosterically inhibits
+   fructose 1,6-bisphosphatase, but activates phosphofructokinase-I.
+   Fructose 1,6-bisphosphatase is involved in many different metabolic
+   pathways and found in most organisms. FBPase requires metal ions for
+   catalysis (Mg^2+ and Mn^2+ being preferred) and the enzyme is potently
+   inhibited by Li^+.

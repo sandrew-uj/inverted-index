@@ -1,0 +1,41 @@
+   Chromosome 6 (human)
+   Genomic location for FKBPL
+   Genomic location for FKBPL
+   Band 6p21.32 Start 32,128,707 bp
+                 End  32,130,288 bp
+   Gene ontology
+   Molecular function o GO:0001948 protein binding
+   Cellular component o cytosol
+   o extracellular region
+   Biological process o response to radiation
+   o protein stabilization
+   o regulation of angiogenesis
+   o regulation of blood vessel branching
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   63943
+   56299
+   Ensembl
+   ENSG00000204315
+   ENSG00000230907
+   ENSG00000224200
+   ENSG00000223666
+   ENSMUSG00000033739
+   UniProt
+   Q9UIM3
+   O35450
+   RefSeq (mRNA)
+   NM_022110
+   NM_019873
+   RefSeq (protein)
+   NP_071393
+   NP_071393.2
+   NP_063926
+   Location (UCSC) Chr 6: 32.13 - 32.13 Mb n/a
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein like, also known as FKBPL, is a protein that in
+   humans is encoded by the FKBPL gene.

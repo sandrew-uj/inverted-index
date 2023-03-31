@@ -1,0 +1,40 @@
+
+   It's the first project in what we call online digital blockbusters.
+   This is new for Yahoo and new for the Internet -- this is maiden
+   territory.
+
+   --Erin McPherson, Yahoo! Vice President
+
+   In a post-apocalyptic setting, mankind is reduced to small settlements
+   whose main business is to produce electric power. With fossil and
+   nuclear fuel sources mostly depleted, the communities are dependent on
+   naturally created electricity, be it by air, water, or muscle power
+   (the latter of which is used as a punishment for criminals and other
+   undesirables of this society). Under the motto "All in service to all"
+   everyone must contribute to society's welfare.
+
+   Electric City is actually a collective name for several geographically
+   separated precincts. Central cultural and social administration takes
+   place at Central Stations. Other precincts include:
+     * Nerima, the site of Electric City's water purification facilities
+       and of the Camera Obscura observatory, the meeting place of the
+       "knitting society".
+     * Greenlight, where the city's first university is located.
+     * Morningside, the most modern precinct and residential area.
+     * The Mines, a mining and manufacturing district.
+     * The Agricultural Territories, the main food provider for the city.
+     * The Outside, an unsettled off-limits territory lining the coast
+       near Electric City, which is inhabited by fugitives from the
+       persecution by the "knitting society".
+
+   The precincts' main connection is by their power cables and a wired
+   radio service, but free communication, trading, and traveling has been
+   made illegal, since it entails the wasting of precious electrical power
+   reserves as well as the gradual loss of influence for the "knitting
+   society", a matriarchal group of war survivors who founded Electric
+   City and are ruthlessly trying to maintain their power base. The Tap
+   Coders, an underground movement of free-thinkers trying to circumvent
+   the current social restrictions by establishing an illegal
+   communications network, especially present a considerable thorn which
+   they seek to eliminate.
+

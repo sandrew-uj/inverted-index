@@ -1,0 +1,85 @@
+   1OTH, 1C9Y, 1EP9, 1FVO
+   Identifiers
+   Aliases OTC, OCTD, ornithine carbamoyltransferase, ornithine
+   transcarbamylase, OTCD
+   External IDs OMIM: 300461 MGI: 97448 HomoloGene: 446 GeneCards: OTC
+         Gene location (Human)
+   X chromosome (human)
+   Chr. X chromosome (human)
+   X chromosome (human)
+   Genomic location for OTC
+   Genomic location for OTC
+   Band Xp11.4 Start 38,352,586 bp
+                End  38,421,446 bp
+              Gene location (Mouse)
+   X chromosome (mouse)
+   Chr. X chromosome (mouse)
+   X chromosome (mouse)
+   Genomic location for OTC
+   Genomic location for OTC
+   Band X A1.1|X 4.66 cM Start 10,252,305 bp
+                          End  10,321,024 bp
+      RNA expression pattern
+   PBB GE OTC 207200 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o amino acid binding
+   o transferase activity
+   o carboxyl- or carbamoyltransferase activity
+   o phosphate ion binding
+   o phospholipid binding
+   o ornithine carbamoyltransferase activity
+   Cellular component o cytoplasm
+   o mitochondrial inner membrane
+   o mitochondrial matrix
+   o mitochondrion
+   Biological process o response to zinc ion
+   o cellular amino acid biosynthetic process
+   o ornithine catabolic process
+   o response to drug
+   o midgut development
+   o cellular amino acid metabolic process
+   o response to nutrient levels
+   o response to biotin
+   o anion homeostasis
+   o liver development
+   o arginine biosynthetic process
+   o response to insulin
+   o ammonium homeostasis
+   o ornithine metabolic process
+   o protein homotrimerization
+   o urea cycle
+   o citrulline biosynthetic process
+   o arginine biosynthetic process via ornithine
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5009
+   18416
+   Ensembl
+   ENSG00000036473
+   ENSMUSG00000031173
+   UniProt
+   P00480
+   P11725
+   RefSeq (mRNA)
+   NM_000531
+   NM_008769
+   RefSeq (protein)
+   NP_000522
+   NP_032795
+   Location (UCSC) Chr X: 38.35 - 38.42 Mb Chr X: 10.25 - 10.32 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Ornithine transcarbamylase (OTC) (also called ornithine
+   carbamoyltransferase) is an enzyme (EC 2.1.3.3) that catalyzes the
+   reaction between carbamoyl phosphate (CP) and ornithine (Orn) to form
+   citrulline (Cit) and phosphate (P[i]). There are two classes of OTC:
+   anabolic and catabolic. This article focuses on anabolic OTC. Anabolic
+   OTC facilitates the sixth step in the biosynthesis of the amino acid
+   arginine in prokaryotes. In contrast, mammalian OTC plays an
+   essential role in the urea cycle, the purpose of which is to capture
+   toxic ammonia and transform it into urea, a less toxic nitrogen source,
+   for excretion.

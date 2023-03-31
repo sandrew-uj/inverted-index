@@ -1,0 +1,51 @@
+
+   Descent 3 takes place in a science fiction setting of the Solar System
+   where the player is cast as Material Defender MD1032, a mercenary
+   working for a corporation called the Post Terran Mining Corporation
+   (PTMC). The game begins moments after the events of Descent II, with
+   the Material Defender escaping the destruction of a planetoid where he
+   was clearing PTMC's robots infected by an alien virus. He was about to
+   return to Earth to collect his reward, but a malfunction occurred with
+   the prototype warp drive in the ship he was piloting, making it drift
+   towards the Sun's atmosphere. At the very last moment, the Material
+   Defender is rescued via a tractor beam by an organization known as the
+   Red Acropolis Research Team.
+
+   While the Material Defender recovers in the Red Acropolis station on
+   Mars, the director of the team informs him that they have been
+   investigating PTMC, and have uncovered a conspiracy: one of her
+   acquaintances in the PTMC was killed by a robot, and when she contacted
+   PTMC about it, they denied having ever employed such acquaintance, even
+   though he had worked with them for years. The Red Acropolis had tried
+   to notify the Collective Earth Defense (CED), a large police group, of
+   the PTMC's actions, but they took no action, not daring to interfere
+   with such a powerful corporation. The director also tells the Material
+   Defender that, while he was clearing the mines during the events of
+   Descent II, PTMC executive Samuel Dravis was actually testing and
+   modifying the virus and deliberately tried to kill him by overloading
+   the warp drive on his ship. After some persuasion and offers from the
+   director, including a new ship and an AI assistant known as the
+   Guide-Bot, the Material Defender accepts to help the Red Acropolis stop
+   the virus.
+
+   The Material Defender is first sent to Deimos to obtain information
+   about the location of a scientist named Dr. Sweitzer who has evidence
+   of the PTMC's actions. He is then rescued in the Novak Corporate Prison
+   on Phobos. After recovering the evidence, the Material Defender
+   delivers it to PTMC President Suzuki in Seoul before leaving with his
+   reward. When the Material Defender arrives at the Red Acropolis
+   Research Station, the director tells him that the PTMC president has
+   been killed and that the Red Acropolis Research Team are now accused of
+   being terrorists, resulting in the destruction of the then-abandoned
+   station. After a series of missions, the Material Defender and the
+   Red Acropolis Research Team manage to develop an antivirus and convince
+   the CED that they are not terrorists. The CED suggest to broadcast the
+   antivirus through their strategic platform orbiting Earth, but the
+   results are unsuccessful. The Material Defender is then sent to Venus,
+   where Dravis has been tracked by the Red Acropolis. In the ensuing
+   confrontation in his stronghold, Dravis is mortally wounded by the
+   Guide-Bot's flares and the Material Defender deactivates the virus,
+   which disables all of the PTMC's robots. The game ends with the CED
+   destroying the PTMC's orbital headquarters while the Material Defender
+   returns to Earth.
+

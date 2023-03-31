@@ -1,0 +1,12 @@
+
+   Unsounded describes itself as covering "fall into the Epic Fantasy
+   Adventure genre, with occasional forays into the horrific, the profane,
+   and the goofy". It follows the lion-tailed daughter of the Lord of
+   Thieves, Sette Frummagem, as accompanied by the resurrected soldier
+   Duane Adelier, she travels through the continent of Kasslyne, divided
+   by a war between Alderode and Cresce, who fight over land, politics,
+   religious beliefs, and simple bad blood. However, both agree that power
+   lies in the Khert, the invisible spectral plane that holds all life and
+   laws together. Using pymary (a type of magic), a spellcaster can bend
+   the world around them.
+

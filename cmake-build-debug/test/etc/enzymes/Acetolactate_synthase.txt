@@ -1,0 +1,61 @@
+   Chromosome 19 (human)
+   Genomic location for ILVBL
+   Genomic location for ILVBL
+   Band 19p13.12 Start 15,114,984 bp
+                  End  15,125,786 bp
+               Gene location (Mouse)
+   Chromosome 10 (mouse)
+   Chr. Chromosome 10 (mouse)
+   Chromosome 10 (mouse)
+   Genomic location for ILVBL
+   Genomic location for ILVBL
+   Band 10 C1|10 39.72 cM Start 78,574,346 bp
+                           End  78,584,502 bp
+   Gene ontology
+   Molecular function o transferase activity
+   o thiamine pyrophosphate binding
+   o GO:0001948 protein binding
+   o catalytic activity
+   o magnesium ion binding
+   o metal ion binding
+   o molecular function
+   Cellular component o integral component of membrane
+   o membrane
+   Biological process o biological process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   10994
+   216136
+   Ensembl
+   ENSG00000105135
+   ENSMUSG00000032763
+   UniProt
+   A1L0T0
+   E9PL44
+   Q8BU33
+   RefSeq (mRNA)
+   NM_006844
+   NM_176826
+   NM_173751
+   NM_001359301
+   NM_001359302
+   NM_001359303
+   RefSeq (protein)
+   NP_006835
+   NP_776112
+   NP_001346230
+   NP_001346231
+   NP_001346232
+   Location (UCSC) Chr 19: 15.11 - 15.13 Mb Chr 10: 78.57 - 78.58 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   The acetolactate synthase (ALS) enzyme (also known as acetohydroxy acid
+   synthase, or AHAS) is a protein found in plants and micro-organisms.
+   ALS catalyzes the first step in the synthesis of the branched-chain
+   amino acids (valine, leucine, and isoleucine).
+   A human protein of yet unknown function, sharing some sequence
+   similarity with bacterial ALS, is encoded by the ILVBL (ilvB-like)
+   gene.

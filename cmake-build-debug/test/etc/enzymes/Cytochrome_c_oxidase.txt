@@ -1,0 +1,12 @@
+   The enzyme cytochrome c oxidase or Complex IV, EC 1.9.3.1, is a large
+   transmembrane protein complex found in bacteria, archaea, and the
+   mitochondria of eukaryotes.
+   It is the last enzyme in the respiratory electron transport chain of
+   cells located in the membrane. It receives an electron from each of
+   four cytochrome c molecules, and transfers them to one dioxygen
+   molecule, converting the molecular oxygen to two molecules of water. In
+   this process it binds four protons from the inner aqueous phase to make
+   two water molecules, and translocates another four protons across the
+   membrane, increasing the transmembrane difference of proton
+   electrochemical potential which the ATP synthase then uses to
+   synthesize ATP.

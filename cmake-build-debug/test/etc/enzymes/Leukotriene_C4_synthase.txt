@@ -1,0 +1,80 @@
+   4JRZ, 2PNO, 2UUH, 2UUI, 3B29, 3HKK, 3LEO, 3PCV, 4J7T, 4J7Y, 4JC7, 4JCZ,
+   5HV9, 4WAB
+   Identifiers
+   Aliases LTC4S, entrez:4056, Leukotriene C4 synthase
+   External IDs OMIM: 246530 MGI: 107498 HomoloGene: 7406 GeneCards: LTC4S
+          Gene location (Human)
+   Chromosome 5 (human)
+   Chr. Chromosome 5 (human)
+   Chromosome 5 (human)
+   Genomic location for LTC4S
+   Genomic location for LTC4S
+   Band 5q35.3 Start 179,793,980 bp
+                End  179,796,647 bp
+           Gene location (Mouse)
+   Chromosome 11 (mouse)
+   Chr. Chromosome 11 (mouse)
+   Chromosome 11 (mouse)
+   Genomic location for LTC4S
+   Genomic location for LTC4S
+   Band 11|11 B1.3 Start 50,236,461 bp
+                    End  50,238,616 bp
+   Gene ontology
+   Molecular function o leukotriene-C4 synthase activity
+   o glutathione peroxidase activity
+   o GO:0001948 protein binding
+   o lyase activity
+   o GO:0010577 enzyme activator activity
+   o lipid binding
+   o identical protein binding
+   o glutathione transferase activity
+   Cellular component o integral component of membrane
+   o membrane
+   o nuclear envelope
+   o endoplasmic reticulum
+   o nuclear outer membrane
+   o nucleus
+   o intracellular membrane-bounded organelle
+   o endoplasmic reticulum membrane
+   Biological process o GO:0048554 positive regulation of catalytic
+   activity
+   o leukotriene biosynthetic process
+   o cellular oxidant detoxification
+   o leukotriene metabolic process
+   o long-chain fatty acid biosynthetic process
+   o lipoxygenase pathway
+   o lipoxin biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   4056
+   17001
+   Ensembl
+   ENSG00000283887
+   ENSG00000213316
+   ENSMUSG00000020377
+   UniProt
+   Q16873
+   Q60860
+   RefSeq (mRNA)
+   NM_145867
+   NM_008521
+   NM_001313968
+   RefSeq (protein)
+   NP_665874
+   NP_001300897
+   NP_032547
+   Location (UCSC) Chr 5: 179.79 - 179.8 Mb Chr 11: 50.24 - 50.24 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Leukotriene C4 synthase is an enzyme that in humans is encoded by the
+   LTC4S gene.
+   The protein encoded by this gene, LTC4S (or glutathione S-transferase
+   II) is an enzyme that converts leukotriene A4 and glutathione to create
+   leukotriene C4. This is a member of MAPEG family of transmembrane
+   proteins. A trimer of Leukotriene C4 synthase is localized on the outer
+   nuclear membrane and endoplasmic reticulum, where it forms a complex
+   with 5-Lipoxygenase-activating protein. This protein is remotely
+   related to microsomal glutathione S-transferase.

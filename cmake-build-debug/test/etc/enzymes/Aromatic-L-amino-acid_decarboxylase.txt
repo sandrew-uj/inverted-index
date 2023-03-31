@@ -1,0 +1,3 @@
+   Aromatic L-amino acid decarboxylase (AADC or AAAD), also known as DOPA
+   decarboxylase (DDC), tryptophan decarboxylase, and 5-hydroxytryptophan
+   decarboxylase, is a lyase enzyme (EC 4.1.1.28).

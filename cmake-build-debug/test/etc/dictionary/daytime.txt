@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: the period of ambient light between sunrise
+Sense: the period of ambient light between sunrise and sunset

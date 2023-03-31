@@ -1,0 +1,7 @@
+   In enzymology, an iron--cytochrome-c reductase (created 1972 as EC
+   1.9.99.1, transferred 2014 to EC 1.9.98.1) is an enzyme that catalyzes
+   the chemical reaction
+          ferrocytochrome c + Fe^3+
+           ferricytochrome c + Fe^2+
+   Thus, the two substrates of this enzyme are ferrocytochrome c and
+   Fe^3+, whereas its two products are ferricytochrome c and Fe^2+.

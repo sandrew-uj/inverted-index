@@ -1,0 +1,91 @@
+   1CXP, 1D2V, 1D5L, 1D7W, 1DNU, 1DNW, 1MHL, 1MYP, 3F9P, 3ZS0, 3ZS1, 4DL1,
+   4EJX, 4C1M, 5FIW
+   Identifiers
+   Aliases MPO, myeloperoxidase
+   External IDs OMIM: 606989 MGI: 97137 HomoloGene: 55450 GeneCards: MPO
+         Gene location (Human)
+   Chromosome 17 (human)
+   Chr. Chromosome 17 (human)
+   Chromosome 17 (human)
+   Genomic location for MPO
+   Genomic location for MPO
+   Band 17q22 Start 58,269,855 bp
+               End  58,280,935 bp
+              Gene location (Mouse)
+   Chromosome 11 (mouse)
+   Chr. Chromosome 11 (mouse)
+   Chromosome 11 (mouse)
+   Genomic location for MPO
+   Genomic location for MPO
+   Band 11 52.22 cM|11 C Start 87,793,581 bp
+                          End  87,804,413 bp
+   Gene ontology
+   Molecular function o metal ion binding
+   o heme binding
+   o heparin binding
+   o chromatin binding
+   o oxidoreductase activity
+   o peroxidase activity
+   Cellular component o mitochondrion
+   o lysosome
+   o secretory granule
+   o azurophil granule
+   o extracellular exosome
+   o nucleus
+   o extracellular region
+   o extracellular space
+   o azurophil granule lumen
+   o intracellular membrane-bounded organelle
+   o cytoplasm
+   o phagocytic vesicle lumen
+   Biological process o low-density lipoprotein particle remodeling
+   o defense response to fungus
+   o response to mechanical stimulus
+   o removal of superoxide radicals
+   o hypochlorous acid biosynthetic process
+   o negative regulation of apoptotic process
+   o response to lipopolysaccharide
+   o response to gold nanoparticle
+   o response to yeast
+   o hydrogen peroxide catabolic process
+   o response to oxidative stress
+   o aging
+   o response to food
+   o respiratory burst involved in defense response
+   o defense response
+   o defense response to bacterium
+   o neutrophil degranulation
+   o cell redox homeostasis
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   4353
+   17523
+   Ensembl
+   ENSG00000005381
+   ENSMUSG00000009350
+   UniProt
+   P05164
+   P11247
+   RefSeq (mRNA)
+   NM_000250
+   NM_010824
+   RefSeq (protein)
+   NP_000241
+   NP_034954
+   Location (UCSC) Chr 17: 58.27 - 58.28 Mb Chr 11: 87.79 - 87.8 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Myeloperoxidase (MPO) is a peroxidase enzyme that in humans is encoded
+   by the MPO gene on chromosome 17. MPO is most abundantly expressed
+   in neutrophil granulocytes (a subtype of white blood cells), and
+   produces hypohalous acids to carry out their antimicrobial activity,
+   including hypochlorous acid, the sodium salt of which is the chemical
+   in bleach. It is a lysosomal protein stored in azurophilic
+   granules of the neutrophil and released into the extracellular space
+   during degranulation. Neutrophil myeloperoxidase has a heme
+   pigment, which causes its green color in secretions rich in
+   neutrophils, such as mucus and sputum. The green color contributed
+   to its outdated name verdoperoxidase.

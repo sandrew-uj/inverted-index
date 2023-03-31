@@ -1,0 +1,14 @@
+   In enzymology, a chalcone isomerase (EC 5.5.1.6) is an enzyme that
+   catalyzes the chemical reaction
+          a chalcone
+           a flavanone
+   Hence, this enzyme has one substrate, a chalcone, and one product, a
+   flavanone.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   flavanone lyase (decyclizing). This enzyme is also called
+   chalcone-flavanone isomerase. This enzyme participates in flavonoid
+   biosynthesis.
+   The Petunia hybrida (Petunia) genome contains two genes coding for very
+   similar enzymes, ChiA and ChiB, but only the first seems to encode a
+   functional chalcone isomerase.

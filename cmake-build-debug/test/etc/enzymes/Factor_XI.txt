@@ -1,0 +1,78 @@
+   1XX9, 1XXD, 1XXF, 1ZHM, 1ZHP, 1ZHR, 1ZJD, 1ZLR, 1ZMJ, 1ZML, 1ZMN, 1ZOM,
+   1ZPB, 1ZPC, 1ZPZ, 1ZRK, 1ZSJ, 1ZSK, 1ZSL, 1ZTJ, 1ZTK, 1ZTL, 2F83, 2FDA,
+   2J8J, 2J8L, 3BG8, 3SOR, 3SOS, 4CR5, 4CR9, 4CRA, 4CRB, 4CRC, 4CRD, 4CRE,
+   4CRF, 4CRG, 4NA7, 4NA8, 4TY6, 4TY7, 4WXI, 4X6M, 4X6N, 4X6O, 4X6P, 4Y8X,
+   4Y8Y, 4Y8Z, 4D7F, 5E2O, 5E2P, 4D76, 4D7G, 5EXL, 5I25, 5EXM, 5EOD, 5EXN,
+   5EOK
+   Identifiers
+   Aliases F11, FXI, coagulation factor XI, PTA
+   External IDs OMIM: 264900 MGI: 99481 HomoloGene: 86654 GeneCards: F11
+          Gene location (Human)
+   Chromosome 4 (human)
+   Chr. Chromosome 4 (human)
+   Chromosome 4 (human)
+   Genomic location for F11
+   Genomic location for F11
+   Band 4q35.2 Start 186,266,189 bp
+                End  186,289,681 bp
+               Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for F11
+   Genomic location for F11
+   Band 8 B1.1|8 25.14 cM Start 45,241,174 bp
+                           End  45,262,031 bp
+      RNA expression pattern
+   PBB GE F11 206610 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o serine-type aminopeptidase activity
+   o peptidase activity
+   o heparin binding
+   o serine-type endopeptidase activity
+   o serine-type peptidase activity
+   o GO:0001948 protein binding
+   o hydrolase activity
+   o identical protein binding
+   Cellular component o extracellular region
+   o cell membrane
+   o extracellular exosome
+   o membrane
+   o extracellular space
+   Biological process o hemostasis
+   o blood coagulation, intrinsic pathway
+   o plasminogen activation
+   o regulation of blood coagulation
+   o proteolysis
+   o positive regulation of fibrinolysis
+   o blood coagulation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2160
+   109821
+   Ensembl
+   ENSG00000088926
+   ENSMUSG00000031645
+   UniProt
+   P03951
+   Q91Y47
+   RefSeq (mRNA)
+   NM_000128
+   NM_019559
+   NM_001354804
+   NM_028066
+   RefSeq (protein)
+   NP_000119
+   NP_001341733
+   NP_082342
+   Location (UCSC) Chr 4: 186.27 - 186.29 Mb Chr 8: 45.24 - 45.26 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Factor XI or plasma thromboplastin antecedent is the zymogen form of
+   factor XIa, one of the enzymes of the coagulation cascade. Like many
+   other coagulation factors, it is a serine protease. In humans, Factor
+   XI is encoded by the F11 gene.

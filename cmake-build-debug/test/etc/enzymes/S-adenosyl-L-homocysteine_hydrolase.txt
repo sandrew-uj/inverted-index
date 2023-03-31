@@ -1,0 +1,16 @@
+   S-adenosyl-L-homocysteine hydrolase (EC 3.3.1.1) (AdoHcyase) is an
+   enzyme of the activated methyl cycle, responsible for the reversible
+   hydration of S-adenosyl-L-homocysteine into adenosine and homocysteine.
+   AdoHcyase is a ubiquitous enzyme which binds and requires NAD^+ as a
+   cofactor. AdoHcyase is a highly conserved protein of about 430 to
+   470 amino acids. The family contains a glycine-rich region in the
+   central part of AdoHcyase; a region thought to be involved in
+   NAD-binding.
+   AdoHcyase is significantly associated with adenosine deaminase
+   deficiency, which classically manifests in severe combine
+   immunodeficiency (SCID). Accumulated adenosine derivatives, dATPs,
+   irreversibly bind to and inhibit AdoHcyase, promoting the buildup of
+   S-adenosyl-L-homocystine (due to equilibrium constant favors
+   S-adenosyl-L-homocystine), a potent inhibitor of methyl transfer
+   reactions.
+   This protein may use the morpheein model of allosteric regulation.

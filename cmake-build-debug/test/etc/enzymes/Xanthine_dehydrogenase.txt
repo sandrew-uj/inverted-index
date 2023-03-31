@@ -1,0 +1,104 @@
+   2CKJ, 2E1Q
+   Identifiers
+   Aliases XDH, XO, XOR, xanthine dehydrogenase, XAN1
+   External IDs OMIM: 607633 MGI: 98973 HomoloGene: 324 GeneCards: XDH
+         Gene location (Human)
+   Chromosome 2 (human)
+   Chr. Chromosome 2 (human)
+   Chromosome 2 (human)
+   Genomic location for XDH
+   Genomic location for XDH
+   Band 2p23.1 Start 31,334,321 bp
+                End  31,414,742 bp
+               Gene location (Mouse)
+   Chromosome 17 (mouse)
+   Chr. Chromosome 17 (mouse)
+   Chromosome 17 (mouse)
+   Genomic location for XDH
+   Genomic location for XDH
+   Band 17 E2|17 45.25 cM Start 73,883,895 bp
+                           End  73,950,196 bp
+      RNA expression pattern
+   PBB GE XDH 210301 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o iron ion binding
+   o protein homodimerization activity
+   o xanthine oxidase activity
+   o flavin adenine dinucleotide binding
+   o oxidoreductase activity, acting on CH-OH group of donors
+   o iron-sulfur cluster binding
+   o metal ion binding
+   o catalytic activity
+   o molybdopterin cofactor binding
+   o electron transfer activity
+   o xanthine dehydrogenase activity
+   o oxidoreductase activity
+   o 2 iron, 2 sulfur cluster binding
+   o oxidoreductase activity, acting on the aldehyde or oxo group of
+   donors
+   o FAD binding
+   Cellular component o cytoplasm
+   o cytosol
+   o peroxisome
+   o sarcoplasmic reticulum
+   o extracellular region
+   o extracellular space
+   Biological process o positive regulation of p38MAPK cascade
+   o negative regulation of protein phosphorylation
+   o negative regulation of protein kinase B signaling
+   o purine nucleotide catabolic process
+   o negative regulation of endothelial cell differentiation
+   o negative regulation of gene expression
+   o negative regulation of endothelial cell proliferation
+   o positive regulation of reactive oxygen species metabolic process
+   o negative regulation of vasculogenesis
+   o negative regulation of vascular endothelial growth factor signaling
+   pathway
+   o lactation
+   o regulation of epithelial cell differentiation
+   o xanthine catabolic process
+   o activation of cysteine-type endopeptidase activity involved in
+   apoptotic process
+   o electron transport chain
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   7498
+   22436
+   Ensembl
+   ENSG00000158125
+   ENSMUSG00000024066
+   UniProt
+   P47989
+   Q00519
+   RefSeq (mRNA)
+   NM_000379
+   NM_011723
+   RefSeq (protein)
+   NP_000370
+   NP_035853
+   Location (UCSC) Chr 2: 31.33 - 31.41 Mb Chr 17: 73.88 - 73.95 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   xanthine dehydrogenase
+   Identifiers
+   EC no. 1.17.1.4
+   CAS no. 9054-84-6
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Xanthine dehydrogenase, also known as XDH, is a protein that, in
+   humans, is encoded by the XDH gene.

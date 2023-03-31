@@ -1,0 +1,12 @@
+   Prolyl isomerase (also known as peptidylprolyl isomerase or PPIase) is
+   an enzyme (EC 5.2.1.8) found in both prokaryotes and eukaryotes that
+   interconverts the cis and trans isomers of peptide bonds with the amino
+   acid proline. Proline has an unusually conformationally restrained
+   peptide bond due to its cyclic structure with its side chain bonded to
+   its secondary amine nitrogen. Most amino acids have a strong energetic
+   preference for the trans peptide bond conformation due to steric
+   hindrance, but proline's unusual structure stabilizes the cis form so
+   that both isomers are populated under biologically relevant conditions.
+   Proteins with prolyl isomerase activity include cyclophilin, FKBPs, and
+   parvulin, although larger proteins can also contain prolyl isomerase
+   domains.

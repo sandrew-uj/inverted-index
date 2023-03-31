@@ -1,0 +1,162 @@
+   1A2C, 1A3B, 1A3E, 1ABI, 1ABJ, 1AD8, 1AE8, 1AI8, 1AIX, 1AWF, 1AWH, 1AY6,
+   1B5G, 1B7X, 1BA8, 1BB0, 1BCU, 1BHX, 1BMM, 1BMN, 1BTH, 1C1U, 1C1V, 1C1W,
+   1C4U, 1C4V, 1C4Y, 1C5L, 1C5N, 1C5O, 1CA8, 1D3D, 1D3P, 1D3Q, 1D3T, 1D4P,
+   1D6W, 1D9I, 1DE7, 1DIT, 1DM4, 1DOJ, 1DWB, 1DWC, 1DWD, 1DX5, 1E0F, 1EB1,
+   1EOJ, 1EOL, 1FPC, 1G30, 1G32, 1G37, 1GHV, 1GHW, 1GHX, 1GHY, 1GJ4, 1GJ5,
+   1H8D, 1H8I, 1HAI, 1HAO, 1HAP, 1HBT, 1HLT, 1HUT, 1HXE, 1HXF, 1IHS, 1JMO,
+   1JOU, 1JWT, 1K21, 1K22, 1KTS, 1KTT, 1LHC, 1LHD, 1LHE, 1LHF, 1LHG, 1MH0,
+   1MU6, 1MU8, 1MUE, 1NM6, 1NRN, 1NRO, 1NRP, 1NRQ, 1NRR, 1NRS, 1NT1, 1NU7,
+   1NU9, 1NY2, 1NZQ, 1O0D, 1O2G, 1O5G, 1OOK, 1OYT, 1P8V, 1PPB, 1QBV, 1QHR,
+   1QJ1, 1QJ6, 1QJ7, 1QUR, 1RD3, 1RIW, 1SB1, 1SFQ, 1SG8, 1SGI, 1SHH, 1SL3,
+   1SR5, 1T4U, 1T4V, 1TA2, 1TA6, 1TB6, 1THP, 1THR, 1THS, 1TMB, 1TMU, 1TOM,
+   1TQ0, 1TQ7, 1TWX, 1UVS, 1VR1, 1VZQ, 1W7G, 1WAY, 1WBG, 1XM1, 1XMN, 1YPE,
+   1YPG, 1YPJ, 1YPK, 1YPL, 1YPM, 1Z71, 1Z8I, 1Z8J, 1ZGI, 1ZGV, 1ZRB, 2A0Q,
+   2A2X, 2A45, 2AFQ, 2ANK, 2ANM, 2B5T, 2BDY, 2BVR, 2BVS, 2BVX, 2BXT, 2BXU,
+   2C8Y, 2FEQ, 2FES, 2GDE, 2GP9, 2H9T, 2HGT, 2HNT, 2HPP, 2HPQ, 2HWL, 2JH0,
+   2JH6, 2OD3, 2PGB, 2PGQ, 2PW8, 2R2M, 2THF, 2ZFQ, 2ZFR, 2ZG0, 2ZHE, 2ZHF,
+   2ZHW, 2ZI2, 2ZIQ, 2ZNK, 2ZO3, 3B23, 3B9F, 3BEF, 3BEI, 3BF6, 3BIU, 3BIV,
+   3BV9, 3C1K, 3C27, 3D49, 3DA9, 3DD2, 3DT0, 3DUX, 3E6P, 3EE0, 3EQ0, 3F68,
+   3GIC, 3GIS, 3HAT, 3HKJ, 3HTC, 3JZ2, 3LDX, 3LU9, 3NXP, 3P17, 3P6Z, 3P70,
+   3PO1, 3QGN, 3QLP, 3QTO, 3QTV, 3QWC, 3QX5, 3R3G, 3RLW, 3RLY, 3RM0, 3RM2,
+   3RML, 3RMM, 3RMN, 3RMO, 3S7H, 3S7K, 3SHA, 3SHC, 3SI3, 3SI4, 3SQE, 3SQH,
+   3SV2, 3T5F, 3TU7, 3U69, 3U8O, 3U8R, 3U8T, 3U98, 3U9A, 3UTU, 3UWJ, 3VXE,
+   3VXF, 4BAH, 4BAK, 4BAM, 4BAN, 4BAO, 4BAQ, 4BOH, 4DIH, 4DII, 4DT7, 4DY7,
+   4E05, 4E06, 4E7R, 4H6S, 4H6T, 4HFP, 4HTC, 4THN, 5GDS, 7KME, 8KME, 1A46,
+   1A4W, 1A5G, 1A61, 1AFE, 1AHT, 1DWE, 1FPH, 1HAG, 1HAH, 1HDT, 1HGT, 1IHT,
+   1NO9, 1TBZ, 1TMT, 1UMA, 2C8W, 2C8X, 2C8Z, 2C90, 2C93, 2CF8, 2CF9, 2CN0,
+   2JH5, 2PKS, 2UUF, 2UUJ, 2UUK, 2V3H, 2V3O, 2ZC9, 2ZDA, 2ZDV, 2ZF0, 2ZFF,
+   2ZFP, 2ZGB, 2ZGX, 2ZHQ, 3DHK, 3EGK, 3JZ1, 3K65, 3PMH, 3QDZ, 4AX9, 4AYV,
+   4AYY, 4AZ2, 4CH2, 4CH8, 4HZH, 4I7Y, 4LOY, 4LXB, 4LZ1, 4LZ4, 4MLF, 4N3L,
+   4NZE, 4NZQ, 4O03, 4RKJ, 4RKO, 4RN6, 4YES, 4UD9, 4UDW, 4UE7, 4UEH, 5AF9,
+   5AFY, 5AFZ, 5AHG, 5CMX, 4UFD, 5EDM, 5E8E, 5EDK, 4UFE, 4UFG, 4UFF, 5A2M,
+   5JDU
+   Identifiers
+   Aliases F2, PT, RPRGL2, THPH1, coagulation factor II, thrombin
+   External IDs OMIM: 176930 MGI: 88380 HomoloGene: 426 GeneCards: F2
+          Gene location (Human)
+   Chromosome 11 (human)
+   Chr. Chromosome 11 (human)
+   Chromosome 11 (human)
+   Genomic location for F2
+   Genomic location for F2
+   Band 11p11.2 Start 46,719,196 bp
+                 End  46,739,506 bp
+              Gene location (Mouse)
+   Chromosome 2 (mouse)
+   Chr. Chromosome 2 (mouse)
+   Chromosome 2 (mouse)
+   Genomic location for F2
+   Genomic location for F2
+   Band 2 E1|2 50.63 cM Start 91,625,320 bp
+                         End  91,636,414 bp
+      RNA expression pattern
+   PBB GE F2 205754 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o calcium ion binding
+   o signaling receptor binding
+   o peptidase activity
+   o hydrolase activity
+   o growth factor activity
+   o serine-type peptidase activity
+   o thrombospondin receptor activity
+   o GO:0001948 protein binding
+   o serine-type endopeptidase activity
+   o lipopolysaccharide binding
+   o heparin binding
+   o GO:0010577 enzyme activator activity
+   Cellular component o extracellular exosome
+   o blood microparticle
+   o endoplasmic reticulum lumen
+   o Golgi lumen
+   o cell membrane
+   o extracellular region
+   o extracellular space
+   o external side of plasma membrane
+   o collagen-containing extracellular matrix
+   Biological process o blood coagulation, intrinsic pathway
+   o regulation of blood coagulation
+   o positive regulation of phosphatidylinositol 3-kinase signaling
+   o positive regulation of collagen biosynthetic process
+   o multicellular organism development
+   o peptidyl-glutamic acid carboxylation
+   o cellular protein metabolic process
+   o acute-phase response
+   o positive regulation of reactive oxygen species metabolic process
+   o endoplasmic reticulum to Golgi vesicle-mediated transport
+   o positive regulation of cell growth
+   o cell surface receptor signaling pathway
+   o regulation of gene expression
+   o positive regulation of release of sequestered calcium ion into
+   cytosol
+   o positive regulation of cell population proliferation
+   o leukocyte migration
+   o negative regulation of fibrinolysis
+   o positive regulation of blood coagulation
+   o regulation of cytosolic calcium ion concentration
+   o response to wounding
+   o signal peptide processing
+   o positive regulation of phospholipase C-activating G protein-coupled
+   receptor signaling pathway
+   o regulation of cell shape
+   o hemostasis
+   o negative regulation of proteolysis
+   o negative regulation of platelet activation
+   o negative regulation of astrocyte differentiation
+   o positive regulation of protein phosphorylation
+   o fibrinolysis
+   o blood coagulation
+   o proteolysis
+   o platelet activation
+   o positive regulation of protein localization to nucleus
+   o positive regulation of lipid kinase activity
+   o regulation of complement activation
+   o antimicrobial humoral immune response mediated by antimicrobial
+   peptide
+   o negative regulation of cytokine production involved in inflammatory
+   response
+   o regulation of signaling receptor activity
+   o G protein-coupled receptor signaling pathway
+   o positive regulation of receptor signaling pathway via JAK-STAT
+   o blood coagulation, fibrin clot formation
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2147
+   14061
+   Ensembl
+   ENSG00000180210
+   ENSMUSG00000027249
+   UniProt
+   P00734
+   P19221
+   RefSeq (mRNA)
+   NM_000506
+   NM_001311257
+   NM_010168
+   RefSeq (protein)
+   NP_000497
+   NP_034298
+   Location (UCSC) Chr 11: 46.72 - 46.74 Mb Chr 2: 91.63 - 91.64 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Schematic diagram of the blood coagulation and protein C pathways. In
+   the blood coagulation pathway, thrombin acts to convert factor XI to
+   XIa, VIII to VIIIa V to Va, fibrinogen to fibrin. In addition, thrombin
+   promotes platelet activation and aggregation via activation of
+   protease-activated receptors on the cell membrane of the platelet.
+   Thrombin also cross over into the protein C pathway by converting
+   protein C into APC. APC in turn converts factor V into Vi, and VIIIa
+   into VIIIi. Finally APC activates PAR-1 and EPCR.
+   Role of thrombin in the blood coagulation cascade
+   Thrombin (EC 3.4.21.5, fibrinogenase, thrombase, thrombofort, topical,
+   thrombin-C, tropostasin, activated blood-coagulation factor II,
+   blood-coagulation factor IIa, factor IIa, E thrombin, beta-thrombin,
+   gamma-thrombin) is a serine protease, an enzyme that, in humans, is
+   encoded by the F2 gene. Prothrombin (coagulation factor II) is
+   proteolytically cleaved to form thrombin in the clotting process.
+   Thrombin in turn acts as a serine protease that converts soluble
+   fibrinogen into insoluble strands of fibrin, as well as catalyzing many
+   other coagulation-related reactions.

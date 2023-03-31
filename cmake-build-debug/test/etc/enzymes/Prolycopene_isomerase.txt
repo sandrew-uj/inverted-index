@@ -1,0 +1,8 @@
+   Prolycopene isomerase (EC 5.2.1.13, CRTISO, carotene cis-trans
+   isomerase, ZEBRA2 (gene), carotene isomerase, carotenoid isomerase) is
+   an enzyme with systematic name 7,9,7',9'-tetracis-lycopene
+   cis-trans-isomerase. This enzyme catalyses the
+   following chemical reaction
+          7,9,7',9'-tetracis-lycopene
+           all-trans-lycopene
+   This enzyme is involved in carotenoid biosynthesis.

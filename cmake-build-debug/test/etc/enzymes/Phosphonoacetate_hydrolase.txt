@@ -1,0 +1,10 @@
+   In enzymology, a phosphonoacetate hydrolase (EC 3.11.1.2) is an enzyme
+   that catalyzes the chemical reaction
+          phosphonoacetate + H[2]O
+           acetate + phosphate
+   Thus, the two substrates of this enzyme are phosphonoacetate and H[2]O,
+   whereas its two products are acetate and phosphate.
+   This enzyme belongs to the family of hydrolases, specifically those
+   acting on carbon-phosphorus bonds. The systematic name of this enzyme
+   class is phosphonoacetate phosphonohydrolase. This enzyme participates
+   in aminophosphonate metabolism. It employs one cofactor, zinc.

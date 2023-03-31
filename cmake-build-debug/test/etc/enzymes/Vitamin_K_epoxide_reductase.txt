@@ -1,0 +1,21 @@
+   Vitamin K epoxide reductase (VKOR) is an enzyme (EC 1.17.4.4) that
+   reduces vitamin K after it has been oxidised in the carboxylation of
+   glutamic acid residues in blood coagulation enzymes. VKOR is a member
+   of a large family of predicted enzymes that are present in vertebrates,
+   Drosophila, plants, bacteria and archaea. In some plant and
+   bacterial homologues, the VKOR domain is fused with domains of the
+   thioredoxin family of oxidoreductases.
+   Four cysteine residues and one residue, which is either serine or
+   threonine, are identified as likely active-site residues. Solved
+   bacterial VKOR structures has enabled more insights into the catalytic
+   mechanism. All VKORs are transmembrane proteins with at least three TM
+   helices at the catalytic core. The quinone to be reduced is bound by a
+   redox-active CXXC motif in the C-terminal helices, similar to the DsbB
+   active site. Two other cysteines to the N-terminal are located in a
+   loop outside of the transmembrane region; they relay electrons with a
+   redox protein (or in the case of the bacterial homolog, its own fused
+   domain).
+   The human gene for VKOR is called VKORC1 (VKOR complex subunit 1). It
+   is the target of anticoagulant warfarin. Its partner is a redox protein
+   with an unknown identity. There is also a similar gene called
+   VKORC1L1.

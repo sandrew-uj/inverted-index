@@ -1,0 +1,22 @@
+   Image of the gamma subunit in caffeine dehydrogenase
+   Identifiers
+   EC no. 1.17.5.2
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Caffeine dehydrogenase, commonly referred to in scientific literature
+   as caffeine oxidase, (EC 1.17.5.2) is an enzyme with the systematic
+   name caffeine:ubiquinone oxidoreductase. The enzyme is most well
+   known for its ability to directly oxidize caffeine, a type of
+   methylxanthine, to trimethyluric acid. Caffeine dehydrogenase can
+   be found in bacterium Pseudomonas sp. CBB1 and in several species
+   within the genera Alcaligenes, Rhodococcus, and Klebsiella.

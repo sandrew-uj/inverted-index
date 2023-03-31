@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: the distance measured along the longest
+Sense: the distance measured along the longest dimension of an object

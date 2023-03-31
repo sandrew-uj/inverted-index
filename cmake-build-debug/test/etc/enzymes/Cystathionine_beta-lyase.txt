@@ -1,0 +1,18 @@
+   Cystathionine beta-lyase (EC 4.4.1.8), also commonly referred to as CBL
+   or b-cystathionase, is an enzyme that primarily catalyzes the following
+   a,b-elimination reaction
+   Reaction catalyzed by cystathionine beta-lyase
+   Thus, the substrate of this enzyme is L-cystathionine, whereas its 3
+   products are homocysteine, pyruvate, and ammonia.
+   Found in plants, bacteria, and yeast, cystathionine beta-lyase is an
+   essential part of the methionine biosynthesis pathway as homocysteine
+   can be directly converted into methionine by methionine
+   synthase. The enzyme belongs to the g-family of
+   PLP-dependent enzymes due to its use of a pyridoxal-5'-phosphate (PLP)
+   cofactor to cleave cystathionine. The enzyme also belongs to the
+   family of lyases, specifically the class of carbon-sulfur lyases. The
+   systematic name of this enzyme class is L-cystathionine
+   L-homocysteine-lyase (deaminating; pyruvate-forming). This enzyme
+   participates in 5 metabolic pathways: methionine metabolism, cysteine
+   metabolism, selenoamino acid metabolism, nitrogen metabolism, and
+   sulfur metabolism.

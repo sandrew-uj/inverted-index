@@ -1,0 +1,10 @@
+   In biochemistry, a lyase is an enzyme that catalyzes the breaking (an
+   "elimination" reaction) of various chemical bonds by means other than
+   hydrolysis (a "substitution" reaction) and oxidation, often forming a
+   new double bond or a new ring structure. The reverse reaction is also
+   possible (called a "Michael addition"). For example, an enzyme that
+   catalyzed this reaction would be a lyase:
+          ATP -> cAMP + PP[i]
+   Lyases differ from other enzymes in that they require only one
+   substrate for the reaction in one direction, but two substrates for the
+   reverse reaction.

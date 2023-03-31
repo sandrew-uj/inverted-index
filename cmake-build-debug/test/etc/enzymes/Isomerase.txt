@@ -1,0 +1,10 @@
+   Isomerases are a general class of enzymes that convert a molecule from
+   one isomer to another. Isomerases facilitate intramolecular
+   rearrangements in which bonds are broken and formed. The general form
+   of such a reaction is as follows:
+   A-B -> B-A
+   There is only one substrate yielding one product. This product has the
+   same molecular formula as the substrate but differs in bond
+   connectivity or spatial arrangement. Isomerases catalyze reactions
+   across many biological processes, such as in glycolysis and
+   carbohydrate metabolism.

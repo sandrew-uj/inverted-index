@@ -1,0 +1,68 @@
+   2PBC, 4NNR
+   Identifiers
+   Aliases FKBP2, FKBP-13, PPIase, FK506 binding protein 2, FKBP prolyl
+   isomerase 2, FKBP13
+   External IDs OMIM: 186946 MGI: 95542 HomoloGene: 40604 GeneCards: FKBP2
+          Gene location (Human)
+   Chromosome 11 (human)
+   Chr. Chromosome 11 (human)
+   Chromosome 11 (human)
+   Genomic location for FKBP2
+   Genomic location for FKBP2
+   Band 11q13.1 Start 64,241,003 bp
+                 End  64,244,134 bp
+         Gene location (Mouse)
+   Chromosome 19 (mouse)
+   Chr. Chromosome 19 (mouse)
+   Chromosome 19 (mouse)
+   Genomic location for FKBP2
+   Genomic location for FKBP2
+   Band 19|19 A Start 6,977,741 bp
+                 End  6,980,501 bp
+      RNA expression pattern
+   PBB GE FKBP2 203391 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o FK506 binding
+   o GO:0001948 protein binding
+   o isomerase activity
+   o peptidyl-prolyl cis-trans isomerase activity
+   Cellular component o membrane
+   o endoplasmic reticulum
+   o endoplasmic reticulum membrane
+   Biological process o chaperone-mediated protein folding
+   o protein peptidyl-prolyl isomerization
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   2286
+   14227
+   Ensembl
+   ENSG00000173486
+   ENSMUSG00000056629
+   UniProt
+   P26885
+   P45878
+   RefSeq (mRNA)
+   NM_001135208
+   NM_004470
+   NM_057092
+   NM_001166368
+   NM_008020
+   NM_001360286
+   NM_001360288
+   RefSeq (protein)
+   NP_001128680
+   NP_004461
+   NP_476433
+   NP_001159840
+   NP_032046
+   NP_001347215
+   NP_001347217
+   Location (UCSC) Chr 11: 64.24 - 64.24 Mb Chr 19: 6.98 - 6.98 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   FK506-binding protein 2 is a protein that in humans is encoded by the
+   FKBP2 gene.

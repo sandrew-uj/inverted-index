@@ -1,0 +1,7 @@
+   Sarcosine oxidase is an enzyme (EC 1.5.3.1) that catalyzes the
+   oxidative demethylation of sarcosine to yield glycine, H[2]O[2],
+   5,10-CH[2]-tetrahydrofolate in a reaction requiring
+   H[4]-tetrahydrofolate and oxygen. Corynebacterial sarcosine oxidase is
+   a heterotetramer and is produced as an inducible enzyme when
+   Corynebacterium sp.is grown with sarcosine as source of carbon and
+   energy.

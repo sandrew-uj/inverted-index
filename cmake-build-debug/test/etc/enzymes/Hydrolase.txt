@@ -1,0 +1,25 @@
+   Hydrolase is a class of enzyme that commonly perform as biochemical
+   catalysts that use water to break a chemical bond, which typically
+   results in dividing a larger molecule into smaller molecules. Some
+   common examples of hydrolase enzymes are esterases including lipases,
+   phosphatases, glycosidases, peptidases, and nucleosidases.
+   Esterases cleave ester bonds in lipids and phosphatases cleave
+   phosphate groups off molecules. An example of crucial esterase is
+   acetylcholine esterase, which assists in transforming the neuron
+   impulse into acetic acid after it the hydrolase breaks the
+   acetylcholine into choline and acetic acid. Acetic acid is an
+   important metabolite in the body and a critical intermediate for other
+   reactions such as glycolysis. Lipases hydrolyze glycerides.
+   Glycosidases cleave sugar molecules off carbohydrates and peptidases
+   hydrolyze peptide bonds. Nucleosidases hydrolyze the bonds of
+   nucleotides.
+   Hydrolase enzymes are important for the body because they have
+   degradative properties. In lipids, lipases contribute to the breakdown
+   of fats and lipoproteins and other larger molecules into smaller
+   molecules like fatty acids and glycerol. Fatty acids and other small
+   molecules are used for synthesis and as a source of energy.
+   In biochemistry, a hydrolase is an enzyme that catalyzes the hydrolysis
+   of a chemical bond. For example, any enzyme that catalyzes the
+   following reaction is a hydrolase:
+          A-B + H[2]O -> A-OH + B-H
+   where A- B represents a chemical bond of unspecified molecules.

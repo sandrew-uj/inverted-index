@@ -1,0 +1,30 @@
+   Endonucleases are enzymes that cleave the phosphodiester bond within a
+   polynucleotide chain. Some, such as deoxyribonuclease I, cut DNA
+   relatively nonspecifically (without regard to sequence), while many,
+   typically called restriction endonucleases or restriction enzymes,
+   cleave only at very specific nucleotide sequences. Endonucleases differ
+   from exonucleases, which cleave the ends of recognition sequences
+   instead of the middle (endo) portion. Some enzymes known as
+   "exo-endonucleases", however, are not limited to either nuclease
+   function, displaying qualities that are both endo- and exo-like.
+   Evidence suggests that endonuclease activity experiences a lag compared
+   to exonuclease activity.
+   Restriction enzymes are endonucleases from eubacteria and archaea that
+   recognize a specific DNA sequence. The nucleotide sequence
+   recognized for cleavage by a restriction enzyme is called the
+   restriction site. Typically, a restriction site will be a palindromic
+   sequence about four to six nucleotides long. Most restriction
+   endonucleases cleave the DNA strand unevenly, leaving complementary
+   single-stranded ends. These ends can reconnect through hybridization
+   and are termed "sticky ends". Once paired, the phosphodiester bonds of
+   the fragments can be joined by DNA ligase. There are hundreds of
+   restriction endonucleases known, each attacking a different restriction
+   site. The DNA fragments cleaved by the same endonuclease can be joined
+   together regardless of the origin of the DNA. Such DNA is called
+   recombinant DNA; DNA formed by the joining of genes into new
+   combinations. Restriction endonucleases (restriction enzymes) are
+   divided into three categories, Type I, Type II, and Type III, according
+   to their mechanism of action. These enzymes are often used in genetic
+   engineering to make recombinant DNA for introduction into bacterial,
+   plant, or animal cells, as well as in synthetic biology. One of the
+   more famous endonucleases is Cas9.

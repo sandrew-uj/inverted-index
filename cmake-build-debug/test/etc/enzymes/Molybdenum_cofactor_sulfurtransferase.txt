@@ -1,0 +1,8 @@
+   Molybdenum cofactor sulfurtransferase (EC 2.8.1.9, molybdenum cofactor
+   sulfurase, ABA3, MoCo sulfurase, MoCo sulfurtransferase) is an enzyme
+   with systematic name L-cysteine:molybdenum cofactor
+   sulfurtransferase. This enzyme catalyses the following
+   chemical reaction
+          molybdenum cofactor + L-cysteine + 2 H^+
+           thio-molybdenum cofactor + L-alanine + H[2]O
+   This enzyme contains pyridoxal phosphate.

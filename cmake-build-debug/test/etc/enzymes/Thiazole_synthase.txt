@@ -1,0 +1,10 @@
+   Thiazole synthase (EC 2.8.1.10, thiG (gene)) is an enzyme with
+   systematic name 1-deoxy-D-xylulose 5-phosphate:thiol
+   sulfurtransferase. This enzyme catalyses the
+   following chemical reaction
+          1-deoxy-D-xylulose 5-phosphate + 2-iminoacetate +
+          thiocarboxy-adenylate-[sulfur-carrier protein ThiS]
+          
+          2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl
+          phosphate + [sulfur-carrier protein ThiS] + 2 H[2]O
+   H[2]S can provide the sulfur in vitro.

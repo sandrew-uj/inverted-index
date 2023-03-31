@@ -1,0 +1,13 @@
+   Laccases (EC 1.10.3.2) are multicopper oxidases found in plants, fungi,
+   and bacteria. Laccases oxidize a variety of phenolic substrates,
+   performing one-electron oxidations, leading to crosslinking. For
+   example, laccases play a role in the formation of lignin by promoting
+   the oxidative coupling of monolignols, a family of naturally occurring
+   phenols. Other laccases, such as those produced by the fungus
+   Pleurotus ostreatus, play a role in the degradation of lignin, and can
+   therefore be classed as lignin-modifying enzymes. Other laccases
+   produced by fungi can facilitate the biosynthesis of melanin pigments.
+    Laccases catalyze ring cleavage of aromatic compounds.
+   Laccase was first studied by Hikorokuro Yoshida in 1883 and then by
+   Gabriel Bertrand in 1894 in the sap of the Japanese lacquer
+   tree, where it helps to form lacquer, hence the name laccase.

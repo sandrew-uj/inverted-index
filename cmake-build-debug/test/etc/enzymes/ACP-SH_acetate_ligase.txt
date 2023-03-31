@@ -1,0 +1,11 @@
+   ACP-SH:acetate ligase (EC 6.2.1.35, HS-acyl-carrier protein:acetate
+   ligase, [acyl-carrier protein]:acetate ligase, MadH) is an enzyme with
+   systematic name acetate:(acyl-carrier-protein) ligase
+   (AMP-forming). This enzyme catalyses the following
+   chemical reaction
+          ATP + acetate + an [acyl-carrier protein]
+           AMP + diphosphate + an acetyl-[acyl-carrier
+          protein]
+   This enzyme, from the anaerobic bacterium Malonomonas rubra, is a
+   component of the multienzyme complex EC 4.1.1.89, biotin-dependent
+   malonate decarboxylase.

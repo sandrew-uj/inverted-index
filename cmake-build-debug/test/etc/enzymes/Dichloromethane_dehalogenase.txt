@@ -1,0 +1,4 @@
+   Dichloromethane dehalogenase (EC 4.5.1.3) is a lyase enzyme that
+   generates formaldehyde.
+          dichloromethane + H[2]O = formaldehyde + 2 chloride
+   Glutathione is required for its activity.

@@ -1,0 +1,83 @@
+   Chromosome 11 (human)
+   Genomic location for TYR
+   Genomic location for TYR
+   Band 11q14.3 Start 89,177,875 bp
+                 End  89,295,759 bp
+              Gene location (Mouse)
+   Chromosome 7 (mouse)
+   Chr. Chromosome 7 (mouse)
+   Chromosome 7 (mouse)
+   Genomic location for TYR
+   Genomic location for TYR
+   Band 7 D3|7 49.01 cM Start 87,424,771 bp
+                         End  87,493,512 bp
+      RNA expression pattern
+   PBB GE TYR 206630 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o metal ion binding
+   o copper ion binding
+   o monooxygenase activity
+   o protein homodimerization activity
+   o oxidoreductase activity
+   o protein heterodimerization activity
+   o GO:0001948 protein binding
+   o Polyphenol oxidase
+   o monophenol monooxygenase activity
+   Cellular component o cytoplasm
+   o integral component of membrane
+   o cytosol
+   o nucleus
+   o membrane
+   o perinuclear region of cytoplasm
+   o lysosome
+   o melanosome membrane
+   o Golgi-associated vesicle
+   o melanosome
+   o intracellular membrane-bounded organelle
+   Biological process o response to UV
+   o response to cAMP
+   o metabolism
+   o melanin biosynthetic process from tyrosine
+   o response to vitamin D
+   o pigmentation
+   o thymus development
+   o eye pigment biosynthetic process
+   o cell population proliferation
+   o visual perception
+   o melanin biosynthetic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   7299
+   22173
+   Ensembl
+   ENSG00000077498
+   ENSMUSG00000004651
+   UniProt
+   P14679
+   P11344
+   RefSeq (mRNA)
+   NM_000372
+   NM_011661
+   NM_001317397
+   RefSeq (protein)
+   NP_000363
+   NP_001304326
+   NP_035791
+   Location (UCSC) Chr 11: 89.18 - 89.3 Mb Chr 7: 87.42 - 87.49 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Tyrosinase is an oxidase that is the rate-limiting enzyme for
+   controlling the production of melanin. The enzyme is mainly involved in
+   two distinct reactions of melanin synthesis otherwise known as the
+   Raper Mason pathway. Firstly, the hydroxylation of a monophenol and
+   secondly, the conversion of an o-diphenol to the corresponding
+   o-quinone. o-Quinone undergoes several reactions to eventually form
+   melanin. Tyrosinase is a copper-containing enzyme present in plant
+   and animal tissues that catalyzes the production of melanin and other
+   pigments from tyrosine by oxidation. It is found inside melanosomes
+   which are synthesized in the skin melanocytes. In humans, the
+   tyrosinase enzyme is encoded by the TYR gene.

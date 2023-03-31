@@ -1,0 +1,2 @@
+               o 1.1.1 Sense: set amount of travelling
+Sense: set amount of travelling

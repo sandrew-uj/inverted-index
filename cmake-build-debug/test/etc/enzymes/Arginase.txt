@@ -1,0 +1,5 @@
+   Arginase (EC 3.5.3.1, arginine amidinase, canavanase, L-arginase,
+   arginine transamidinase) is a manganese-containing enzyme. The reaction
+   catalyzed by this enzyme is: arginine + H[2]O -> ornithine + urea. It
+   is the final enzyme of the urea cycle. It is ubiquitous to all domains
+   of life.

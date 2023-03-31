@@ -1,0 +1,24 @@
+    Matrix metalloproteinase
+          Identifiers
+     Symbol   MMP
+   Pfam clan  CL0126
+    InterPro  IPR021190
+   Membranome 317
+   Matrix metalloproteinases (MMPs), also known as matrix
+   metallopeptidases or matrixins, are metalloproteinases that are
+   calcium-dependent zinc-containing endopeptidases; other family
+   members are adamalysins, serralysins, and astacins. The MMPs belong to
+   a larger family of proteases known as the metzincin superfamily.
+   Collectively, these enzymes are capable of degrading all kinds of
+   extracellular matrix proteins, but also can process a number of
+   bioactive molecules. They are known to be involved in the cleavage of
+   cell surface receptors, the release of apoptotic ligands (such as the
+   FAS ligand), and chemokine/cytokine inactivation. MMPs are also
+   thought to play a major role in cell behaviors such as cell
+   proliferation, migration (adhesion/dispersion), differentiation,
+   angiogenesis, apoptosis, and host defense.
+   They were first described in vertebrates (1962), including humans,
+   but have since been found in invertebrates and plants. They are
+   distinguished from other endopeptidases by their dependence on metal
+   ions as cofactors, their ability to degrade extracellular matrix, and
+   their specific evolutionary DNA sequence.

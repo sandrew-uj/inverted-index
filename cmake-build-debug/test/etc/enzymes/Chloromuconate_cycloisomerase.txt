@@ -1,0 +1,13 @@
+   In enzymology, a chloromuconate cycloisomerase (EC 5.5.1.7) is an
+   enzyme that catalyzes the chemical reaction
+          2-chloro-2,5-dihydro-5-oxofuran-2-acetate
+           3-chloro-cis,cis-muconate
+   Hence, this enzyme has one substrate,
+   2-chloro-2,5-dihydro-5-oxofuran-2-acetate, and one product,
+   3-chloro-cis,cis-muconate.
+   This enzyme belongs to the family of isomerases, specifically the class
+   of intramolecular lyases. The systematic name of this enzyme class is
+   2-chloro-2,5-dihydro-5-oxofuran-2-acetate lyase (decyclizing). This
+   enzyme is also called muconate cycloisomerase II. This enzyme
+   participates in gamma-hexachlorocyclohexane degradation and
+   1,4-dichlorobenzene degradation. It employs one cofactor, manganese.

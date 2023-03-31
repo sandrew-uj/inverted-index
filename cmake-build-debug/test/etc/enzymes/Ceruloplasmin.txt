@@ -1,0 +1,82 @@
+   1KCW, 2J5W, 4EJX, 4ENZ
+   Identifiers
+   Aliases CP, CP-2, ceruloplasmin (ferroxidase), Ceruloplasmin
+   External IDs OMIM: 117700 MGI: 88476 HomoloGene: 75 GeneCards: CP
+   EC number 1.16.3.1
+            Gene location (Human)
+   Chromosome 3 (human)
+   Chr. Chromosome 3 (human)
+   Chromosome 3 (human)
+   Genomic location for CP
+   Genomic location for CP
+   Band 3q24-q25.1 Start 149,162,410 bp
+                    End  149,221,829 bp
+         Gene location (Mouse)
+   Chromosome 3 (mouse)
+   Chr. Chromosome 3 (mouse)
+   Chromosome 3 (mouse)
+   Genomic location for CP
+   Genomic location for CP
+   Band 3|3 A2 Start 19,957,054 bp
+                End  20,009,145 bp
+      RNA expression pattern
+   PBB GE CP 204846 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o chaperone binding
+   o metal ion binding
+   o ferroxidase activity
+   o oxidoreductase activity
+   o copper ion binding
+   o oxidoreductase activity, acting on metal ions
+   Cellular component o blood microparticle
+   o extracellular region
+   o lysosomal membrane
+   o extracellular exosome
+   o extracellular space
+   o endoplasmic reticulum lumen
+   o cell membrane
+   Biological process o ion transport
+   o copper ion transport
+   o cellular iron ion homeostasis
+   o post-translational protein modification
+   o cellular protein metabolic process
+   o transport
+   o iron ion transport
+   o iron ion homeostasis
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1356
+   12870
+   Ensembl
+   ENSG00000047457
+   ENSMUSG00000003617
+   UniProt
+   P00450
+   Q61147
+   RefSeq (mRNA)
+   NM_000096
+   NM_001042611
+   NM_001276248
+   NM_001276250
+   NM_007752
+   NM_001374677
+   RefSeq (protein)
+   NP_000087
+   NP_001263177
+   NP_001263179
+   NP_031778
+   NP_001361606
+   Location (UCSC) Chr 3: 149.16 - 149.22 Mb Chr 3: 19.96 - 20.01 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Ceruloplasmin (or caeruloplasmin) is a ferroxidase enzyme that in
+   humans is encoded by the CP gene.
+   Ceruloplasmin is the major copper-carrying protein in the blood, and in
+   addition plays a role in iron metabolism. It was first described in
+   1948. Another protein, hephaestin, is noted for its homology to
+   ceruloplasmin, and also participates in iron and probably copper
+   metabolism.

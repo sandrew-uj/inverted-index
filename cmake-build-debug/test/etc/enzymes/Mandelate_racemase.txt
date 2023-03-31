@@ -1,0 +1,7 @@
+   Mandelate racemase (EC 5.1.2.2) is a bacterial enzyme which catalyzes
+   the interconversion of the enantiomers of mandelate via an enol
+   intermediate. This enzyme catalyses the following chemical reaction
+          (S)-mandelate
+           (R)-mandelate
+   It is a member of the enolase superfamily of enzymes, along with
+   muconate lactonizing enzyme and enolase.

@@ -1,0 +1,18 @@
+   DnaB helicase is an enzyme in bacteria which opens the replication fork
+   during DNA replication. Although the mechanism by which DnaB both
+   couples ATP hydrolysis to translocation along DNA and denatures the
+   duplex is unknown, a change in the quaternary structure of the protein
+   involving dimerisation of the N-terminal domain has been observed and
+   may occur during the enzymatic cycle. Initially when DnaB binds to
+   dnaA, it is associated with dnaC, a negative regulator. After DnaC
+   dissociates, DnaB binds dnaG.
+   The N-terminal has a multi-helical structure that forms an orthogonal
+   bundle. The C-terminal domain contains an ATP-binding site and is
+   therefore probably the site of ATP hydrolysis.
+   In eukaryotes, helicase function is provided by the MCM (Minichromosome
+   maintenance) complex.
+   The DnaB helicase is the product of the dnaB gene. The helicase enzyme
+   that is produced is a hexamer in E. coli, as well as in many other
+   bacteria. The energy for DnaB activity is provided by NTP hydrolysis.
+   Mechanical energy moves the DnaB into the replication fork, physically
+   splitting it in half.

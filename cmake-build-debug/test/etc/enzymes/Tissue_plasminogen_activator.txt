@@ -1,0 +1,92 @@
+   1A5H, 1BDA, 1PK2, 1PML, 1RTF, 1TPG, 1TPK, 1TPM, 1TPN, 5BRR
+   Identifiers
+   Aliases PLAT, T-PA, TPA, plasminogen activator, tissue type
+   External IDs OMIM: 173370 MGI: 97610 HomoloGene: 717 GeneCards: PLAT
+          Gene location (Human)
+   Chromosome 8 (human)
+   Chr. Chromosome 8 (human)
+   Chromosome 8 (human)
+   Genomic location for PLAT
+   Genomic location for PLAT
+   Band 8p11.21 Start 42,174,718 bp
+                 End  42,207,709 bp
+              Gene location (Mouse)
+   Chromosome 8 (mouse)
+   Chr. Chromosome 8 (mouse)
+   Chromosome 8 (mouse)
+   Genomic location for PLAT
+   Genomic location for PLAT
+   Band 8 A2|8 11.42 cM Start 22,757,727 bp
+                         End  22,782,844 bp
+       RNA expression pattern
+   PBB GE PLAT 201860 s at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o peptidase activity
+   o phosphoprotein binding
+   o serine-type peptidase activity
+   o serine-type endopeptidase activity
+   o signaling receptor binding
+   o hydrolase activity
+   o GO:0001948 protein binding
+   Cellular component o cytoplasm
+   o GO:0005578 extracellular matrix
+   o apical part of cell
+   o secretory granule
+   o extracellular region
+   o cell surface
+   o extracellular exosome
+   o extracellular space
+   o collagen-containing extracellular matrix
+   o Schaffer collateral - CA1 synapse
+   o glutamatergic synapse
+   Biological process o negative regulation of proteolysis
+   o response to hypoxia
+   o fibrinolysis
+   o blood coagulation
+   o smooth muscle cell migration
+   o proteolysis
+   o cellular protein modification process
+   o platelet-derived growth factor receptor signaling pathway
+   o plasminogen activation
+   o trans-synaptic signaling by BDNF, modulating synaptic transmission
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   5327
+   18791
+   Ensembl
+   ENSG00000104368
+   ENSMUSG00000031538
+   UniProt
+   P00750
+   P11214
+   RefSeq (mRNA)
+   NM_033011
+   NM_000930
+   NM_000931
+   NM_001319189
+   NM_008872
+   RefSeq (protein)
+   NP_000921
+   NP_001306118
+   NP_127509
+   NP_032898
+   Location (UCSC) Chr 8: 42.17 - 42.21 Mb Chr 8: 22.76 - 22.78 Mb
+   PubMed search  
+   Wikidata
+   View/Edit Human View/Edit Mouse
+   Tissue plasminogen activator (abbreviated tPA or PLAT) is a protein
+   involved in the breakdown of blood clots. It is a serine protease (EC
+   3.4.21.68) found on endothelial cells, the cells that line the blood
+   vessels. As an enzyme, it catalyzes the conversion of plasminogen to
+   plasmin, the major enzyme responsible for clot breakdown. Human tPA has
+   a molecular weight of ~70 kDa in the single-chain form.
+   tPA can be manufactured using recombinant biotechnology techniques; tPA
+   produced by such means are referred to as recombinant tissue
+   plasminogen activator (rtPA). Specific rtPAs include alteplase,
+   reteplase, and tenecteplase. They are used in clinical medicine to
+   treat embolic or thrombotic stroke. The use of this protein is
+   contraindicated in hemorrhagic stroke and head trauma. The antidote for
+   tPA in case of toxicity is aminocaproic acid.

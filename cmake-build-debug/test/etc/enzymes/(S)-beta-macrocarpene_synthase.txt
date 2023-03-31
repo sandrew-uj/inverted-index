@@ -1,0 +1,7 @@
+   (S)-beta-macrocarpene synthase (EC 5.5.1.17, TPS6, TPS11) is an enzyme
+   with systematic name (S)-beta-macrocarpene lyase (decyclizing).
+   This enzyme catalyses the following chemical reaction
+          (S)-beta-bisabolene
+           (S)-beta-macrocarpene
+   The synthesis of (S)-beta-macrocarpene from (2E,6E)-farnesyl
+   diphosphate proceeds in two steps.

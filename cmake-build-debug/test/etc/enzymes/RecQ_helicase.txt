@@ -1,0 +1,7 @@
+   RecQ helicase is a family of helicase enzymes initially found in
+   Escherichia coli that has been shown to be important in genome
+   maintenance. They function through catalyzing the reaction
+   ATP + H[2]O -> ADP + P and thus driving the unwinding of paired DNA and
+   translocating in the 3' to 5' direction. These enzymes can also drive
+   the reaction NTP + H[2]O -> NDP + P to drive the unwinding of either
+   DNA or RNA.

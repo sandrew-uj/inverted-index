@@ -1,0 +1,115 @@
+   2F9Q, 3QM4, 3TBG, 3TDA, 4WNT, 4WNU, 4WNV, 4WNW, 4XRY, 4XRZ
+   Identifiers
+   Aliases CYP2D6, CPD6, CYP2D, CYP2D7AP, CYP2D7BP, CYP2D7P2, CYP2D8P2,
+   CYP2DL1, CYPIID6, P450-DB1, P450C2D, P450DB1, cytochrome P450 family 2
+   subfamily D member 6, Cytochrome P450 2D6
+   External IDs OMIM: 124030 HomoloGene: 133550 GeneCards: CYP2D6
+          Gene location (Human)
+   Chromosome 22 (human)
+   Chr. Chromosome 22 (human)
+   Chromosome 22 (human)
+   Genomic location for CYP2D6
+   Genomic location for CYP2D6
+   Band 22q13.2 Start 42,126,499 bp
+                 End  42,130,865 bp
+       RNA expression pattern
+   PBB GE CYP2D6 207498 s at fs.png
+   PBB GE CYP2D6 215809 at fs.png
+   More reference expression data
+   Gene ontology
+   Molecular function o iron ion binding
+   o metal ion binding
+   o heme binding
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen
+   o drug binding
+   o oxidoreductase activity
+   o aromatase activity
+   o oxidoreductase activity, acting on paired donors, with incorporation
+   or reduction of molecular oxygen, reduced flavin or flavoprotein as one
+   donor, and incorporation of one atom of oxygen
+   o steroid hydroxylase activity
+   o monooxygenase activity
+   Cellular component o organelle membrane
+   o endoplasmic reticulum membrane
+   o membrane
+   o intracellular membrane-bounded organelle
+   o endoplasmic reticulum
+   o mitochondrion
+   o cytoplasm
+   Biological process o steroid metabolic process
+   o alkaloid metabolic process
+   o coumarin metabolic process
+   o lipid metabolism
+   o isoquinoline alkaloid metabolic process
+   o alkaloid catabolic process
+   o oxidative demethylation
+   o drug catabolic process
+   o heterocycle metabolic process
+   o negative regulation of binding
+   o drug metabolic process
+   o monoterpenoid metabolic process
+   o xenobiotic metabolic process
+   o arachidonic acid metabolic process
+   o negative regulation of cellular organofluorine metabolic process
+   o long-chain fatty acid biosynthetic process
+   o organic acid metabolic process
+   o exogenous drug catabolic process
+   Sources:Amigo / QuickGO
+   Orthologs
+   Species Human Mouse
+   Entrez
+   1565
+   n/a
+   Ensembl
+   ENSG00000100197
+   ENSG00000275211
+   ENSG00000280905
+   ENSG00000282966
+   ENSG00000283284
+   ENSG00000272532
+   n/a
+   UniProt
+   P10635
+   n/a
+   RefSeq (mRNA)
+   NM_000106
+   NM_001025161
+   n/a
+   RefSeq (protein)
+   NP_000097
+   NP_001020332
+   n/a
+   Location (UCSC) Chr 22: 42.13 - 42.13 Mb n/a
+   PubMed search  n/a
+   Wikidata
+                    View/Edit Human
+   Cytochrome P450 2D6 (CYP2D6) is an enzyme that in humans is encoded by
+   the CYP2D6 gene. CYP2D6 is primarily expressed in the liver. It is also
+   highly expressed in areas of the central nervous system, including the
+   substantia nigra.
+   CYP2D6, a member of the cytochrome P450 mixed-function oxidase system,
+   is one of the most important enzymes involved in the metabolism of
+   xenobiotics in the body. In particular, CYP2D6 is responsible for the
+   metabolism and elimination of approximately 25% of clinically used
+   drugs, via the addition or removal of certain functional groups -
+   specifically, hydroxylation, demethylation, and dealkylation.
+   CYP2D6 also activates some prodrugs. This enzyme also metabolizes
+   several endogenous substances, such as hydroxytryptamines,
+   neurosteroids, and both m-tyramine and p-tyramine which CYP2D6
+   metabolizes into dopamine in the brain and liver.
+   Considerable variation exists in the efficiency and amount of CYP2D6
+   enzyme produced between individuals. Hence, for drugs that are
+   metabolized by CYP2D6 (that is, are CYP2D6 substrates), certain
+   individuals will eliminate these drugs quickly (ultrarapid
+   metabolizers) while others slowly (poor metabolizers). If a drug is
+   metabolized too quickly, it may decrease the drug's efficacy while if
+   the drug is metabolized too slowly, toxicity may result. So, the
+   dose of the drug may have to be adjusted to take into account of the
+   speed at which it is metabolized by CYP2D6.
+   Other drugs may function as inhibitors of CYP2D6 activity or inducers
+   of CYP2D6 enzyme expression that will lead to decreased or increased
+   CYP2D6 activity respectively. If such a drug is taken at the same time
+   as a second drug that is a CYP2D6 substrate, the first drug may affect
+   the elimination rate of the second through what is known as a drug-drug
+   interaction.

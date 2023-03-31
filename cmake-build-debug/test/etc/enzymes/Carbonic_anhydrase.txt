@@ -1,0 +1,70 @@
+   Carbonate dehydratase
+   Carbonic anhydrase.png
+   Ribbon diagram of human carbonic anhydrase II, with zinc ion visible in
+   the center
+   Identifiers
+   EC no. 4.2.1.1
+   CAS no. 9001-03-0
+   Databases
+   IntEnz IntEnz view
+   BRENDA BRENDA entry
+   ExPASy NiceZyme view
+   KEGG KEGG entry
+   MetaCyc metabolic pathway
+   PRIAM profile
+   PDB structures RCSB PDB PDBe PDBsum
+   Gene Ontology AmiGO / QuickGO
+       Search
+    PMC   articles
+   PubMed articles
+    NCBI  proteins
+   Eukaryotic-type carbonic anhydrase
+   Identifiers
+   Symbol Carb_anhydrase
+   Pfam PF00194
+   InterPro IPR001148
+   PROSITE PDOC00146
+   SCOP2 1can / SCOPe / SUPFAM
+   Membranome 333
+   Available protein structures:
+   Pfam   structures / ECOD
+    PDB   RCSB PDB; PDBe; PDBj
+   PDBsum structure summary
+   The carbonic anhydrases (or carbonate dehydratases) form a family of
+   enzymes that catalyze the interconversion between carbon dioxide and
+   water and the dissociated ions of carbonic acid (i.e. bicarbonate and
+   hydrogen ions). The active site of most carbonic anhydrases
+   contains a zinc ion. They are therefore classified as metalloenzymes.
+   The enzyme maintains acid-base balance and helps transport carbon
+   dioxide.
+   Carbonic anhydrase helps maintain acid-base homeostasis, regulate pH,
+   and fluid balance. Depending on its location, the role of the enzyme
+   changes slightly. For example, carbonic anhydrase produces acid in the
+   stomach lining. In the kidney, the control of bicarbonate ions
+   influences the water content of the cell. The control of bicarbonate
+   ions also influences the water content in the eyes. Inhibitors of
+   carbonic anhydrase are used to treat glaucoma, the excessive build up
+   of water in the eyes. Blocking this enzyme shifts the fluid balance in
+   the eyes of the patient to reduce fluid build up thereby relieving
+   pressure.
+   The Bohr Effect is a way to describe hemoglobin's oxygen binding
+   affinity. The Bohr Effect was described by Christian Bohr in the year
+   1904, and it refers to a shift in an oxygen dissociation curve that is
+   caused by a change in concentration of carbon dioxide or a change in
+   the pH. Essentially an increase in carbon dioxide results in lowered
+   blood pH which lowers oxygen-hemoglobin binding. The opposite is
+   true where a decrease in the concentration of carbon dioxide raises the
+   blood pH which raises the rate of oxygen-hemoglobin binding. Relating
+   the Bohr Effect to carbonic anhydrase is simple: carbonic anhydrase
+   speeds up the reaction of carbon dioxide reacting with water to produce
+   hydrogen ions (protons) and bicarbonate ions.
+   To describe equilibrium in the carbonic anhydrase reaction, Le
+   Chatelier's principle is used. The tissues are more acidic than the
+   lungs because carbon dioxide is produced by cellular respiration and it
+   reacts with water in the tissues to produce the hydrogen protons.
+   Because the carbon dioxide concentration is higher, equilibrium shifts
+   to the right, to the bicarbonate side. The opposite is seen in the
+   lungs where carbon dioxide is being released so its concentration is
+   lower so equilibrium shifts to the left towards carbon dioxide to try
+   and raise its concentration.
+   This image shows the cyclic mechanism for carbonic anhydrase.

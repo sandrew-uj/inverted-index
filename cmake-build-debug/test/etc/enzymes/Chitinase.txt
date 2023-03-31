@@ -1,0 +1,10 @@
+   Chitinases (chitodextrinase, 1,4-beta-poly-N-acetylglucosaminidase,
+   poly-beta-glucosaminidase, beta-1,4-poly-N-acetyl glucosamidinase,
+   poly[1,4-(N-acetyl-beta-D-glucosaminide)] glycanohydrolase,
+   (1->4)-2-acetamido-2-deoxy-beta-D-glucan glycanohydrolase) are
+   hydrolytic enzymes that break down glycosidic bonds in chitin.
+   As chitin is a component of the cell walls of fungi and exoskeletal
+   elements of some animals (including mollusks and arthropods),
+   chitinases are generally found in organisms that either need to reshape
+   their own chitin or dissolve and digest the chitin of fungi or
+   animals.

@@ -1,0 +1,11 @@
+   Isopenicillin N synthase (IPNS) is a non-heme iron protein belongig to
+   the 2-oxoglutarate (2OG)-dependent dioxygenases oxidoreductase family.
+   This enzyme catalyzes the formation of isopenicillin N from
+   d-(L-a-aminoadipoyl)-L-cysteinyl-D-valine (LLD-ACV).
+          N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine + O[2]
+           isopenicillin N + 2 H[2]O
+   This reaction is a key step in the biosynthesis of penicillin and
+   cephalosporin antibiotics.
+   The active sites of most isopenicillin N synthases contain an iron
+   ion.
+   This enzyme is also called isopenicillin N synthetase.
